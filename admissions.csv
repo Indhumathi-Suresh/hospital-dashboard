@@ -1,0 +1,1001 @@
+admission_id,patient_id,doctor_id,department,diagnosis_category,branch,admission_datetime,discharge_datetime,length_of_stay_days,emergency_flag,bed_occupancy_rate_pct,doctor_utilization_pct,readmitted_30_days,outcome
+50001,10242,2097,General Medicine,General Medicine,Mumbai,26-03-2024 19:00,27-03-2024 19:00,1,No,94.13,44.54,No,Recovered
+50002,10090,2046,Oncology,Cancer,Mumbai,12-04-2024 01:00,18-04-2024 01:00,6,No,60.01,49.21,Yes,Improved
+50003,10009,2006,Orthopedics,Fracture,Delhi,12-11-2024 02:00,23-11-2024 02:00,11,Yes,77.06,79,No,Recovered
+50004,10111,2007,Oncology,Cancer,Bangalore,13-12-2024 19:00,27-12-2024 19:00,14,No,77.38,84.95,No,Deceased
+50005,10014,2075,Orthopedics,Orthopedic Injury,Mumbai,06-05-2024 08:00,18-05-2024 08:00,12,Yes,62.36,48.77,No,Recovered
+50006,10356,2045,Oncology,Cancer,Chennai,26-05-2024 22:00,09-06-2024 22:00,14,No,71.68,42.4,No,Deceased
+50007,10352,2056,General Medicine,General Medicine,Delhi,29-07-2024 21:00,03-08-2024 21:00,5,No,54.08,62.18,No,Recovered
+50008,10332,2049,General Medicine,General Medicine,Mumbai,25-07-2024 00:00,01-08-2024 00:00,7,No,70.8,86.54,No,Recovered
+50009,10152,2050,Pediatrics,Pediatric Infection,Delhi,29-12-2024 19:00,10-01-2025 19:00,12,No,79.4,41.62,No,Improved
+50010,10295,2042,Pediatrics,Pediatric Infection,Bangalore,06-03-2024 14:00,08-03-2024 14:00,2,No,95.62,51.59,No,Improved
+50011,10520,2100,Emergency,Acute Condition,Chennai,12-08-2024 02:00,22-08-2024 02:00,10,No,81.63,60.51,No,Recovered
+50012,10553,2062,Emergency,Acute Condition,Mumbai,20-11-2024 05:00,03-12-2024 05:00,13,No,72.27,68.31,No,Transferred
+50013,10028,2066,Oncology,Tumor,Bangalore,18-08-2024 05:00,19-08-2024 05:00,1,No,66.26,82.54,Yes,Improved
+50014,10270,2080,Emergency,Acute Condition,Mumbai,29-10-2024 10:00,08-11-2024 10:00,10,No,83.47,48.02,No,Recovered
+50015,10284,2107,Orthopedics,Orthopedic Injury,Delhi,01-01-2024 21:00,05-01-2024 21:00,4,Yes,76.68,83,No,Recovered
+50016,10251,2061,Pediatrics,Congenital,Chennai,25-07-2024 05:00,06-08-2024 05:00,12,Yes,52.85,69.21,No,Recovered
+50017,10198,2101,Emergency,Trauma,Delhi,01-01-2024 22:00,04-01-2024 22:00,3,Yes,55.17,72.16,No,Recovered
+50018,10251,2043,Pediatrics,Congenital,Mumbai,29-06-2024 17:00,07-07-2024 17:00,8,No,81.96,87.74,No,Recovered
+50019,10294,2084,Orthopedics,Orthopedic Injury,Bangalore,26-06-2024 22:00,08-07-2024 22:00,12,Yes,65.4,78.76,No,Recovered
+50020,10352,2102,Oncology,Cancer,Delhi,06-12-2024 00:00,13-12-2024 00:00,7,No,62.77,76.39,No,Recovered
+50021,10538,2008,Orthopedics,Fracture,Bangalore,23-04-2024 17:00,24-04-2024 17:00,1,No,51.52,91.2,No,Recovered
+50022,10053,2048,Cardiology,Heart Failure,Delhi,01-01-2024 18:00,15-01-2024 18:00,14,No,67.43,48.76,No,Recovered
+50023,10585,2117,Cardiology,Cardiac,Delhi,09-06-2024 08:00,18-06-2024 08:00,9,Yes,55.46,75.78,No,Recovered
+50024,10482,2082,Pediatrics,Pediatric Infection,Delhi,11-04-2024 18:00,17-04-2024 18:00,6,No,71.78,84.98,Yes,Recovered
+50025,10076,2071,General Medicine,General Medicine,Bangalore,29-03-2024 20:00,30-03-2024 20:00,1,No,69.43,64.68,No,Recovered
+50026,10267,2099,Cardiology,Hypertension,Chennai,17-10-2024 11:00,23-10-2024 11:00,6,No,80.97,65.49,No,Recovered
+50027,10454,2028,Oncology,Tumor,Delhi,23-11-2024 15:00,25-11-2024 15:00,2,No,55.45,48.19,No,Deceased
+50028,10343,2070,Pediatrics,Pediatric Infection,Mumbai,15-08-2024 14:00,26-08-2024 14:00,11,No,97.78,41,No,Recovered
+50029,10051,2015,Emergency,Acute Condition,Chennai,03-05-2024 14:00,12-05-2024 14:00,9,No,67.58,45.58,No,Recovered
+50030,10156,2035,Emergency,Trauma,Chennai,21-02-2024 13:00,03-03-2024 13:00,11,Yes,80.52,79.39,No,Recovered
+50031,10351,2108,Pediatrics,Congenital,Mumbai,30-03-2024 10:00,06-04-2024 10:00,7,No,59.23,56.24,No,Recovered
+50032,10084,2068,Emergency,Trauma,Mumbai,24-10-2024 23:00,28-10-2024 23:00,4,No,77.51,42.39,No,Recovered
+50033,10118,2021,Orthopedics,Orthopedic Injury,Mumbai,20-05-2024 22:00,26-05-2024 22:00,6,No,89.69,75.56,No,Recovered
+50034,10152,2080,Cardiology,Hypertension,Delhi,04-05-2024 09:00,12-05-2024 09:00,8,Yes,89.03,55.11,No,Recovered
+50035,10146,2019,Pediatrics,Congenital,Chennai,15-06-2024 09:00,24-06-2024 09:00,9,Yes,71.2,48.41,No,Transferred
+50036,10432,2037,Pediatrics,Pediatric Infection,Bangalore,13-08-2024 00:00,20-08-2024 00:00,7,Yes,60.31,75.09,No,Recovered
+50037,10263,2085,Emergency,Trauma,Mumbai,10-09-2024 01:00,13-09-2024 01:00,3,No,71.41,79.47,No,Improved
+50038,10218,2102,Pediatrics,Pediatric Infection,Mumbai,28-10-2024 18:00,01-11-2024 18:00,4,No,88.63,54.57,No,Improved
+50039,10070,2041,Pediatrics,Congenital,Bangalore,13-03-2024 07:00,14-03-2024 07:00,1,Yes,75.95,43.72,No,Recovered
+50040,10230,2072,Orthopedics,Fracture,Mumbai,08-06-2024 20:00,16-06-2024 20:00,8,No,61.54,65.13,No,Recovered
+50041,10209,2035,Oncology,Tumor,Mumbai,02-08-2024 11:00,04-08-2024 11:00,2,No,66.68,71.93,Yes,Recovered
+50042,10311,2080,Emergency,Acute Condition,Mumbai,28-11-2024 14:00,07-12-2024 14:00,9,Yes,72.52,81.59,No,Recovered
+50043,10542,2109,Pediatrics,Congenital,Bangalore,15-05-2024 19:00,18-05-2024 19:00,3,Yes,57.62,94.59,No,Improved
+50044,10406,2082,Pediatrics,Pediatric Infection,Chennai,16-11-2024 20:00,20-11-2024 20:00,4,No,56.39,85.43,No,Recovered
+50045,10114,2109,Oncology,Tumor,Mumbai,21-05-2024 03:00,22-05-2024 03:00,1,Yes,67.32,53.15,No,Recovered
+50046,10196,2082,Orthopedics,Fracture,Bangalore,28-06-2024 22:00,08-07-2024 22:00,10,Yes,89.31,71.6,No,Improved
+50047,10042,2038,Pediatrics,Congenital,Mumbai,12-01-2024 14:00,13-01-2024 14:00,1,No,83.72,69.29,No,Deceased
+50048,10526,2073,Orthopedics,Orthopedic Injury,Bangalore,01-12-2024 06:00,05-12-2024 06:00,4,No,58.68,78.22,No,Recovered
+50049,10253,2054,Pediatrics,Congenital,Delhi,12-09-2024 09:00,21-09-2024 09:00,9,No,74.35,73.34,No,Improved
+50050,10482,2008,Emergency,Trauma,Delhi,25-01-2024 12:00,30-01-2024 12:00,5,Yes,56.76,92.97,No,Recovered
+50051,10447,2006,Pediatrics,Pediatric Infection,Chennai,20-05-2024 13:00,24-05-2024 13:00,4,Yes,80.98,75.76,No,Recovered
+50052,10345,2002,Orthopedics,Orthopedic Injury,Mumbai,05-01-2024 18:00,07-01-2024 18:00,2,No,52.89,78.23,No,Recovered
+50053,10156,2062,Orthopedics,Fracture,Mumbai,08-04-2024 20:00,17-04-2024 20:00,9,Yes,84.61,43.43,No,Recovered
+50054,10221,2052,Cardiology,Cardiac,Chennai,10-04-2024 06:00,22-04-2024 06:00,12,No,71.3,47.19,No,Recovered
+50055,10155,2092,General Medicine,General Medicine,Mumbai,12-09-2024 02:00,19-09-2024 02:00,7,No,86.68,82.31,Yes,Recovered
+50056,10591,2021,Oncology,Tumor,Mumbai,02-03-2024 20:00,08-03-2024 20:00,6,No,59.48,74.04,No,Recovered
+50057,10338,2101,Oncology,Cancer,Delhi,29-08-2024 12:00,03-09-2024 12:00,5,Yes,68.57,54.62,No,Recovered
+50058,10510,2068,Emergency,Acute Condition,Mumbai,03-11-2024 22:00,08-11-2024 22:00,5,Yes,86.87,66.18,No,Recovered
+50059,10397,2113,Pediatrics,Congenital,Delhi,11-02-2024 20:00,21-02-2024 20:00,10,Yes,82.93,91.86,No,Improved
+50060,10232,2021,Emergency,Trauma,Chennai,06-04-2024 09:00,08-04-2024 09:00,2,No,82.97,89.23,No,Recovered
+50061,10467,2069,Cardiology,Cardiac,Chennai,08-12-2024 23:00,21-12-2024 23:00,13,No,72.16,42.63,Yes,Recovered
+50062,10483,2024,Orthopedics,Orthopedic Injury,Delhi,18-04-2024 18:00,26-04-2024 18:00,8,No,86.88,59.43,No,Improved
+50063,10540,2051,Orthopedics,Fracture,Bangalore,29-07-2024 06:00,01-08-2024 06:00,3,No,77.48,85.68,Yes,Improved
+50064,10337,2095,Oncology,Cancer,Chennai,07-02-2024 14:00,19-02-2024 14:00,12,No,81.23,61.01,No,Recovered
+50065,10169,2089,Cardiology,Hypertension,Mumbai,18-10-2024 03:00,01-11-2024 03:00,14,No,94.79,57.72,Yes,Recovered
+50066,10160,2095,Orthopedics,Orthopedic Injury,Chennai,14-09-2024 21:00,27-09-2024 21:00,13,No,82.82,47.05,No,Transferred
+50067,10488,2059,Oncology,Tumor,Mumbai,01-07-2024 08:00,10-07-2024 08:00,9,No,80.65,91.87,No,Improved
+50068,10113,2120,Emergency,Acute Condition,Delhi,20-06-2024 18:00,04-07-2024 18:00,14,Yes,90.8,87.38,No,Recovered
+50069,10302,2104,Cardiology,Heart Failure,Mumbai,18-01-2024 20:00,31-01-2024 20:00,13,No,82.81,49.76,No,Recovered
+50070,10466,2002,Orthopedics,Fracture,Delhi,10-12-2024 21:00,22-12-2024 21:00,12,No,54.59,93.08,No,Recovered
+50071,10353,2056,Pediatrics,Congenital,Bangalore,04-10-2024 10:00,09-10-2024 10:00,5,Yes,78.25,77.89,No,Recovered
+50072,10362,2058,Cardiology,Hypertension,Chennai,07-05-2024 04:00,15-05-2024 04:00,8,No,87.09,88.48,No,Recovered
+50073,10491,2089,Orthopedics,Orthopedic Injury,Mumbai,11-08-2024 09:00,13-08-2024 09:00,2,No,90.76,73.82,No,Recovered
+50074,10314,2054,Emergency,Acute Condition,Chennai,26-03-2024 09:00,05-04-2024 09:00,10,No,60.12,92.69,No,Recovered
+50075,10211,2101,Orthopedics,Fracture,Mumbai,30-08-2024 22:00,05-09-2024 22:00,6,Yes,72.43,79.71,No,Improved
+50076,10469,2054,Orthopedics,Fracture,Chennai,02-06-2024 04:00,08-06-2024 04:00,6,Yes,51.45,49.18,No,Recovered
+50077,10583,2004,Emergency,Acute Condition,Delhi,20-01-2024 16:00,27-01-2024 16:00,7,No,53.24,71.9,No,Recovered
+50078,10594,2019,Pediatrics,Congenital,Bangalore,10-09-2024 23:00,12-09-2024 23:00,2,Yes,66.11,75.01,Yes,Transferred
+50079,10019,2048,Emergency,Trauma,Delhi,16-03-2024 05:00,21-03-2024 05:00,5,Yes,66.41,63.87,Yes,Recovered
+50080,10118,2045,Pediatrics,Pediatric Infection,Delhi,22-04-2024 14:00,03-05-2024 14:00,11,No,81.81,83.21,Yes,Recovered
+50081,10075,2103,General Medicine,Respiratory,Delhi,16-02-2024 13:00,28-02-2024 13:00,12,No,60.15,71.11,No,Improved
+50082,10254,2118,Orthopedics,Fracture,Delhi,16-04-2024 16:00,30-04-2024 16:00,14,No,96.48,83.04,Yes,Recovered
+50083,10349,2064,Orthopedics,Orthopedic Injury,Delhi,28-10-2024 18:00,02-11-2024 18:00,5,No,71.76,91.55,No,Improved
+50084,10313,2100,Oncology,Cancer,Mumbai,16-09-2024 06:00,23-09-2024 06:00,7,Yes,61.26,47.22,No,Recovered
+50085,10408,2108,Pediatrics,Pediatric Infection,Mumbai,31-05-2024 03:00,05-06-2024 03:00,5,Yes,63.09,53.58,No,Recovered
+50086,10205,2070,Oncology,Cancer,Chennai,01-12-2024 15:00,07-12-2024 15:00,6,Yes,92.65,42.56,No,Transferred
+50087,10519,2070,Orthopedics,Orthopedic Injury,Bangalore,21-01-2024 03:00,23-01-2024 03:00,2,Yes,86.62,70.16,Yes,Recovered
+50088,10142,2057,Emergency,Acute Condition,Delhi,02-06-2024 11:00,10-06-2024 11:00,8,No,62.83,75.98,No,Recovered
+50089,10445,2041,Cardiology,Heart Failure,Delhi,10-12-2024 20:00,22-12-2024 20:00,12,Yes,61.27,53.8,No,Recovered
+50090,10573,2098,Cardiology,Cardiac,Chennai,21-03-2024 23:00,03-04-2024 23:00,13,No,53.38,78.93,No,Recovered
+50091,10517,2002,General Medicine,General Medicine,Mumbai,16-07-2024 01:00,17-07-2024 01:00,1,No,83.45,65.43,No,Improved
+50092,10344,2111,Emergency,Acute Condition,Chennai,15-06-2024 21:00,27-06-2024 21:00,12,Yes,67.8,93.79,No,Recovered
+50093,10532,2026,Cardiology,Cardiac,Bangalore,01-02-2024 06:00,06-02-2024 06:00,5,No,87.71,40.99,Yes,Recovered
+50094,10381,2105,General Medicine,General Medicine,Chennai,25-04-2024 13:00,06-05-2024 13:00,11,No,88.6,41.49,Yes,Recovered
+50095,10227,2006,General Medicine,Respiratory,Bangalore,13-02-2024 00:00,23-02-2024 00:00,10,No,91.11,60.92,No,Recovered
+50096,10586,2008,Orthopedics,Orthopedic Injury,Chennai,23-09-2024 23:00,05-10-2024 23:00,12,Yes,87.87,55.2,No,Improved
+50097,10104,2082,Cardiology,Heart Failure,Mumbai,16-02-2024 14:00,01-03-2024 14:00,14,No,77.89,49.13,No,Improved
+50098,10040,2102,Emergency,Trauma,Delhi,15-09-2024 17:00,26-09-2024 17:00,11,No,51.67,60,No,Recovered
+50099,10366,2118,Orthopedics,Orthopedic Injury,Bangalore,10-04-2024 03:00,24-04-2024 03:00,14,No,90.18,67.79,No,Recovered
+50100,10260,2028,Emergency,Trauma,Mumbai,21-01-2024 12:00,23-01-2024 12:00,2,No,82.81,47.14,No,Recovered
+50101,10382,2005,Orthopedics,Orthopedic Injury,Bangalore,18-12-2024 03:00,27-12-2024 03:00,9,Yes,92.91,85.05,No,Recovered
+50102,10395,2066,Orthopedics,Orthopedic Injury,Bangalore,29-02-2024 11:00,09-03-2024 11:00,9,No,65.7,53.99,No,Recovered
+50103,10156,2120,Pediatrics,Congenital,Mumbai,12-10-2024 15:00,17-10-2024 15:00,5,Yes,61.99,47.81,No,Recovered
+50104,10279,2048,Oncology,Cancer,Chennai,09-11-2024 10:00,18-11-2024 10:00,9,Yes,92.07,65.92,No,Recovered
+50105,10272,2034,Orthopedics,Fracture,Mumbai,15-10-2024 19:00,28-10-2024 19:00,13,Yes,50.19,77.49,No,Transferred
+50106,10191,2067,Pediatrics,Pediatric Infection,Chennai,03-05-2024 00:00,11-05-2024 00:00,8,No,60.78,59.82,Yes,Recovered
+50107,10460,2017,Cardiology,Hypertension,Bangalore,26-04-2024 20:00,10-05-2024 20:00,14,No,52.95,89.44,No,Recovered
+50108,10354,2120,General Medicine,Respiratory,Mumbai,07-09-2024 22:00,18-09-2024 22:00,11,No,93.23,70.07,No,Recovered
+50109,10281,2040,General Medicine,Respiratory,Chennai,29-11-2024 19:00,30-11-2024 19:00,1,Yes,98.31,47.01,No,Recovered
+50110,10173,2071,General Medicine,Respiratory,Mumbai,01-10-2024 08:00,13-10-2024 08:00,12,No,65.24,85.62,No,Recovered
+50111,10465,2030,Pediatrics,Pediatric Infection,Delhi,29-04-2024 05:00,04-05-2024 05:00,5,Yes,73.44,56.57,No,Recovered
+50112,10068,2092,Orthopedics,Orthopedic Injury,Chennai,29-11-2024 08:00,03-12-2024 08:00,4,No,66.52,58.72,No,Deceased
+50113,10268,2035,Emergency,Trauma,Bangalore,02-03-2024 16:00,16-03-2024 16:00,14,No,92.78,68.68,Yes,Recovered
+50114,10201,2061,Pediatrics,Congenital,Delhi,22-12-2024 02:00,03-01-2025 02:00,12,No,91.46,88.34,No,Improved
+50115,10332,2054,Emergency,Acute Condition,Chennai,08-12-2024 14:00,16-12-2024 14:00,8,No,56.88,58.74,No,Recovered
+50116,10550,2020,General Medicine,General Medicine,Delhi,19-08-2024 20:00,22-08-2024 20:00,3,No,61.87,68.18,Yes,Recovered
+50117,10492,2066,General Medicine,General Medicine,Chennai,16-03-2024 12:00,19-03-2024 12:00,3,No,87.18,67.84,No,Recovered
+50118,10573,2012,General Medicine,Respiratory,Mumbai,01-08-2024 17:00,02-08-2024 17:00,1,Yes,57,55.22,No,Recovered
+50119,10424,2014,Emergency,Trauma,Bangalore,18-04-2024 16:00,21-04-2024 16:00,3,No,73.71,72.5,No,Recovered
+50120,10136,2043,Cardiology,Cardiac,Chennai,28-10-2024 16:00,11-11-2024 16:00,14,Yes,66.94,84.14,No,Recovered
+50121,10382,2105,General Medicine,General Medicine,Delhi,15-04-2024 10:00,21-04-2024 10:00,6,No,64.23,85,No,Recovered
+50122,10397,2064,Orthopedics,Fracture,Bangalore,01-07-2024 08:00,08-07-2024 08:00,7,Yes,72.53,91.12,No,Recovered
+50123,10456,2061,Pediatrics,Congenital,Delhi,19-01-2024 11:00,27-01-2024 11:00,8,Yes,83.73,56.32,No,Improved
+50124,10153,2091,Pediatrics,Pediatric Infection,Mumbai,06-09-2024 04:00,14-09-2024 04:00,8,Yes,62.88,43.27,No,Recovered
+50125,10420,2082,Oncology,Cancer,Delhi,25-05-2024 01:00,29-05-2024 01:00,4,Yes,70.95,81.31,Yes,Recovered
+50126,10105,2074,Oncology,Cancer,Mumbai,30-08-2024 14:00,08-09-2024 14:00,9,No,79.93,67.62,Yes,Recovered
+50127,10454,2027,Cardiology,Heart Failure,Delhi,08-02-2024 02:00,12-02-2024 02:00,4,No,53.32,69.37,Yes,Recovered
+50128,10311,2045,Cardiology,Hypertension,Bangalore,24-09-2024 02:00,05-10-2024 02:00,11,Yes,56.15,70.73,No,Recovered
+50129,10107,2018,Cardiology,Hypertension,Chennai,20-10-2024 20:00,26-10-2024 20:00,6,No,63.77,56.85,No,Recovered
+50130,10195,2028,Pediatrics,Pediatric Infection,Chennai,29-12-2024 01:00,01-01-2025 01:00,3,No,71.55,57.54,No,Improved
+50131,10380,2033,Oncology,Cancer,Chennai,08-11-2024 21:00,12-11-2024 21:00,4,Yes,58.34,63.68,Yes,Improved
+50132,10202,2060,Cardiology,Hypertension,Mumbai,11-07-2024 14:00,15-07-2024 14:00,4,No,67.03,43.94,No,Recovered
+50133,10440,2076,Cardiology,Hypertension,Mumbai,20-10-2024 04:00,28-10-2024 04:00,8,No,84.41,47.73,No,Improved
+50134,10155,2046,Orthopedics,Orthopedic Injury,Mumbai,07-03-2024 10:00,20-03-2024 10:00,13,No,70.71,61.75,No,Recovered
+50135,10122,2037,Emergency,Acute Condition,Mumbai,01-09-2024 09:00,06-09-2024 09:00,5,Yes,73.7,64.43,No,Improved
+50136,10431,2116,Cardiology,Cardiac,Delhi,11-10-2024 12:00,22-10-2024 12:00,11,Yes,67.02,69.78,No,Recovered
+50137,10379,2087,Cardiology,Heart Failure,Bangalore,10-06-2024 12:00,16-06-2024 12:00,6,Yes,91.34,79,No,Recovered
+50138,10359,2068,Emergency,Trauma,Bangalore,21-01-2024 11:00,01-02-2024 11:00,11,Yes,79.15,94.98,No,Recovered
+50139,10509,2017,Oncology,Tumor,Bangalore,18-05-2024 03:00,21-05-2024 03:00,3,No,81.17,71.32,No,Recovered
+50140,10517,2017,Emergency,Acute Condition,Delhi,06-12-2024 07:00,18-12-2024 07:00,12,No,61.39,93.02,No,Recovered
+50141,10246,2021,Orthopedics,Fracture,Mumbai,05-11-2024 12:00,17-11-2024 12:00,12,No,56.24,83.68,No,Transferred
+50142,10147,2026,General Medicine,Respiratory,Chennai,12-01-2024 05:00,13-01-2024 05:00,1,Yes,87.73,67.06,No,Recovered
+50143,10216,2023,Pediatrics,Congenital,Bangalore,11-04-2024 10:00,12-04-2024 10:00,1,No,95.94,59.92,No,Recovered
+50144,10365,2035,Emergency,Acute Condition,Chennai,06-08-2024 17:00,18-08-2024 17:00,12,No,52.97,40.17,No,Recovered
+50145,10575,2038,Cardiology,Hypertension,Bangalore,17-12-2024 07:00,20-12-2024 07:00,3,No,75.52,74.46,No,Improved
+50146,10566,2010,Oncology,Cancer,Mumbai,22-01-2024 21:00,02-02-2024 21:00,11,No,82.22,85.09,No,Transferred
+50147,10019,2114,Orthopedics,Orthopedic Injury,Chennai,02-07-2024 14:00,05-07-2024 14:00,3,No,54.49,40.13,Yes,Recovered
+50148,10549,2013,Pediatrics,Congenital,Chennai,25-01-2024 04:00,26-01-2024 04:00,1,No,91.1,84.51,No,Improved
+50149,10265,2034,Orthopedics,Orthopedic Injury,Mumbai,12-07-2024 07:00,19-07-2024 07:00,7,Yes,84.37,41.35,No,Improved
+50150,10290,2045,Orthopedics,Fracture,Delhi,06-07-2024 12:00,19-07-2024 12:00,13,Yes,93.45,77.5,Yes,Recovered
+50151,10188,2066,Oncology,Tumor,Mumbai,21-08-2024 15:00,27-08-2024 15:00,6,No,83.34,51.61,No,Improved
+50152,10567,2027,Orthopedics,Fracture,Mumbai,02-08-2024 13:00,10-08-2024 13:00,8,Yes,73.82,52.43,No,Recovered
+50153,10053,2019,Emergency,Acute Condition,Delhi,25-09-2024 20:00,28-09-2024 20:00,3,No,59.39,79.59,No,Recovered
+50154,10566,2052,Oncology,Tumor,Chennai,10-01-2024 03:00,18-01-2024 03:00,8,No,62.1,79.27,No,Recovered
+50155,10059,2087,General Medicine,Respiratory,Chennai,30-01-2024 03:00,12-02-2024 03:00,13,Yes,74.83,55.64,Yes,Recovered
+50156,10561,2079,Oncology,Tumor,Delhi,06-05-2024 10:00,15-05-2024 10:00,9,Yes,75.56,42.58,No,Recovered
+50157,10390,2069,General Medicine,Respiratory,Chennai,27-07-2024 22:00,04-08-2024 22:00,8,No,65.81,45.6,No,Recovered
+50158,10452,2100,Orthopedics,Orthopedic Injury,Mumbai,16-05-2024 01:00,28-05-2024 01:00,12,No,71.69,90.05,No,Improved
+50159,10471,2090,Pediatrics,Pediatric Infection,Delhi,27-06-2024 04:00,28-06-2024 04:00,1,Yes,81.64,78.71,Yes,Improved
+50160,10536,2108,Emergency,Acute Condition,Bangalore,22-08-2024 12:00,27-08-2024 12:00,5,No,85.13,56.39,Yes,Improved
+50161,10101,2118,Orthopedics,Fracture,Chennai,29-07-2024 11:00,03-08-2024 11:00,5,Yes,93.29,66.18,Yes,Recovered
+50162,10455,2105,General Medicine,Respiratory,Delhi,14-08-2024 11:00,23-08-2024 11:00,9,No,91.11,86.77,No,Recovered
+50163,10100,2109,Cardiology,Heart Failure,Bangalore,14-06-2024 10:00,20-06-2024 10:00,6,No,64.77,47.51,No,Recovered
+50164,10149,2028,Oncology,Tumor,Chennai,03-01-2024 05:00,15-01-2024 05:00,12,No,78.96,44.69,Yes,Improved
+50165,10054,2010,Emergency,Trauma,Delhi,08-11-2024 16:00,14-11-2024 16:00,6,Yes,91.77,40.81,No,Recovered
+50166,10138,2035,Oncology,Tumor,Delhi,02-12-2024 03:00,16-12-2024 03:00,14,No,66.51,89.83,No,Deceased
+50167,10188,2090,Emergency,Acute Condition,Mumbai,19-06-2024 03:00,29-06-2024 03:00,10,No,72.75,54.7,No,Improved
+50168,10502,2053,Pediatrics,Congenital,Mumbai,04-07-2024 11:00,15-07-2024 11:00,11,No,90.36,46.61,No,Recovered
+50169,10519,2116,Emergency,Acute Condition,Delhi,01-06-2024 00:00,08-06-2024 00:00,7,Yes,50.07,56.49,No,Recovered
+50170,10160,2075,Pediatrics,Pediatric Infection,Chennai,20-04-2024 18:00,29-04-2024 18:00,9,No,89.02,65.19,No,Recovered
+50171,10489,2029,Pediatrics,Congenital,Mumbai,13-04-2024 02:00,26-04-2024 02:00,13,No,73.67,43.28,No,Recovered
+50172,10434,2075,Pediatrics,Congenital,Bangalore,30-03-2024 07:00,08-04-2024 07:00,9,No,88.85,51.27,No,Recovered
+50173,10301,2083,Oncology,Tumor,Bangalore,26-01-2024 09:00,06-02-2024 09:00,11,No,76.36,89.85,No,Improved
+50174,10102,2088,Orthopedics,Orthopedic Injury,Mumbai,16-11-2024 16:00,20-11-2024 16:00,4,No,94.51,78.92,Yes,Recovered
+50175,10361,2075,Cardiology,Cardiac,Chennai,05-01-2024 19:00,09-01-2024 19:00,4,Yes,97.9,69.13,No,Improved
+50176,10453,2006,Emergency,Acute Condition,Mumbai,01-05-2024 20:00,15-05-2024 20:00,14,No,88.04,70.08,No,Improved
+50177,10520,2044,General Medicine,Respiratory,Delhi,03-01-2024 05:00,16-01-2024 05:00,13,Yes,92.18,93.97,No,Recovered
+50178,10272,2068,Orthopedics,Fracture,Bangalore,16-12-2024 11:00,22-12-2024 11:00,6,No,70.33,92.42,No,Recovered
+50179,10274,2019,Pediatrics,Congenital,Bangalore,18-05-2024 04:00,27-05-2024 04:00,9,Yes,81.12,93.96,No,Improved
+50180,10245,2080,Orthopedics,Orthopedic Injury,Mumbai,11-10-2024 01:00,12-10-2024 01:00,1,No,69.64,86.98,No,Recovered
+50181,10039,2081,Pediatrics,Pediatric Infection,Bangalore,03-04-2024 00:00,14-04-2024 00:00,11,No,88.18,87.04,No,Recovered
+50182,10512,2028,Emergency,Trauma,Mumbai,14-03-2024 03:00,19-03-2024 03:00,5,No,52.3,84.44,No,Recovered
+50183,10349,2067,Orthopedics,Fracture,Chennai,04-10-2024 04:00,15-10-2024 04:00,11,No,55.93,55.89,No,Recovered
+50184,10327,2113,Orthopedics,Orthopedic Injury,Bangalore,03-02-2024 18:00,04-02-2024 18:00,1,Yes,87.71,90.51,No,Recovered
+50185,10274,2045,Orthopedics,Fracture,Chennai,11-12-2024 13:00,12-12-2024 13:00,1,Yes,78.69,62.86,No,Improved
+50186,10266,2059,Cardiology,Heart Failure,Bangalore,27-02-2024 12:00,02-03-2024 12:00,4,No,61.43,92.6,Yes,Recovered
+50187,10256,2011,Emergency,Acute Condition,Chennai,08-08-2024 03:00,13-08-2024 03:00,5,No,75.83,81.73,No,Recovered
+50188,10327,2026,Pediatrics,Pediatric Infection,Chennai,17-07-2024 14:00,24-07-2024 14:00,7,No,88.16,85.27,No,Transferred
+50189,10553,2112,Oncology,Tumor,Bangalore,25-04-2024 12:00,08-05-2024 12:00,13,No,51.64,74.98,No,Recovered
+50190,10367,2024,Oncology,Cancer,Bangalore,27-09-2024 02:00,02-10-2024 02:00,5,No,66.61,78.15,No,Recovered
+50191,10433,2087,Oncology,Tumor,Delhi,04-01-2024 02:00,06-01-2024 02:00,2,Yes,71.26,42.07,Yes,Improved
+50192,10357,2057,General Medicine,Respiratory,Mumbai,17-06-2024 21:00,23-06-2024 21:00,6,Yes,60.18,40.55,No,Improved
+50193,10038,2115,Orthopedics,Orthopedic Injury,Bangalore,07-12-2024 14:00,11-12-2024 14:00,4,No,70.8,81.75,No,Recovered
+50194,10112,2027,General Medicine,General Medicine,Bangalore,08-07-2024 04:00,17-07-2024 04:00,9,Yes,68.55,89.61,No,Transferred
+50195,10272,2059,General Medicine,Respiratory,Bangalore,31-07-2024 21:00,05-08-2024 21:00,5,No,85.47,49.2,No,Transferred
+50196,10505,2017,Cardiology,Hypertension,Chennai,18-05-2024 09:00,24-05-2024 09:00,6,No,81.61,47.15,No,Recovered
+50197,10081,2105,Cardiology,Cardiac,Bangalore,16-11-2024 18:00,20-11-2024 18:00,4,No,84.86,79.29,No,Recovered
+50198,10477,2073,Cardiology,Hypertension,Delhi,15-06-2024 16:00,17-06-2024 16:00,2,Yes,83.26,48.65,Yes,Improved
+50199,10183,2064,Cardiology,Hypertension,Delhi,16-03-2024 15:00,29-03-2024 15:00,13,Yes,74.13,67.87,No,Recovered
+50200,10419,2104,Pediatrics,Congenital,Mumbai,04-12-2024 10:00,08-12-2024 10:00,4,No,98.51,64.07,No,Recovered
+50201,10168,2083,Orthopedics,Orthopedic Injury,Delhi,04-12-2024 05:00,13-12-2024 05:00,9,No,85.92,87.45,No,Improved
+50202,10555,2074,General Medicine,General Medicine,Delhi,26-05-2024 11:00,06-06-2024 11:00,11,Yes,65.49,55.95,No,Recovered
+50203,10519,2078,Orthopedics,Fracture,Chennai,08-11-2024 04:00,16-11-2024 04:00,8,No,92.53,94,No,Recovered
+50204,10012,2053,Pediatrics,Pediatric Infection,Bangalore,23-11-2024 00:00,24-11-2024 00:00,1,Yes,70.58,91.42,No,Recovered
+50205,10059,2033,Pediatrics,Congenital,Mumbai,29-11-2024 04:00,05-12-2024 04:00,6,Yes,66.67,77.26,Yes,Recovered
+50206,10289,2013,General Medicine,General Medicine,Chennai,16-02-2024 06:00,20-02-2024 06:00,4,No,81.61,50.94,No,Recovered
+50207,10338,2063,General Medicine,General Medicine,Mumbai,04-09-2024 19:00,17-09-2024 19:00,13,No,50.57,64.76,No,Recovered
+50208,10318,2041,Oncology,Cancer,Delhi,06-01-2024 04:00,18-01-2024 04:00,12,Yes,79.11,51.24,No,Recovered
+50209,10208,2002,Orthopedics,Orthopedic Injury,Chennai,22-09-2024 01:00,01-10-2024 01:00,9,No,84.49,47.92,No,Recovered
+50210,10020,2091,Orthopedics,Fracture,Delhi,05-06-2024 14:00,11-06-2024 14:00,6,Yes,79.95,74.3,No,Transferred
+50211,10134,2079,General Medicine,General Medicine,Bangalore,04-11-2024 01:00,10-11-2024 01:00,6,No,85.33,73.55,No,Transferred
+50212,10452,2065,Pediatrics,Congenital,Bangalore,28-02-2024 01:00,12-03-2024 01:00,13,Yes,57.74,91.96,No,Recovered
+50213,10414,2025,Emergency,Acute Condition,Delhi,04-09-2024 21:00,08-09-2024 21:00,4,No,50.77,72.06,No,Recovered
+50214,10420,2073,Pediatrics,Congenital,Delhi,23-03-2024 00:00,02-04-2024 00:00,10,No,86.97,51.81,No,Improved
+50215,10419,2116,Oncology,Tumor,Bangalore,09-10-2024 21:00,11-10-2024 21:00,2,Yes,90.36,87.37,No,Improved
+50216,10043,2041,Orthopedics,Fracture,Mumbai,13-03-2024 18:00,21-03-2024 18:00,8,No,60.2,75.97,No,Recovered
+50217,10366,2069,Pediatrics,Congenital,Bangalore,16-02-2024 00:00,25-02-2024 00:00,9,Yes,53.13,65.24,No,Recovered
+50218,10304,2119,Oncology,Cancer,Mumbai,09-06-2024 10:00,11-06-2024 10:00,2,No,69.16,67.14,No,Improved
+50219,10494,2106,General Medicine,Respiratory,Delhi,23-12-2024 00:00,30-12-2024 00:00,7,No,79.22,69.61,No,Recovered
+50220,10568,2059,Pediatrics,Congenital,Delhi,18-12-2024 21:00,23-12-2024 21:00,5,No,93.69,75.09,No,Recovered
+50221,10335,2092,Pediatrics,Congenital,Mumbai,23-04-2024 10:00,28-04-2024 10:00,5,No,64.62,64.42,Yes,Recovered
+50222,10088,2068,Pediatrics,Congenital,Chennai,01-08-2024 06:00,14-08-2024 06:00,13,Yes,88.22,62.53,No,Deceased
+50223,10021,2114,Cardiology,Cardiac,Bangalore,11-04-2024 05:00,16-04-2024 05:00,5,No,91.32,64.54,No,Recovered
+50224,10283,2056,Cardiology,Cardiac,Mumbai,14-07-2024 11:00,26-07-2024 11:00,12,No,67.84,59.46,No,Recovered
+50225,10544,2055,Cardiology,Cardiac,Chennai,24-08-2024 22:00,07-09-2024 22:00,14,No,81.61,60.54,No,Recovered
+50226,10109,2035,Cardiology,Cardiac,Bangalore,31-07-2024 08:00,06-08-2024 08:00,6,Yes,92.94,77.23,No,Improved
+50227,10285,2111,Orthopedics,Fracture,Delhi,08-11-2024 21:00,17-11-2024 21:00,9,No,86.1,61.16,No,Recovered
+50228,10450,2101,Emergency,Trauma,Mumbai,03-09-2024 07:00,08-09-2024 07:00,5,No,64.84,69.78,No,Recovered
+50229,10115,2036,General Medicine,General Medicine,Mumbai,22-08-2024 09:00,25-08-2024 09:00,3,No,80.39,53.49,Yes,Recovered
+50230,10382,2028,General Medicine,Respiratory,Chennai,06-05-2024 18:00,12-05-2024 18:00,6,No,77.84,62.87,No,Recovered
+50231,10175,2106,Orthopedics,Fracture,Delhi,13-07-2024 09:00,21-07-2024 09:00,8,Yes,66.38,70.07,No,Recovered
+50232,10245,2064,Emergency,Acute Condition,Delhi,26-08-2024 12:00,27-08-2024 12:00,1,Yes,57.14,78.06,No,Recovered
+50233,10007,2058,Emergency,Acute Condition,Delhi,08-10-2024 16:00,11-10-2024 16:00,3,No,88.82,73.62,No,Recovered
+50234,10416,2026,Orthopedics,Orthopedic Injury,Chennai,09-09-2024 02:00,22-09-2024 02:00,13,No,86.57,78.35,No,Recovered
+50235,10499,2108,Emergency,Trauma,Bangalore,26-03-2024 15:00,04-04-2024 15:00,9,Yes,76.58,68.08,No,Recovered
+50236,10542,2057,Cardiology,Cardiac,Chennai,27-09-2024 02:00,08-10-2024 02:00,11,Yes,64.04,51.44,Yes,Recovered
+50237,10292,2079,General Medicine,Respiratory,Chennai,22-07-2024 14:00,31-07-2024 14:00,9,No,99.09,64.78,No,Recovered
+50238,10323,2083,General Medicine,General Medicine,Bangalore,30-11-2024 19:00,13-12-2024 19:00,13,Yes,68.63,43.78,No,Recovered
+50239,10122,2095,Orthopedics,Fracture,Bangalore,29-02-2024 19:00,11-03-2024 19:00,11,No,68.96,85.73,No,Recovered
+50240,10504,2079,Cardiology,Cardiac,Chennai,13-12-2024 01:00,26-12-2024 01:00,13,Yes,88.33,72.1,No,Recovered
+50241,10500,2081,Emergency,Trauma,Bangalore,13-11-2024 06:00,23-11-2024 06:00,10,No,81.02,80.82,No,Recovered
+50242,10442,2017,Cardiology,Heart Failure,Chennai,07-08-2024 05:00,20-08-2024 05:00,13,No,79.86,75.98,No,Improved
+50243,10445,2013,Emergency,Acute Condition,Bangalore,01-09-2024 21:00,15-09-2024 21:00,14,Yes,60.11,57.26,No,Recovered
+50244,10300,2011,Orthopedics,Orthopedic Injury,Bangalore,03-04-2024 11:00,13-04-2024 11:00,10,No,79.23,47.35,No,Recovered
+50245,10505,2111,Oncology,Cancer,Bangalore,13-11-2024 16:00,27-11-2024 16:00,14,No,81.82,57.85,No,Recovered
+50246,10586,2103,Pediatrics,Congenital,Delhi,19-04-2024 12:00,30-04-2024 12:00,11,No,88.9,81.85,No,Recovered
+50247,10161,2028,Pediatrics,Pediatric Infection,Chennai,22-12-2024 19:00,03-01-2025 19:00,12,Yes,62.98,41.85,No,Recovered
+50248,10120,2046,Orthopedics,Fracture,Mumbai,19-03-2024 04:00,31-03-2024 04:00,12,No,71.45,51.06,No,Recovered
+50249,10258,2008,Emergency,Trauma,Bangalore,13-04-2024 12:00,19-04-2024 12:00,6,No,85.34,93.2,No,Recovered
+50250,10365,2091,Pediatrics,Congenital,Bangalore,25-10-2024 09:00,28-10-2024 09:00,3,No,65.2,57.5,No,Recovered
+50251,10508,2048,Orthopedics,Orthopedic Injury,Delhi,05-07-2024 20:00,08-07-2024 20:00,3,Yes,50.72,82.04,No,Recovered
+50252,10442,2099,Pediatrics,Pediatric Infection,Bangalore,01-07-2024 14:00,12-07-2024 14:00,11,No,93.22,72.28,No,Recovered
+50253,10450,2074,Emergency,Trauma,Delhi,29-01-2024 18:00,09-02-2024 18:00,11,Yes,61.44,72.83,No,Recovered
+50254,10563,2021,General Medicine,General Medicine,Chennai,01-07-2024 04:00,12-07-2024 04:00,11,No,93.05,65.36,No,Recovered
+50255,10155,2055,General Medicine,Respiratory,Mumbai,21-07-2024 10:00,03-08-2024 10:00,13,Yes,97.08,49.2,No,Recovered
+50256,10458,2022,Cardiology,Cardiac,Bangalore,28-02-2024 08:00,05-03-2024 08:00,6,No,90.51,62.76,No,Recovered
+50257,10093,2046,General Medicine,General Medicine,Mumbai,01-08-2024 17:00,02-08-2024 17:00,1,Yes,84.27,41.37,No,Recovered
+50258,10222,2038,Pediatrics,Pediatric Infection,Bangalore,22-10-2024 21:00,26-10-2024 21:00,4,No,97.68,88.49,No,Recovered
+50259,10438,2026,Cardiology,Cardiac,Bangalore,17-08-2024 01:00,21-08-2024 01:00,4,No,67.75,42.86,Yes,Recovered
+50260,10439,2016,Oncology,Tumor,Mumbai,27-07-2024 19:00,31-07-2024 19:00,4,No,60.56,87.46,No,Recovered
+50261,10256,2073,Orthopedics,Orthopedic Injury,Bangalore,29-06-2024 22:00,07-07-2024 22:00,8,Yes,60.81,78.02,No,Recovered
+50262,10366,2020,Cardiology,Cardiac,Chennai,20-09-2024 14:00,25-09-2024 14:00,5,Yes,98.77,84.93,No,Recovered
+50263,10071,2108,General Medicine,General Medicine,Mumbai,11-01-2024 01:00,13-01-2024 01:00,2,Yes,73.46,54.77,Yes,Recovered
+50264,10584,2040,Pediatrics,Congenital,Chennai,27-09-2024 04:00,01-10-2024 04:00,4,Yes,89.91,57.94,No,Improved
+50265,10540,2049,General Medicine,Respiratory,Chennai,25-02-2024 09:00,03-03-2024 09:00,7,No,53.13,51.58,No,Improved
+50266,10471,2022,Oncology,Tumor,Mumbai,14-06-2024 23:00,22-06-2024 23:00,8,No,85.33,73.95,No,Recovered
+50267,10355,2044,General Medicine,Respiratory,Chennai,22-09-2024 07:00,06-10-2024 07:00,14,Yes,93.77,64.3,No,Improved
+50268,10181,2056,Oncology,Tumor,Mumbai,08-11-2024 22:00,18-11-2024 22:00,10,No,86.25,71.59,No,Recovered
+50269,10525,2081,Cardiology,Hypertension,Chennai,15-04-2024 14:00,22-04-2024 14:00,7,No,68.57,50.73,No,Recovered
+50270,10211,2060,Cardiology,Hypertension,Bangalore,27-11-2024 11:00,03-12-2024 11:00,6,Yes,89.99,46.78,No,Deceased
+50271,10229,2006,Orthopedics,Orthopedic Injury,Bangalore,10-12-2024 07:00,23-12-2024 07:00,13,No,75.64,87.83,No,Improved
+50272,10187,2102,Pediatrics,Congenital,Bangalore,08-02-2024 07:00,17-02-2024 07:00,9,No,59.26,55.33,No,Deceased
+50273,10422,2072,Emergency,Acute Condition,Bangalore,02-09-2024 01:00,08-09-2024 01:00,6,No,57.15,60.6,No,Recovered
+50274,10349,2069,Orthopedics,Fracture,Mumbai,12-09-2024 11:00,13-09-2024 11:00,1,No,51.26,53.9,No,Recovered
+50275,10276,2116,Pediatrics,Pediatric Infection,Delhi,13-01-2024 12:00,23-01-2024 12:00,10,Yes,63.27,70.49,No,Recovered
+50276,10109,2023,Oncology,Tumor,Mumbai,23-11-2024 17:00,04-12-2024 17:00,11,No,96.23,83.22,No,Recovered
+50277,10002,2118,Emergency,Acute Condition,Mumbai,04-06-2024 15:00,11-06-2024 15:00,7,No,85.2,91.43,No,Recovered
+50278,10171,2085,General Medicine,Respiratory,Mumbai,03-04-2024 17:00,16-04-2024 17:00,13,Yes,67.02,68.08,No,Improved
+50279,10479,2053,Cardiology,Heart Failure,Bangalore,28-06-2024 09:00,10-07-2024 09:00,12,No,63.92,86.91,No,Recovered
+50280,10098,2080,Cardiology,Hypertension,Delhi,13-02-2024 02:00,24-02-2024 02:00,11,Yes,73.28,82.54,No,Recovered
+50281,10107,2104,Orthopedics,Orthopedic Injury,Mumbai,08-07-2024 11:00,09-07-2024 11:00,1,Yes,87.54,46.9,No,Recovered
+50282,10424,2023,Oncology,Tumor,Chennai,08-08-2024 20:00,13-08-2024 20:00,5,Yes,53.31,41.05,No,Recovered
+50283,10227,2115,General Medicine,General Medicine,Bangalore,18-07-2024 08:00,19-07-2024 08:00,1,Yes,66.61,56.16,Yes,Recovered
+50284,10184,2102,Pediatrics,Congenital,Chennai,29-09-2024 05:00,02-10-2024 05:00,3,No,97.36,88.67,No,Deceased
+50285,10058,2013,Oncology,Tumor,Chennai,25-06-2024 10:00,29-06-2024 10:00,4,No,77.15,59.08,No,Recovered
+50286,10210,2048,Orthopedics,Fracture,Chennai,04-07-2024 02:00,18-07-2024 02:00,14,No,99.24,91.64,No,Recovered
+50287,10588,2031,General Medicine,General Medicine,Chennai,16-05-2024 14:00,24-05-2024 14:00,8,Yes,72.44,90.23,No,Improved
+50288,10282,2020,General Medicine,General Medicine,Chennai,27-04-2024 09:00,06-05-2024 09:00,9,Yes,58.86,56.18,Yes,Deceased
+50289,10460,2105,Orthopedics,Fracture,Delhi,22-04-2024 14:00,25-04-2024 14:00,3,Yes,85.86,87.09,No,Improved
+50290,10368,2001,Pediatrics,Pediatric Infection,Mumbai,11-05-2024 22:00,18-05-2024 22:00,7,Yes,59.23,58.82,No,Improved
+50291,10446,2097,Cardiology,Cardiac,Chennai,25-04-2024 21:00,30-04-2024 21:00,5,Yes,74.64,56.5,No,Recovered
+50292,10070,2113,General Medicine,Respiratory,Bangalore,25-01-2024 20:00,02-02-2024 20:00,8,Yes,86.65,76.23,No,Transferred
+50293,10192,2067,Pediatrics,Congenital,Chennai,14-08-2024 21:00,22-08-2024 21:00,8,Yes,66.34,40.59,No,Recovered
+50294,10237,2053,Emergency,Trauma,Bangalore,10-07-2024 04:00,20-07-2024 04:00,10,Yes,54.61,72.18,No,Improved
+50295,10360,2060,Orthopedics,Fracture,Bangalore,27-08-2024 01:00,28-08-2024 01:00,1,No,76.61,45.68,No,Recovered
+50296,10495,2034,Orthopedics,Orthopedic Injury,Bangalore,07-08-2024 08:00,14-08-2024 08:00,7,Yes,51.36,68.8,No,Recovered
+50297,10191,2106,Emergency,Trauma,Mumbai,20-04-2024 00:00,21-04-2024 00:00,1,No,87.26,44.2,No,Recovered
+50298,10166,2081,General Medicine,Respiratory,Chennai,23-06-2024 16:00,24-06-2024 16:00,1,No,92.05,52.17,No,Recovered
+50299,10269,2113,Emergency,Acute Condition,Bangalore,22-05-2024 21:00,04-06-2024 21:00,13,Yes,96.63,46.53,No,Recovered
+50300,10005,2090,Cardiology,Hypertension,Chennai,04-08-2024 01:00,14-08-2024 01:00,10,Yes,82.71,74.06,No,Recovered
+50301,10384,2044,Cardiology,Hypertension,Bangalore,14-01-2024 13:00,27-01-2024 13:00,13,No,88.68,42.42,No,Improved
+50302,10432,2044,Orthopedics,Orthopedic Injury,Chennai,09-04-2024 02:00,19-04-2024 02:00,10,Yes,71.91,89.46,No,Recovered
+50303,10128,2014,Orthopedics,Orthopedic Injury,Delhi,14-10-2024 03:00,27-10-2024 03:00,13,Yes,69.76,50,No,Recovered
+50304,10284,2096,Pediatrics,Congenital,Delhi,08-07-2024 03:00,21-07-2024 03:00,13,No,54.79,57.47,No,Improved
+50305,10583,2120,Cardiology,Cardiac,Chennai,14-02-2024 01:00,22-02-2024 01:00,8,No,81.77,74.64,No,Recovered
+50306,10197,2117,Oncology,Cancer,Delhi,17-08-2024 17:00,19-08-2024 17:00,2,Yes,72.2,89.15,No,Recovered
+50307,10004,2093,General Medicine,General Medicine,Bangalore,01-05-2024 13:00,13-05-2024 13:00,12,No,71.69,53.72,No,Recovered
+50308,10006,2112,Cardiology,Heart Failure,Chennai,16-08-2024 09:00,20-08-2024 09:00,4,Yes,63.6,40.35,No,Recovered
+50309,10416,2086,Pediatrics,Congenital,Chennai,02-12-2024 08:00,05-12-2024 08:00,3,No,97.34,62.01,No,Deceased
+50310,10393,2060,Orthopedics,Fracture,Chennai,07-09-2024 09:00,10-09-2024 09:00,3,No,84.4,46.62,No,Transferred
+50311,10047,2116,Oncology,Tumor,Chennai,23-03-2024 14:00,28-03-2024 14:00,5,No,88.81,47.18,No,Recovered
+50312,10494,2058,Cardiology,Cardiac,Mumbai,14-03-2024 13:00,24-03-2024 13:00,10,Yes,50.83,76.39,No,Recovered
+50313,10523,2085,Oncology,Tumor,Delhi,22-09-2024 02:00,03-10-2024 02:00,11,No,65.23,54.55,No,Recovered
+50314,10054,2075,Oncology,Cancer,Chennai,27-11-2024 09:00,29-11-2024 09:00,2,No,69.64,41.58,No,Recovered
+50315,10076,2060,General Medicine,General Medicine,Delhi,29-12-2024 10:00,08-01-2025 10:00,10,No,50.31,43.4,No,Recovered
+50316,10012,2013,General Medicine,Respiratory,Mumbai,03-03-2024 07:00,15-03-2024 07:00,12,Yes,61.09,57.47,No,Recovered
+50317,10175,2076,Emergency,Trauma,Delhi,30-03-2024 15:00,03-04-2024 15:00,4,Yes,60.56,81.39,Yes,Recovered
+50318,10431,2046,Pediatrics,Congenital,Chennai,19-10-2024 02:00,23-10-2024 02:00,4,Yes,78.6,84.3,No,Recovered
+50319,10164,2002,Pediatrics,Pediatric Infection,Mumbai,11-10-2024 19:00,20-10-2024 19:00,9,Yes,58.56,85.5,No,Recovered
+50320,10221,2100,Orthopedics,Fracture,Mumbai,03-02-2024 12:00,14-02-2024 12:00,11,Yes,65.6,46.72,Yes,Recovered
+50321,10148,2009,General Medicine,Respiratory,Chennai,10-03-2024 19:00,19-03-2024 19:00,9,No,69.85,48.6,No,Transferred
+50322,10300,2034,Emergency,Trauma,Delhi,04-10-2024 03:00,17-10-2024 03:00,13,No,57.81,94.36,No,Recovered
+50323,10189,2031,General Medicine,Respiratory,Bangalore,07-06-2024 02:00,16-06-2024 02:00,9,No,88.4,63.89,No,Improved
+50324,10144,2016,Oncology,Tumor,Mumbai,11-11-2024 23:00,12-11-2024 23:00,1,Yes,71.48,55.34,Yes,Improved
+50325,10306,2012,Emergency,Acute Condition,Bangalore,04-01-2024 06:00,14-01-2024 06:00,10,No,74.61,50.73,No,Recovered
+50326,10108,2019,Emergency,Trauma,Mumbai,15-04-2024 06:00,17-04-2024 06:00,2,Yes,54.66,93.01,Yes,Recovered
+50327,10316,2054,Orthopedics,Orthopedic Injury,Mumbai,09-10-2024 16:00,15-10-2024 16:00,6,Yes,57.17,41.01,No,Recovered
+50328,10361,2118,Oncology,Cancer,Mumbai,22-10-2024 00:00,04-11-2024 00:00,13,Yes,82.52,51.68,Yes,Recovered
+50329,10160,2090,Oncology,Tumor,Delhi,28-12-2024 08:00,30-12-2024 08:00,2,No,66.6,65.59,Yes,Recovered
+50330,10039,2060,Cardiology,Heart Failure,Mumbai,13-08-2024 15:00,17-08-2024 15:00,4,No,77.41,49.61,No,Transferred
+50331,10527,2012,Cardiology,Heart Failure,Delhi,18-03-2024 01:00,31-03-2024 01:00,13,No,78.2,67.52,Yes,Transferred
+50332,10128,2058,General Medicine,Respiratory,Chennai,22-12-2024 17:00,30-12-2024 17:00,8,Yes,92.58,94.53,No,Recovered
+50333,10096,2033,Emergency,Trauma,Delhi,21-12-2024 23:00,30-12-2024 23:00,9,No,97.3,56.27,Yes,Deceased
+50334,10104,2115,Orthopedics,Orthopedic Injury,Mumbai,05-07-2024 04:00,09-07-2024 04:00,4,No,52.12,77.65,No,Recovered
+50335,10527,2044,General Medicine,General Medicine,Delhi,12-11-2024 06:00,26-11-2024 06:00,14,No,95.92,75.74,Yes,Improved
+50336,10206,2079,Pediatrics,Congenital,Bangalore,08-12-2024 07:00,19-12-2024 07:00,11,Yes,85.61,59.61,No,Recovered
+50337,10251,2084,General Medicine,Respiratory,Bangalore,08-07-2024 22:00,16-07-2024 22:00,8,No,77.66,84.67,No,Recovered
+50338,10587,2039,Oncology,Tumor,Bangalore,20-11-2024 07:00,27-11-2024 07:00,7,No,70.24,44.82,Yes,Recovered
+50339,10058,2053,Pediatrics,Congenital,Bangalore,15-02-2024 02:00,16-02-2024 02:00,1,Yes,74.45,87.28,No,Improved
+50340,10475,2108,Orthopedics,Fracture,Chennai,09-06-2024 02:00,21-06-2024 02:00,12,No,62.84,84.23,No,Recovered
+50341,10188,2057,Orthopedics,Fracture,Mumbai,11-04-2024 12:00,22-04-2024 12:00,11,Yes,74.6,83.81,No,Recovered
+50342,10026,2023,Pediatrics,Pediatric Infection,Bangalore,18-07-2024 09:00,28-07-2024 09:00,10,Yes,88.58,75.85,No,Transferred
+50343,10042,2027,Orthopedics,Orthopedic Injury,Bangalore,24-09-2024 14:00,01-10-2024 14:00,7,Yes,74.91,77.91,No,Transferred
+50344,10232,2072,General Medicine,General Medicine,Bangalore,07-08-2024 00:00,10-08-2024 00:00,3,Yes,94.68,44.11,No,Recovered
+50345,10563,2117,Pediatrics,Pediatric Infection,Delhi,02-06-2024 05:00,16-06-2024 05:00,14,Yes,65.79,43.13,No,Recovered
+50346,10260,2075,General Medicine,General Medicine,Chennai,23-02-2024 19:00,29-02-2024 19:00,6,No,72.71,62.68,No,Recovered
+50347,10367,2057,Emergency,Trauma,Mumbai,05-10-2024 17:00,17-10-2024 17:00,12,No,73.34,44.22,No,Recovered
+50348,10414,2116,Orthopedics,Orthopedic Injury,Delhi,12-10-2024 16:00,15-10-2024 16:00,3,No,72.6,94.22,Yes,Recovered
+50349,10244,2038,Orthopedics,Fracture,Chennai,16-02-2024 20:00,22-02-2024 20:00,6,No,97.03,75.68,No,Recovered
+50350,10391,2112,Cardiology,Hypertension,Delhi,25-11-2024 09:00,04-12-2024 09:00,9,Yes,93.41,56.35,No,Recovered
+50351,10427,2118,Pediatrics,Pediatric Infection,Mumbai,04-01-2024 16:00,08-01-2024 16:00,4,Yes,52.1,60,Yes,Recovered
+50352,10283,2032,Emergency,Trauma,Mumbai,18-10-2024 17:00,22-10-2024 17:00,4,Yes,58.6,88.33,No,Recovered
+50353,10529,2039,Orthopedics,Fracture,Chennai,05-07-2024 03:00,10-07-2024 03:00,5,Yes,73.5,67.64,No,Recovered
+50354,10268,2094,General Medicine,General Medicine,Chennai,21-07-2024 01:00,02-08-2024 01:00,12,No,63.85,91.75,Yes,Recovered
+50355,10390,2070,Oncology,Cancer,Chennai,11-12-2024 22:00,21-12-2024 22:00,10,Yes,70.27,68.4,No,Recovered
+50356,10229,2012,Emergency,Acute Condition,Mumbai,30-01-2024 09:00,31-01-2024 09:00,1,No,67.09,88.06,Yes,Recovered
+50357,10117,2015,Emergency,Trauma,Mumbai,09-06-2024 10:00,23-06-2024 10:00,14,No,69.05,43,No,Recovered
+50358,10421,2058,Orthopedics,Fracture,Delhi,28-07-2024 11:00,03-08-2024 11:00,6,No,59.84,64.26,No,Improved
+50359,10450,2044,Pediatrics,Congenital,Bangalore,07-04-2024 23:00,13-04-2024 23:00,6,No,89.22,72.92,No,Recovered
+50360,10433,2009,General Medicine,General Medicine,Mumbai,15-06-2024 18:00,22-06-2024 18:00,7,Yes,52.98,73.24,No,Recovered
+50361,10123,2111,Orthopedics,Fracture,Bangalore,25-11-2024 06:00,05-12-2024 06:00,10,Yes,60.11,61.27,Yes,Recovered
+50362,10520,2119,General Medicine,Respiratory,Mumbai,17-03-2024 18:00,20-03-2024 18:00,3,Yes,75.28,43.41,Yes,Recovered
+50363,10334,2077,Emergency,Acute Condition,Delhi,13-07-2024 15:00,22-07-2024 15:00,9,Yes,54.9,42.42,No,Recovered
+50364,10208,2110,Cardiology,Cardiac,Chennai,01-01-2024 09:00,12-01-2024 09:00,11,Yes,53.86,49.34,Yes,Transferred
+50365,10171,2006,Oncology,Tumor,Bangalore,29-11-2024 08:00,03-12-2024 08:00,4,No,52.35,91.04,Yes,Recovered
+50366,10155,2032,Pediatrics,Pediatric Infection,Bangalore,25-05-2024 18:00,02-06-2024 18:00,8,No,82.65,71.88,Yes,Recovered
+50367,10432,2103,Cardiology,Cardiac,Mumbai,18-11-2024 07:00,24-11-2024 07:00,6,No,58.48,42.8,No,Recovered
+50368,10370,2047,Oncology,Cancer,Bangalore,06-03-2024 09:00,13-03-2024 09:00,7,No,71.85,74.53,No,Improved
+50369,10538,2110,Orthopedics,Orthopedic Injury,Mumbai,04-02-2024 06:00,09-02-2024 06:00,5,No,61.23,61.96,No,Recovered
+50370,10275,2082,General Medicine,Respiratory,Chennai,30-05-2024 23:00,05-06-2024 23:00,6,No,71,71.81,No,Recovered
+50371,10410,2099,Orthopedics,Fracture,Mumbai,28-06-2024 16:00,03-07-2024 16:00,5,No,72.98,77.17,No,Recovered
+50372,10419,2060,Pediatrics,Congenital,Delhi,05-11-2024 21:00,17-11-2024 21:00,12,Yes,57.94,92.21,No,Improved
+50373,10064,2087,Emergency,Acute Condition,Bangalore,05-03-2024 05:00,12-03-2024 05:00,7,No,79.45,91.63,No,Recovered
+50374,10466,2088,Cardiology,Hypertension,Bangalore,08-11-2024 06:00,15-11-2024 06:00,7,No,62.73,66.02,Yes,Recovered
+50375,10109,2057,Orthopedics,Fracture,Bangalore,13-05-2024 08:00,18-05-2024 08:00,5,Yes,75.66,47.18,No,Transferred
+50376,10401,2028,Pediatrics,Congenital,Delhi,10-04-2024 21:00,15-04-2024 21:00,5,Yes,65.95,62.85,No,Transferred
+50377,10075,2014,Emergency,Acute Condition,Mumbai,07-02-2024 05:00,20-02-2024 05:00,13,No,58.72,65.94,Yes,Recovered
+50378,10344,2109,Oncology,Cancer,Bangalore,28-08-2024 19:00,10-09-2024 19:00,13,No,59.81,41.24,No,Deceased
+50379,10221,2019,Orthopedics,Fracture,Bangalore,10-12-2024 15:00,12-12-2024 15:00,2,No,87.49,90.22,No,Recovered
+50380,10439,2018,Orthopedics,Fracture,Mumbai,01-12-2024 11:00,09-12-2024 11:00,8,No,79.7,72.43,Yes,Recovered
+50381,10287,2106,Cardiology,Heart Failure,Mumbai,17-02-2024 10:00,24-02-2024 10:00,7,No,60.7,55.58,No,Recovered
+50382,10521,2109,Cardiology,Hypertension,Delhi,15-01-2024 03:00,23-01-2024 03:00,8,Yes,63.3,58.3,No,Recovered
+50383,10079,2018,Emergency,Trauma,Bangalore,03-09-2024 04:00,07-09-2024 04:00,4,No,96.59,94.83,No,Recovered
+50384,10521,2094,Cardiology,Hypertension,Delhi,08-01-2024 02:00,22-01-2024 02:00,14,Yes,95.16,41.35,No,Recovered
+50385,10508,2120,Emergency,Trauma,Delhi,24-09-2024 04:00,04-10-2024 04:00,10,No,65.63,62.59,No,Improved
+50386,10179,2069,Emergency,Trauma,Bangalore,30-05-2024 13:00,09-06-2024 13:00,10,Yes,57.59,58.07,Yes,Improved
+50387,10106,2119,Emergency,Acute Condition,Mumbai,09-05-2024 12:00,19-05-2024 12:00,10,Yes,57.36,51.36,No,Recovered
+50388,10367,2062,Emergency,Acute Condition,Chennai,01-08-2024 18:00,15-08-2024 18:00,14,No,91.26,83.73,No,Recovered
+50389,10467,2102,Orthopedics,Orthopedic Injury,Chennai,01-07-2024 13:00,02-07-2024 13:00,1,Yes,66.96,43.43,No,Recovered
+50390,10592,2116,Orthopedics,Fracture,Bangalore,12-03-2024 17:00,24-03-2024 17:00,12,No,65.12,87.23,No,Recovered
+50391,10215,2006,Oncology,Cancer,Delhi,05-02-2024 05:00,13-02-2024 05:00,8,Yes,52.69,76.81,No,Recovered
+50392,10166,2061,Orthopedics,Orthopedic Injury,Mumbai,10-10-2024 02:00,21-10-2024 02:00,11,No,54.21,77.55,No,Recovered
+50393,10112,2096,Orthopedics,Orthopedic Injury,Mumbai,23-11-2024 18:00,27-11-2024 18:00,4,No,56.58,78.78,No,Recovered
+50394,10387,2118,General Medicine,Respiratory,Delhi,14-07-2024 02:00,25-07-2024 02:00,11,Yes,85.87,66.15,No,Recovered
+50395,10298,2117,Pediatrics,Congenital,Delhi,27-03-2024 08:00,07-04-2024 08:00,11,Yes,86.02,68.11,No,Improved
+50396,10446,2099,Orthopedics,Orthopedic Injury,Chennai,17-02-2024 02:00,21-02-2024 02:00,4,No,85.28,90.72,Yes,Improved
+50397,10050,2118,Pediatrics,Pediatric Infection,Mumbai,24-01-2024 19:00,31-01-2024 19:00,7,Yes,53.55,59.24,No,Recovered
+50398,10361,2098,Orthopedics,Orthopedic Injury,Chennai,08-07-2024 14:00,21-07-2024 14:00,13,No,79.13,94.75,No,Recovered
+50399,10079,2108,Emergency,Trauma,Mumbai,01-01-2024 01:00,15-01-2024 01:00,14,Yes,76.03,64.24,No,Recovered
+50400,10347,2054,Emergency,Trauma,Mumbai,07-02-2024 13:00,15-02-2024 13:00,8,Yes,83.16,72.75,No,Recovered
+50401,10485,2016,Emergency,Trauma,Mumbai,01-09-2024 21:00,04-09-2024 21:00,3,No,70.95,65.19,No,Recovered
+50402,10482,2094,Oncology,Tumor,Mumbai,11-05-2024 20:00,18-05-2024 20:00,7,Yes,92.28,54.28,Yes,Recovered
+50403,10426,2057,Orthopedics,Orthopedic Injury,Mumbai,14-04-2024 04:00,22-04-2024 04:00,8,Yes,95.75,86.41,No,Recovered
+50404,10530,2071,Emergency,Acute Condition,Delhi,07-09-2024 13:00,08-09-2024 13:00,1,Yes,85.28,56.92,No,Recovered
+50405,10106,2105,Orthopedics,Orthopedic Injury,Bangalore,19-06-2024 00:00,01-07-2024 00:00,12,Yes,99.72,52.8,Yes,Recovered
+50406,10440,2018,Oncology,Cancer,Mumbai,25-02-2024 16:00,09-03-2024 16:00,13,Yes,72.21,77.16,No,Recovered
+50407,10071,2120,Oncology,Cancer,Mumbai,30-06-2024 18:00,14-07-2024 18:00,14,No,87.73,53.67,No,Recovered
+50408,10363,2029,General Medicine,General Medicine,Delhi,31-10-2024 19:00,02-11-2024 19:00,2,No,92.94,57.92,No,Deceased
+50409,10411,2038,Orthopedics,Orthopedic Injury,Chennai,16-07-2024 19:00,24-07-2024 19:00,8,Yes,62.06,52.85,Yes,Improved
+50410,10574,2030,Orthopedics,Orthopedic Injury,Delhi,14-11-2024 22:00,26-11-2024 22:00,12,No,95.26,67.11,No,Recovered
+50411,10122,2017,Oncology,Tumor,Mumbai,31-01-2024 15:00,02-02-2024 15:00,2,Yes,58.21,83.07,Yes,Recovered
+50412,10114,2001,Orthopedics,Fracture,Chennai,26-02-2024 11:00,28-02-2024 11:00,2,No,55.93,49.45,No,Improved
+50413,10061,2054,Emergency,Acute Condition,Chennai,16-01-2024 11:00,27-01-2024 11:00,11,Yes,55.78,86,No,Recovered
+50414,10327,2108,Cardiology,Heart Failure,Bangalore,05-07-2024 22:00,12-07-2024 22:00,7,No,97.63,81.5,No,Improved
+50415,10125,2081,Orthopedics,Orthopedic Injury,Delhi,02-01-2024 09:00,04-01-2024 09:00,2,No,82.74,62.62,No,Recovered
+50416,10045,2097,Emergency,Acute Condition,Bangalore,27-02-2024 05:00,01-03-2024 05:00,3,No,60.49,54.35,No,Transferred
+50417,10219,2057,Cardiology,Heart Failure,Delhi,05-02-2024 12:00,12-02-2024 12:00,7,Yes,88.18,45.98,No,Improved
+50418,10413,2034,General Medicine,General Medicine,Delhi,02-06-2024 02:00,05-06-2024 02:00,3,No,95.88,88.81,No,Recovered
+50419,10001,2061,Oncology,Cancer,Mumbai,12-02-2024 06:00,21-02-2024 06:00,9,No,96.32,74.05,No,Recovered
+50420,10209,2097,General Medicine,Respiratory,Mumbai,15-08-2024 20:00,29-08-2024 20:00,14,No,82.89,71.04,No,Recovered
+50421,10284,2081,Cardiology,Cardiac,Chennai,01-02-2024 14:00,15-02-2024 14:00,14,No,90.05,49.91,Yes,Recovered
+50422,10512,2063,Emergency,Trauma,Mumbai,27-09-2024 22:00,09-10-2024 22:00,12,Yes,52.79,73.54,No,Recovered
+50423,10424,2110,General Medicine,Respiratory,Chennai,10-02-2024 12:00,18-02-2024 12:00,8,No,61.58,86.69,No,Recovered
+50424,10337,2017,Pediatrics,Congenital,Delhi,13-11-2024 23:00,22-11-2024 23:00,9,No,79.08,79.31,No,Recovered
+50425,10274,2042,Oncology,Cancer,Chennai,01-07-2024 23:00,11-07-2024 23:00,10,Yes,79.97,51.07,No,Recovered
+50426,10404,2120,Emergency,Trauma,Chennai,10-08-2024 03:00,12-08-2024 03:00,2,No,52.73,57.27,No,Improved
+50427,10538,2089,Pediatrics,Congenital,Mumbai,03-09-2024 18:00,13-09-2024 18:00,10,Yes,98.08,64.47,No,Recovered
+50428,10588,2049,Oncology,Tumor,Chennai,24-10-2024 18:00,25-10-2024 18:00,1,Yes,71.68,86.67,No,Recovered
+50429,10046,2046,Pediatrics,Pediatric Infection,Chennai,21-12-2024 20:00,27-12-2024 20:00,6,No,92.25,61.73,Yes,Recovered
+50430,10200,2029,Oncology,Cancer,Bangalore,27-04-2024 15:00,07-05-2024 15:00,10,Yes,81.74,50.25,No,Recovered
+50431,10161,2026,Orthopedics,Fracture,Delhi,02-06-2024 13:00,09-06-2024 13:00,7,No,60.8,93.2,No,Recovered
+50432,10286,2049,Orthopedics,Fracture,Chennai,02-01-2024 13:00,14-01-2024 13:00,12,No,76.78,74.01,No,Transferred
+50433,10578,2106,Pediatrics,Congenital,Delhi,08-10-2024 20:00,20-10-2024 20:00,12,Yes,66.68,61.32,Yes,Recovered
+50434,10558,2003,Oncology,Tumor,Bangalore,24-03-2024 19:00,04-04-2024 19:00,11,No,88.49,93.65,No,Recovered
+50435,10192,2100,Oncology,Cancer,Mumbai,13-02-2024 13:00,19-02-2024 13:00,6,Yes,92.11,73.78,No,Recovered
+50436,10565,2107,Orthopedics,Orthopedic Injury,Delhi,18-09-2024 19:00,29-09-2024 19:00,11,No,92.38,50,No,Recovered
+50437,10293,2009,Oncology,Cancer,Bangalore,09-03-2024 22:00,14-03-2024 22:00,5,Yes,64.32,68.49,No,Improved
+50438,10472,2035,Cardiology,Hypertension,Bangalore,23-09-2024 05:00,01-10-2024 05:00,8,No,85.96,91.16,No,Recovered
+50439,10516,2042,General Medicine,General Medicine,Delhi,03-02-2024 08:00,13-02-2024 08:00,10,No,85.59,89.41,No,Recovered
+50440,10330,2098,Orthopedics,Fracture,Mumbai,09-05-2024 11:00,10-05-2024 11:00,1,Yes,83.33,74.29,No,Recovered
+50441,10309,2100,Cardiology,Heart Failure,Mumbai,02-01-2024 07:00,12-01-2024 07:00,10,No,62.87,82.59,No,Deceased
+50442,10236,2050,Emergency,Trauma,Mumbai,14-01-2024 15:00,20-01-2024 15:00,6,No,96.13,67.63,No,Recovered
+50443,10556,2086,General Medicine,Respiratory,Chennai,20-10-2024 21:00,02-11-2024 21:00,13,No,52.05,42.73,No,Improved
+50444,10248,2070,General Medicine,General Medicine,Delhi,20-02-2024 09:00,28-02-2024 09:00,8,Yes,72.88,66.15,No,Recovered
+50445,10298,2027,Pediatrics,Congenital,Mumbai,08-11-2024 19:00,20-11-2024 19:00,12,No,88.44,43.41,No,Recovered
+50446,10180,2104,Orthopedics,Fracture,Mumbai,05-10-2024 01:00,14-10-2024 01:00,9,Yes,85.95,70.11,No,Recovered
+50447,10229,2098,Oncology,Tumor,Chennai,18-01-2024 14:00,19-01-2024 14:00,1,No,78.88,71.4,No,Recovered
+50448,10343,2052,Emergency,Acute Condition,Delhi,30-01-2024 11:00,04-02-2024 11:00,5,No,98.5,87.58,No,Recovered
+50449,10210,2101,Cardiology,Cardiac,Mumbai,19-11-2024 09:00,22-11-2024 09:00,3,No,87.89,55.51,No,Recovered
+50450,10057,2112,Oncology,Cancer,Delhi,04-11-2024 07:00,06-11-2024 07:00,2,Yes,53.19,57.46,No,Recovered
+50451,10108,2028,Orthopedics,Orthopedic Injury,Mumbai,04-07-2024 11:00,06-07-2024 11:00,2,Yes,80.16,44.38,No,Improved
+50452,10254,2060,Oncology,Cancer,Delhi,28-03-2024 11:00,04-04-2024 11:00,7,No,93.99,75.68,No,Recovered
+50453,10178,2015,Emergency,Trauma,Mumbai,17-06-2024 20:00,01-07-2024 20:00,14,No,83.49,62.13,No,Recovered
+50454,10011,2108,Pediatrics,Congenital,Mumbai,06-12-2024 05:00,07-12-2024 05:00,1,No,99.78,64.77,No,Recovered
+50455,10461,2023,Cardiology,Hypertension,Bangalore,06-08-2024 06:00,14-08-2024 06:00,8,Yes,88.45,63.4,No,Recovered
+50456,10357,2112,Emergency,Trauma,Delhi,27-12-2024 11:00,08-01-2025 11:00,12,Yes,76.92,90.23,No,Recovered
+50457,10226,2077,Orthopedics,Orthopedic Injury,Bangalore,15-07-2024 01:00,29-07-2024 01:00,14,No,83.83,59.99,No,Recovered
+50458,10568,2105,Pediatrics,Pediatric Infection,Chennai,29-06-2024 00:00,06-07-2024 00:00,7,No,99.88,41.78,No,Recovered
+50459,10307,2010,Emergency,Trauma,Chennai,08-08-2024 18:00,14-08-2024 18:00,6,No,95.93,42.58,No,Recovered
+50460,10521,2061,Pediatrics,Congenital,Delhi,07-04-2024 03:00,12-04-2024 03:00,5,Yes,97.38,52.03,No,Recovered
+50461,10434,2079,Cardiology,Cardiac,Chennai,16-09-2024 08:00,29-09-2024 08:00,13,Yes,52.92,56.5,No,Improved
+50462,10170,2118,Oncology,Cancer,Bangalore,29-09-2024 15:00,10-10-2024 15:00,11,Yes,66.95,83.76,Yes,Recovered
+50463,10561,2088,Orthopedics,Fracture,Chennai,19-11-2024 06:00,26-11-2024 06:00,7,No,51.92,60.25,No,Recovered
+50464,10380,2090,Orthopedics,Orthopedic Injury,Chennai,25-10-2024 01:00,01-11-2024 01:00,7,No,85.87,64.4,No,Improved
+50465,10114,2114,General Medicine,Respiratory,Bangalore,13-07-2024 21:00,14-07-2024 21:00,1,No,55.56,41.67,No,Recovered
+50466,10084,2079,Pediatrics,Congenital,Bangalore,04-07-2024 22:00,10-07-2024 22:00,6,No,75.63,56,No,Recovered
+50467,10062,2036,Emergency,Trauma,Chennai,14-02-2024 17:00,28-02-2024 17:00,14,No,98.66,51.08,Yes,Recovered
+50468,10325,2055,Emergency,Acute Condition,Mumbai,08-03-2024 01:00,10-03-2024 01:00,2,No,66.46,42.89,No,Improved
+50469,10392,2065,Oncology,Cancer,Chennai,23-12-2024 18:00,28-12-2024 18:00,5,No,81.8,82.12,Yes,Transferred
+50470,10296,2038,Cardiology,Heart Failure,Bangalore,09-03-2024 19:00,22-03-2024 19:00,13,Yes,89.18,40.58,No,Recovered
+50471,10378,2108,Cardiology,Cardiac,Mumbai,08-08-2024 10:00,09-08-2024 10:00,1,No,95.44,83.19,No,Recovered
+50472,10238,2087,Pediatrics,Pediatric Infection,Chennai,06-05-2024 15:00,14-05-2024 15:00,8,No,63.93,92.74,Yes,Recovered
+50473,10193,2109,Oncology,Cancer,Bangalore,16-07-2024 18:00,17-07-2024 18:00,1,No,69.61,64.62,No,Recovered
+50474,10109,2098,Emergency,Acute Condition,Delhi,24-02-2024 19:00,28-02-2024 19:00,4,No,85.64,61.61,No,Recovered
+50475,10509,2066,Cardiology,Hypertension,Bangalore,27-03-2024 08:00,28-03-2024 08:00,1,No,54.57,48.88,No,Transferred
+50476,10258,2063,Pediatrics,Congenital,Mumbai,24-11-2024 16:00,05-12-2024 16:00,11,No,86.66,94.75,No,Recovered
+50477,10424,2045,Orthopedics,Fracture,Chennai,21-03-2024 06:00,25-03-2024 06:00,4,No,92.67,67.41,No,Recovered
+50478,10014,2069,Cardiology,Hypertension,Mumbai,14-07-2024 18:00,22-07-2024 18:00,8,Yes,83.4,47.33,No,Improved
+50479,10335,2032,Orthopedics,Orthopedic Injury,Chennai,08-04-2024 22:00,09-04-2024 22:00,1,Yes,51.62,58.47,No,Recovered
+50480,10321,2085,Orthopedics,Orthopedic Injury,Delhi,29-07-2024 12:00,10-08-2024 12:00,12,No,61.8,47.89,No,Recovered
+50481,10027,2092,Pediatrics,Congenital,Mumbai,07-12-2024 17:00,21-12-2024 17:00,14,No,93.63,53.43,No,Recovered
+50482,10402,2038,General Medicine,Respiratory,Bangalore,10-06-2024 06:00,14-06-2024 06:00,4,Yes,93.35,53.42,No,Recovered
+50483,10158,2004,Orthopedics,Fracture,Bangalore,22-03-2024 04:00,05-04-2024 04:00,14,No,72.17,57.65,No,Recovered
+50484,10311,2068,General Medicine,Respiratory,Bangalore,07-06-2024 22:00,11-06-2024 22:00,4,Yes,67.67,57.36,No,Recovered
+50485,10358,2012,Emergency,Trauma,Bangalore,17-04-2024 17:00,27-04-2024 17:00,10,No,72.24,71.71,No,Recovered
+50486,10252,2119,Pediatrics,Congenital,Bangalore,22-11-2024 08:00,25-11-2024 08:00,3,No,53.2,72.79,No,Deceased
+50487,10326,2050,General Medicine,General Medicine,Delhi,13-02-2024 14:00,27-02-2024 14:00,14,No,60.88,47.36,No,Recovered
+50488,10519,2013,Orthopedics,Fracture,Chennai,27-11-2024 15:00,28-11-2024 15:00,1,No,54.48,79.35,No,Recovered
+50489,10277,2024,Orthopedics,Fracture,Mumbai,20-11-2024 09:00,29-11-2024 09:00,9,No,97.73,84.01,No,Recovered
+50490,10473,2040,General Medicine,General Medicine,Delhi,17-10-2024 23:00,29-10-2024 23:00,12,No,92.24,59.78,No,Recovered
+50491,10589,2052,Cardiology,Heart Failure,Mumbai,20-12-2024 16:00,29-12-2024 16:00,9,Yes,84.67,82.14,No,Recovered
+50492,10581,2084,Orthopedics,Fracture,Bangalore,14-08-2024 11:00,22-08-2024 11:00,8,No,61.26,76.43,No,Transferred
+50493,10336,2045,Oncology,Cancer,Bangalore,18-12-2024 07:00,24-12-2024 07:00,6,No,66.69,71.86,No,Improved
+50494,10579,2072,Oncology,Cancer,Bangalore,27-12-2024 19:00,29-12-2024 19:00,2,Yes,74.6,57.06,No,Recovered
+50495,10396,2071,Pediatrics,Congenital,Bangalore,13-08-2024 17:00,22-08-2024 17:00,9,No,93.39,78.92,Yes,Improved
+50496,10335,2113,General Medicine,General Medicine,Delhi,14-06-2024 01:00,20-06-2024 01:00,6,No,88.24,54.61,No,Recovered
+50497,10373,2037,Emergency,Acute Condition,Mumbai,30-09-2024 05:00,06-10-2024 05:00,6,No,64.83,54.58,No,Recovered
+50498,10016,2054,Pediatrics,Pediatric Infection,Mumbai,22-03-2024 22:00,23-03-2024 22:00,1,Yes,93.86,69.05,No,Recovered
+50499,10181,2103,Orthopedics,Orthopedic Injury,Delhi,20-11-2024 22:00,02-12-2024 22:00,12,No,82.16,57.37,No,Improved
+50500,10559,2053,Oncology,Tumor,Bangalore,07-05-2024 06:00,17-05-2024 06:00,10,Yes,97.15,73.57,No,Recovered
+50501,10576,2093,Oncology,Cancer,Mumbai,17-02-2024 18:00,26-02-2024 18:00,9,No,67.05,94.87,No,Recovered
+50502,10442,2075,Emergency,Trauma,Bangalore,11-01-2024 00:00,17-01-2024 00:00,6,Yes,70.39,59.13,Yes,Improved
+50503,10447,2099,Pediatrics,Pediatric Infection,Bangalore,20-04-2024 17:00,01-05-2024 17:00,11,No,99.12,90.15,No,Recovered
+50504,10210,2108,Orthopedics,Fracture,Delhi,09-07-2024 18:00,11-07-2024 18:00,2,No,52.76,63.48,No,Recovered
+50505,10502,2085,Emergency,Trauma,Delhi,10-01-2024 17:00,22-01-2024 17:00,12,Yes,95.69,93.96,No,Recovered
+50506,10346,2102,Oncology,Cancer,Bangalore,07-07-2024 20:00,20-07-2024 20:00,13,Yes,65.78,46.89,No,Recovered
+50507,10047,2095,Cardiology,Hypertension,Delhi,23-05-2024 04:00,26-05-2024 04:00,3,No,72.97,44.23,No,Recovered
+50508,10217,2011,General Medicine,General Medicine,Chennai,30-03-2024 05:00,13-04-2024 05:00,14,Yes,77.53,50.59,Yes,Recovered
+50509,10264,2058,Orthopedics,Orthopedic Injury,Mumbai,06-12-2024 23:00,10-12-2024 23:00,4,No,67.12,70.06,Yes,Transferred
+50510,10084,2109,Oncology,Tumor,Mumbai,11-10-2024 21:00,15-10-2024 21:00,4,No,97.39,61.81,Yes,Recovered
+50511,10225,2073,General Medicine,General Medicine,Delhi,14-06-2024 13:00,19-06-2024 13:00,5,No,63.71,41.46,No,Recovered
+50512,10221,2005,Orthopedics,Orthopedic Injury,Mumbai,07-08-2024 07:00,14-08-2024 07:00,7,Yes,67.62,46.94,Yes,Recovered
+50513,10129,2087,Cardiology,Heart Failure,Mumbai,13-03-2024 20:00,24-03-2024 20:00,11,No,67.17,58.07,No,Improved
+50514,10506,2082,Oncology,Cancer,Bangalore,21-11-2024 20:00,23-11-2024 20:00,2,No,83.64,67.35,No,Transferred
+50515,10117,2116,Pediatrics,Pediatric Infection,Delhi,05-03-2024 00:00,06-03-2024 00:00,1,No,58.33,79.17,No,Recovered
+50516,10536,2074,General Medicine,General Medicine,Bangalore,27-10-2024 12:00,28-10-2024 12:00,1,No,61.11,51.45,No,Recovered
+50517,10115,2068,Orthopedics,Orthopedic Injury,Bangalore,25-07-2024 15:00,03-08-2024 15:00,9,No,58.27,40.13,No,Improved
+50518,10315,2039,Cardiology,Heart Failure,Bangalore,26-06-2024 22:00,03-07-2024 22:00,7,Yes,93.94,50.82,No,Improved
+50519,10028,2077,Oncology,Cancer,Delhi,11-05-2024 19:00,13-05-2024 19:00,2,No,53.55,85.01,No,Recovered
+50520,10325,2051,Cardiology,Heart Failure,Mumbai,20-03-2024 18:00,21-03-2024 18:00,1,No,86.68,86.2,No,Recovered
+50521,10466,2050,Pediatrics,Pediatric Infection,Chennai,18-10-2024 19:00,23-10-2024 19:00,5,No,76.86,77.24,No,Recovered
+50522,10336,2060,Emergency,Trauma,Bangalore,05-11-2024 20:00,06-11-2024 20:00,1,Yes,71.24,58.8,No,Recovered
+50523,10495,2051,General Medicine,General Medicine,Chennai,28-02-2024 00:00,02-03-2024 00:00,3,Yes,61.18,87.14,No,Transferred
+50524,10012,2099,Pediatrics,Congenital,Delhi,19-05-2024 06:00,02-06-2024 06:00,14,No,96.81,91.74,No,Recovered
+50525,10100,2018,Emergency,Acute Condition,Delhi,27-12-2024 08:00,28-12-2024 08:00,1,Yes,50.19,48.94,No,Recovered
+50526,10335,2093,General Medicine,Respiratory,Chennai,29-04-2024 09:00,12-05-2024 09:00,13,No,57.3,85.27,No,Recovered
+50527,10429,2106,General Medicine,General Medicine,Mumbai,23-04-2024 09:00,29-04-2024 09:00,6,No,58.87,40.39,No,Recovered
+50528,10092,2052,Emergency,Trauma,Delhi,14-07-2024 22:00,28-07-2024 22:00,14,Yes,88.5,74.66,No,Recovered
+50529,10579,2030,Emergency,Acute Condition,Mumbai,16-05-2024 09:00,17-05-2024 09:00,1,Yes,90.8,60.81,Yes,Recovered
+50530,10580,2025,Oncology,Cancer,Bangalore,02-03-2024 02:00,16-03-2024 02:00,14,Yes,99.31,85.15,No,Recovered
+50531,10576,2031,Emergency,Trauma,Chennai,02-09-2024 08:00,14-09-2024 08:00,12,No,62.19,56.82,No,Recovered
+50532,10383,2089,Oncology,Tumor,Mumbai,26-10-2024 09:00,03-11-2024 09:00,8,No,53.53,59.88,No,Recovered
+50533,10198,2043,Emergency,Acute Condition,Chennai,03-01-2024 23:00,08-01-2024 23:00,5,No,94.33,62.6,No,Improved
+50534,10558,2044,Oncology,Tumor,Mumbai,25-05-2024 20:00,29-05-2024 20:00,4,Yes,72.48,58.99,No,Transferred
+50535,10329,2115,General Medicine,General Medicine,Chennai,20-09-2024 01:00,29-09-2024 01:00,9,No,83.22,58.89,Yes,Recovered
+50536,10027,2062,Orthopedics,Orthopedic Injury,Bangalore,02-08-2024 07:00,12-08-2024 07:00,10,No,50.37,63.25,No,Improved
+50537,10367,2016,Orthopedics,Fracture,Bangalore,16-08-2024 18:00,17-08-2024 18:00,1,Yes,58.89,59.34,No,Recovered
+50538,10269,2028,Emergency,Acute Condition,Delhi,25-06-2024 04:00,01-07-2024 04:00,6,No,52.65,78.56,Yes,Recovered
+50539,10422,2002,Oncology,Tumor,Delhi,23-05-2024 12:00,30-05-2024 12:00,7,No,95.22,40.04,No,Deceased
+50540,10446,2029,Cardiology,Heart Failure,Mumbai,12-03-2024 09:00,13-03-2024 09:00,1,No,66.77,92.37,No,Recovered
+50541,10455,2104,Orthopedics,Orthopedic Injury,Mumbai,04-10-2024 18:00,11-10-2024 18:00,7,No,72.94,49.99,No,Recovered
+50542,10226,2051,Cardiology,Cardiac,Mumbai,19-03-2024 19:00,21-03-2024 19:00,2,No,75.86,44.63,No,Transferred
+50543,10403,2067,General Medicine,General Medicine,Mumbai,03-09-2024 15:00,04-09-2024 15:00,1,No,58.74,75.64,No,Improved
+50544,10333,2041,General Medicine,General Medicine,Mumbai,08-05-2024 17:00,20-05-2024 17:00,12,Yes,70.34,52.14,No,Recovered
+50545,10496,2118,Orthopedics,Fracture,Bangalore,09-11-2024 13:00,22-11-2024 13:00,13,No,61.72,41.08,No,Deceased
+50546,10166,2031,Orthopedics,Orthopedic Injury,Bangalore,14-09-2024 23:00,21-09-2024 23:00,7,No,99.01,75.76,No,Recovered
+50547,10393,2038,Cardiology,Cardiac,Bangalore,18-11-2024 21:00,28-11-2024 21:00,10,Yes,55.79,86.43,Yes,Recovered
+50548,10379,2040,Pediatrics,Pediatric Infection,Mumbai,21-12-2024 12:00,22-12-2024 12:00,1,No,91.28,83.52,No,Recovered
+50549,10085,2011,General Medicine,General Medicine,Delhi,02-08-2024 04:00,11-08-2024 04:00,9,Yes,57.5,69.57,No,Recovered
+50550,10220,2060,General Medicine,General Medicine,Bangalore,22-06-2024 04:00,25-06-2024 04:00,3,No,62.89,78.57,Yes,Recovered
+50551,10058,2005,Oncology,Cancer,Chennai,24-12-2024 04:00,29-12-2024 04:00,5,No,72.98,67.44,Yes,Recovered
+50552,10026,2070,Oncology,Cancer,Delhi,25-01-2024 01:00,03-02-2024 01:00,9,Yes,82.41,49.48,No,Recovered
+50553,10332,2094,Pediatrics,Congenital,Delhi,17-02-2024 18:00,20-02-2024 18:00,3,No,63.31,41.72,Yes,Recovered
+50554,10472,2104,Pediatrics,Pediatric Infection,Mumbai,04-11-2024 19:00,09-11-2024 19:00,5,No,76.04,76.81,No,Recovered
+50555,10551,2089,Pediatrics,Pediatric Infection,Mumbai,27-11-2024 12:00,10-12-2024 12:00,13,No,88.23,44.35,No,Recovered
+50556,10507,2096,Oncology,Cancer,Mumbai,26-06-2024 12:00,08-07-2024 12:00,12,No,54.83,55.08,No,Transferred
+50557,10146,2007,Oncology,Cancer,Chennai,06-10-2024 17:00,07-10-2024 17:00,1,No,56.36,63.51,No,Recovered
+50558,10079,2049,Oncology,Tumor,Delhi,29-01-2024 22:00,03-02-2024 22:00,5,No,96.81,68.24,No,Recovered
+50559,10359,2056,General Medicine,Respiratory,Delhi,02-04-2024 19:00,16-04-2024 19:00,14,No,66.93,43.05,No,Recovered
+50560,10531,2091,Cardiology,Hypertension,Mumbai,07-07-2024 21:00,08-07-2024 21:00,1,No,74.32,58.37,Yes,Improved
+50561,10400,2090,Oncology,Tumor,Delhi,09-12-2024 20:00,20-12-2024 20:00,11,No,65.35,41.93,No,Recovered
+50562,10524,2035,Oncology,Cancer,Delhi,16-01-2024 07:00,30-01-2024 07:00,14,No,66.44,55.3,No,Recovered
+50563,10066,2009,General Medicine,General Medicine,Chennai,09-10-2024 19:00,18-10-2024 19:00,9,No,61.88,66.91,No,Recovered
+50564,10226,2047,Cardiology,Cardiac,Bangalore,10-04-2024 05:00,23-04-2024 05:00,13,No,90.92,77.58,No,Recovered
+50565,10273,2014,Oncology,Cancer,Chennai,31-01-2024 23:00,11-02-2024 23:00,11,Yes,56.18,46.8,No,Recovered
+50566,10037,2026,Orthopedics,Fracture,Delhi,25-01-2024 19:00,27-01-2024 19:00,2,No,99.46,54.58,No,Recovered
+50567,10433,2112,Orthopedics,Orthopedic Injury,Bangalore,22-02-2024 02:00,04-03-2024 02:00,11,No,65,48.32,No,Transferred
+50568,10364,2002,Emergency,Acute Condition,Chennai,13-06-2024 14:00,26-06-2024 14:00,13,Yes,70.52,91.33,No,Recovered
+50569,10123,2008,Oncology,Tumor,Delhi,26-11-2024 23:00,28-11-2024 23:00,2,Yes,87.83,45.24,Yes,Improved
+50570,10078,2056,Oncology,Tumor,Chennai,09-07-2024 11:00,21-07-2024 11:00,12,No,60.14,81.01,No,Transferred
+50571,10480,2050,General Medicine,Respiratory,Bangalore,28-05-2024 19:00,09-06-2024 19:00,12,Yes,62.73,66.89,No,Transferred
+50572,10243,2113,Orthopedics,Orthopedic Injury,Chennai,10-04-2024 20:00,20-04-2024 20:00,10,Yes,57.98,88.71,Yes,Transferred
+50573,10399,2023,Pediatrics,Pediatric Infection,Delhi,09-04-2024 11:00,22-04-2024 11:00,13,Yes,55.82,93.36,Yes,Improved
+50574,10262,2027,Cardiology,Cardiac,Mumbai,21-11-2024 18:00,29-11-2024 18:00,8,Yes,55.05,50.95,No,Recovered
+50575,10321,2018,Orthopedics,Fracture,Chennai,01-08-2024 21:00,09-08-2024 21:00,8,Yes,97.75,73.6,Yes,Recovered
+50576,10116,2093,Emergency,Trauma,Mumbai,10-06-2024 10:00,16-06-2024 10:00,6,Yes,66.86,62.12,Yes,Recovered
+50577,10456,2004,Oncology,Tumor,Bangalore,27-04-2024 12:00,02-05-2024 12:00,5,No,55.24,54.74,No,Improved
+50578,10092,2039,Oncology,Cancer,Mumbai,19-10-2024 01:00,26-10-2024 01:00,7,Yes,52.36,49.7,No,Recovered
+50579,10007,2102,Oncology,Tumor,Chennai,29-12-2024 15:00,07-01-2025 15:00,9,Yes,75.06,61.11,No,Recovered
+50580,10471,2007,Orthopedics,Fracture,Bangalore,27-08-2024 10:00,04-09-2024 10:00,8,No,54.74,69.93,No,Recovered
+50581,10234,2025,Orthopedics,Fracture,Chennai,28-07-2024 08:00,10-08-2024 08:00,13,Yes,77.84,89.05,No,Improved
+50582,10147,2028,Orthopedics,Fracture,Delhi,13-04-2024 09:00,17-04-2024 09:00,4,No,99.54,88.56,No,Improved
+50583,10466,2075,General Medicine,General Medicine,Chennai,15-09-2024 04:00,24-09-2024 04:00,9,No,99.07,45.36,No,Recovered
+50584,10367,2002,Emergency,Trauma,Delhi,09-08-2024 01:00,18-08-2024 01:00,9,No,79.54,75.9,No,Recovered
+50585,10236,2104,Pediatrics,Pediatric Infection,Delhi,18-12-2024 14:00,24-12-2024 14:00,6,No,88.11,79.25,No,Recovered
+50586,10298,2098,Emergency,Trauma,Delhi,29-09-2024 07:00,08-10-2024 07:00,9,Yes,69.47,92.34,No,Recovered
+50587,10152,2098,Pediatrics,Pediatric Infection,Mumbai,29-08-2024 02:00,10-09-2024 02:00,12,Yes,85.16,41.19,No,Recovered
+50588,10421,2091,General Medicine,General Medicine,Chennai,07-02-2024 07:00,13-02-2024 07:00,6,Yes,76.3,84.48,No,Recovered
+50589,10009,2033,General Medicine,General Medicine,Chennai,03-11-2024 21:00,16-11-2024 21:00,13,Yes,78.1,57.3,Yes,Deceased
+50590,10065,2020,General Medicine,Respiratory,Delhi,04-09-2024 18:00,13-09-2024 18:00,9,No,72.12,76.78,No,Recovered
+50591,10177,2089,Orthopedics,Fracture,Bangalore,12-01-2024 09:00,21-01-2024 09:00,9,Yes,63.36,63.18,Yes,Recovered
+50592,10253,2030,Cardiology,Hypertension,Chennai,25-02-2024 21:00,29-02-2024 21:00,4,Yes,82.26,75.8,No,Recovered
+50593,10022,2093,Pediatrics,Congenital,Bangalore,03-11-2024 15:00,10-11-2024 15:00,7,No,63.41,94.96,No,Recovered
+50594,10574,2112,Orthopedics,Orthopedic Injury,Mumbai,24-02-2024 06:00,05-03-2024 06:00,10,No,72.91,91.98,No,Recovered
+50595,10130,2013,Pediatrics,Pediatric Infection,Bangalore,10-12-2024 23:00,22-12-2024 23:00,12,No,79.11,59.62,No,Recovered
+50596,10357,2073,Cardiology,Cardiac,Bangalore,02-10-2024 09:00,14-10-2024 09:00,12,No,95.61,51.51,Yes,Transferred
+50597,10363,2054,Emergency,Acute Condition,Delhi,18-04-2024 04:00,28-04-2024 04:00,10,Yes,84.51,75.51,No,Recovered
+50598,10549,2119,General Medicine,General Medicine,Mumbai,07-03-2024 12:00,14-03-2024 12:00,7,No,82.44,80,No,Recovered
+50599,10382,2027,Cardiology,Heart Failure,Chennai,24-10-2024 11:00,07-11-2024 11:00,14,No,95.94,64.22,No,Deceased
+50600,10208,2019,General Medicine,General Medicine,Chennai,23-04-2024 19:00,24-04-2024 19:00,1,Yes,65.73,68.16,No,Improved
+50601,10079,2073,Oncology,Cancer,Bangalore,26-10-2024 11:00,02-11-2024 11:00,7,No,69.28,90.35,No,Recovered
+50602,10116,2035,General Medicine,General Medicine,Mumbai,01-05-2024 11:00,12-05-2024 11:00,11,Yes,71.8,48.63,No,Recovered
+50603,10415,2107,Cardiology,Heart Failure,Mumbai,05-04-2024 19:00,11-04-2024 19:00,6,No,75.76,82.61,No,Transferred
+50604,10221,2080,Emergency,Acute Condition,Mumbai,05-10-2024 08:00,15-10-2024 08:00,10,Yes,51.05,79.76,Yes,Transferred
+50605,10104,2033,Emergency,Acute Condition,Bangalore,26-06-2024 01:00,07-07-2024 01:00,11,Yes,80.2,42.73,Yes,Transferred
+50606,10118,2089,General Medicine,Respiratory,Delhi,13-11-2024 22:00,27-11-2024 22:00,14,No,52.05,59.1,No,Recovered
+50607,10394,2099,Pediatrics,Pediatric Infection,Chennai,06-06-2024 16:00,17-06-2024 16:00,11,No,92.6,59.61,No,Recovered
+50608,10267,2102,Cardiology,Heart Failure,Mumbai,15-08-2024 22:00,25-08-2024 22:00,10,No,85.7,90.86,No,Recovered
+50609,10323,2082,General Medicine,Respiratory,Delhi,22-07-2024 20:00,30-07-2024 20:00,8,No,50.5,50.72,No,Recovered
+50610,10295,2049,Oncology,Tumor,Delhi,28-06-2024 15:00,09-07-2024 15:00,11,No,64.95,62.59,No,Transferred
+50611,10536,2055,Pediatrics,Congenital,Delhi,03-10-2024 04:00,07-10-2024 04:00,4,Yes,76.22,92.96,No,Improved
+50612,10012,2035,Oncology,Tumor,Bangalore,06-10-2024 10:00,15-10-2024 10:00,9,Yes,77.98,55.36,No,Recovered
+50613,10396,2034,Emergency,Acute Condition,Bangalore,09-12-2024 15:00,10-12-2024 15:00,1,Yes,92.73,74.68,No,Recovered
+50614,10196,2075,Cardiology,Hypertension,Delhi,15-03-2024 01:00,22-03-2024 01:00,7,No,59.35,43.67,No,Recovered
+50615,10077,2101,Pediatrics,Pediatric Infection,Mumbai,03-05-2024 18:00,10-05-2024 18:00,7,Yes,55.78,57.94,No,Recovered
+50616,10363,2029,Cardiology,Heart Failure,Bangalore,12-04-2024 18:00,18-04-2024 18:00,6,No,80.35,50.37,No,Recovered
+50617,10153,2097,Emergency,Acute Condition,Bangalore,01-03-2024 06:00,10-03-2024 06:00,9,No,62.03,80.9,No,Recovered
+50618,10052,2067,Cardiology,Cardiac,Mumbai,28-11-2024 04:00,02-12-2024 04:00,4,Yes,64.26,70.47,Yes,Recovered
+50619,10509,2025,Pediatrics,Pediatric Infection,Mumbai,04-11-2024 16:00,10-11-2024 16:00,6,No,57.74,59.59,No,Recovered
+50620,10468,2033,Emergency,Acute Condition,Mumbai,27-04-2024 04:00,04-05-2024 04:00,7,Yes,81.84,93.61,No,Recovered
+50621,10387,2089,Pediatrics,Pediatric Infection,Bangalore,07-08-2024 07:00,15-08-2024 07:00,8,No,86.98,44.76,No,Deceased
+50622,10589,2027,General Medicine,General Medicine,Delhi,22-04-2024 12:00,23-04-2024 12:00,1,No,65.08,61.12,No,Recovered
+50623,10156,2044,General Medicine,General Medicine,Delhi,17-02-2024 13:00,29-02-2024 13:00,12,No,72.32,70.29,No,Transferred
+50624,10330,2107,Orthopedics,Orthopedic Injury,Chennai,03-07-2024 01:00,13-07-2024 01:00,10,No,96.83,56.96,No,Recovered
+50625,10134,2065,Oncology,Cancer,Mumbai,05-09-2024 12:00,10-09-2024 12:00,5,No,83.14,72.46,No,Recovered
+50626,10253,2070,Orthopedics,Orthopedic Injury,Mumbai,03-08-2024 15:00,09-08-2024 15:00,6,No,88.36,93.5,No,Recovered
+50627,10551,2071,General Medicine,General Medicine,Bangalore,23-09-2024 11:00,03-10-2024 11:00,10,No,77.47,91.14,No,Improved
+50628,10386,2102,Cardiology,Hypertension,Bangalore,07-05-2024 22:00,20-05-2024 22:00,13,No,74.73,89.21,No,Recovered
+50629,10057,2050,Emergency,Acute Condition,Mumbai,25-04-2024 09:00,01-05-2024 09:00,6,Yes,93.25,57.63,No,Recovered
+50630,10133,2011,Pediatrics,Pediatric Infection,Delhi,12-02-2024 06:00,18-02-2024 06:00,6,No,72.09,59.07,No,Recovered
+50631,10404,2082,Emergency,Acute Condition,Delhi,28-03-2024 03:00,09-04-2024 03:00,12,Yes,67.28,84.42,No,Recovered
+50632,10208,2024,Pediatrics,Pediatric Infection,Delhi,16-12-2024 22:00,29-12-2024 22:00,13,Yes,77.76,69.02,No,Recovered
+50633,10541,2037,Cardiology,Hypertension,Delhi,15-03-2024 18:00,18-03-2024 18:00,3,Yes,68.63,59.34,No,Recovered
+50634,10431,2042,Pediatrics,Pediatric Infection,Mumbai,17-05-2024 09:00,31-05-2024 09:00,14,Yes,74.11,79.58,No,Recovered
+50635,10376,2103,Emergency,Acute Condition,Bangalore,01-05-2024 09:00,03-05-2024 09:00,2,Yes,65.14,65.26,No,Recovered
+50636,10356,2040,Cardiology,Heart Failure,Delhi,05-12-2024 20:00,08-12-2024 20:00,3,Yes,61.6,78.99,No,Recovered
+50637,10048,2111,Orthopedics,Fracture,Bangalore,15-06-2024 08:00,21-06-2024 08:00,6,No,79.57,88.78,No,Recovered
+50638,10214,2062,General Medicine,General Medicine,Chennai,13-06-2024 16:00,23-06-2024 16:00,10,Yes,98.08,84.4,No,Deceased
+50639,10504,2004,Oncology,Cancer,Delhi,28-12-2024 09:00,05-01-2025 09:00,8,No,97.19,40.21,No,Recovered
+50640,10467,2073,Oncology,Cancer,Chennai,24-06-2024 00:00,04-07-2024 00:00,10,No,92.67,80.56,No,Transferred
+50641,10441,2069,Cardiology,Hypertension,Delhi,06-07-2024 14:00,09-07-2024 14:00,3,Yes,75.92,72.3,No,Recovered
+50642,10162,2063,Pediatrics,Congenital,Delhi,07-10-2024 08:00,13-10-2024 08:00,6,Yes,64.02,48.79,No,Improved
+50643,10420,2117,Oncology,Tumor,Bangalore,17-06-2024 13:00,21-06-2024 13:00,4,Yes,64.36,68.12,No,Recovered
+50644,10104,2102,General Medicine,General Medicine,Mumbai,22-07-2024 15:00,25-07-2024 15:00,3,Yes,65.64,72.35,Yes,Recovered
+50645,10188,2061,Cardiology,Heart Failure,Chennai,21-10-2024 20:00,22-10-2024 20:00,1,No,96.94,84.28,No,Improved
+50646,10065,2077,Oncology,Tumor,Delhi,18-08-2024 09:00,24-08-2024 09:00,6,No,62.99,54.01,No,Improved
+50647,10099,2061,Emergency,Trauma,Bangalore,16-04-2024 16:00,17-04-2024 16:00,1,No,90.91,92.69,No,Improved
+50648,10542,2095,Emergency,Acute Condition,Delhi,10-11-2024 17:00,15-11-2024 17:00,5,No,90.38,67.98,Yes,Improved
+50649,10215,2076,Pediatrics,Congenital,Mumbai,23-02-2024 02:00,03-03-2024 02:00,9,No,88.51,81.12,No,Recovered
+50650,10001,2117,General Medicine,Respiratory,Chennai,12-07-2024 09:00,24-07-2024 09:00,12,No,54.45,68.13,No,Recovered
+50651,10166,2011,General Medicine,General Medicine,Delhi,20-11-2024 17:00,23-11-2024 17:00,3,Yes,79.28,72.52,No,Recovered
+50652,10115,2031,Oncology,Cancer,Mumbai,02-06-2024 08:00,16-06-2024 08:00,14,Yes,75.38,62.07,No,Improved
+50653,10477,2075,Cardiology,Heart Failure,Chennai,01-10-2024 18:00,02-10-2024 18:00,1,Yes,95.48,74.86,Yes,Recovered
+50654,10426,2041,General Medicine,Respiratory,Chennai,10-12-2024 18:00,20-12-2024 18:00,10,Yes,69.64,49.88,No,Transferred
+50655,10085,2032,Pediatrics,Congenital,Mumbai,17-03-2024 02:00,26-03-2024 02:00,9,Yes,64.25,66.31,No,Recovered
+50656,10330,2055,General Medicine,General Medicine,Chennai,16-06-2024 04:00,25-06-2024 04:00,9,No,97.16,91.25,No,Recovered
+50657,10253,2041,Emergency,Acute Condition,Bangalore,11-06-2024 01:00,22-06-2024 01:00,11,No,91.74,81.57,No,Recovered
+50658,10128,2082,Oncology,Tumor,Mumbai,13-04-2024 09:00,23-04-2024 09:00,10,No,84.03,87.24,No,Recovered
+50659,10228,2017,Orthopedics,Orthopedic Injury,Mumbai,23-08-2024 21:00,24-08-2024 21:00,1,No,74.15,62.88,No,Recovered
+50660,10110,2075,Orthopedics,Orthopedic Injury,Chennai,02-10-2024 02:00,07-10-2024 02:00,5,Yes,95.54,73.84,No,Recovered
+50661,10213,2052,Pediatrics,Pediatric Infection,Chennai,17-02-2024 15:00,28-02-2024 15:00,11,No,77.47,76.09,No,Transferred
+50662,10106,2077,Cardiology,Hypertension,Bangalore,17-03-2024 15:00,27-03-2024 15:00,10,No,56.44,92.12,No,Recovered
+50663,10382,2086,Oncology,Tumor,Delhi,28-01-2024 20:00,30-01-2024 20:00,2,No,93.36,77.02,Yes,Recovered
+50664,10303,2112,Cardiology,Heart Failure,Chennai,31-05-2024 12:00,14-06-2024 12:00,14,No,73.69,64.57,Yes,Improved
+50665,10464,2059,Pediatrics,Pediatric Infection,Delhi,24-03-2024 15:00,07-04-2024 15:00,14,Yes,68.75,67.99,No,Recovered
+50666,10255,2092,General Medicine,Respiratory,Mumbai,27-11-2024 14:00,29-11-2024 14:00,2,No,95.14,86.77,No,Recovered
+50667,10249,2118,Pediatrics,Pediatric Infection,Chennai,21-08-2024 13:00,27-08-2024 13:00,6,No,87.43,85.54,No,Recovered
+50668,10020,2033,Cardiology,Heart Failure,Chennai,04-12-2024 01:00,10-12-2024 01:00,6,Yes,66.29,65.99,No,Recovered
+50669,10176,2109,Emergency,Acute Condition,Chennai,10-12-2024 07:00,16-12-2024 07:00,6,No,67.44,78.16,No,Recovered
+50670,10338,2067,Pediatrics,Pediatric Infection,Mumbai,28-07-2024 14:00,06-08-2024 14:00,9,Yes,81.08,42.13,No,Improved
+50671,10057,2120,Cardiology,Heart Failure,Delhi,12-05-2024 06:00,15-05-2024 06:00,3,Yes,91.79,45.57,No,Recovered
+50672,10041,2039,Emergency,Acute Condition,Mumbai,10-05-2024 08:00,20-05-2024 08:00,10,Yes,75.21,87.61,No,Recovered
+50673,10550,2100,Pediatrics,Congenital,Delhi,02-11-2024 19:00,03-11-2024 19:00,1,Yes,92.94,78.53,No,Recovered
+50674,10417,2024,Orthopedics,Fracture,Chennai,26-10-2024 13:00,30-10-2024 13:00,4,Yes,90.44,54.27,No,Recovered
+50675,10402,2094,Emergency,Acute Condition,Chennai,29-12-2024 10:00,10-01-2025 10:00,12,Yes,93.15,54.63,No,Recovered
+50676,10306,2062,Orthopedics,Orthopedic Injury,Bangalore,15-11-2024 08:00,29-11-2024 08:00,14,Yes,86.48,41.12,No,Recovered
+50677,10483,2019,Cardiology,Heart Failure,Bangalore,23-11-2024 04:00,28-11-2024 04:00,5,Yes,73.18,88.83,No,Recovered
+50678,10172,2080,General Medicine,General Medicine,Mumbai,13-09-2024 15:00,23-09-2024 15:00,10,No,72.5,58.58,No,Improved
+50679,10497,2072,Oncology,Cancer,Chennai,09-10-2024 09:00,12-10-2024 09:00,3,Yes,98.65,52.18,No,Recovered
+50680,10346,2081,Pediatrics,Pediatric Infection,Bangalore,03-03-2024 00:00,04-03-2024 00:00,1,Yes,88.26,63.8,No,Recovered
+50681,10011,2059,Pediatrics,Congenital,Mumbai,31-05-2024 12:00,08-06-2024 12:00,8,Yes,54.29,45,No,Recovered
+50682,10229,2093,Pediatrics,Pediatric Infection,Mumbai,05-03-2024 16:00,17-03-2024 16:00,12,No,63.77,93.23,No,Recovered
+50683,10335,2031,General Medicine,Respiratory,Bangalore,25-11-2024 21:00,29-11-2024 21:00,4,Yes,62.24,88.48,No,Improved
+50684,10299,2079,General Medicine,General Medicine,Delhi,06-02-2024 22:00,09-02-2024 22:00,3,No,95.4,84.24,Yes,Recovered
+50685,10317,2040,Oncology,Tumor,Chennai,01-04-2024 22:00,14-04-2024 22:00,13,No,79.2,44.53,No,Recovered
+50686,10466,2071,General Medicine,General Medicine,Mumbai,26-02-2024 17:00,08-03-2024 17:00,11,No,83.57,48.92,No,Recovered
+50687,10269,2058,Oncology,Tumor,Bangalore,22-08-2024 12:00,31-08-2024 12:00,9,No,73.58,71.44,Yes,Recovered
+50688,10096,2006,Cardiology,Cardiac,Mumbai,11-06-2024 14:00,19-06-2024 14:00,8,No,80.89,82.35,Yes,Recovered
+50689,10107,2015,Emergency,Acute Condition,Mumbai,27-04-2024 01:00,11-05-2024 01:00,14,Yes,79.05,80.14,No,Recovered
+50690,10073,2096,Pediatrics,Congenital,Bangalore,04-05-2024 22:00,07-05-2024 22:00,3,No,56.6,81.59,No,Transferred
+50691,10051,2019,Emergency,Trauma,Delhi,13-01-2024 10:00,25-01-2024 10:00,12,No,54.84,66.18,No,Recovered
+50692,10273,2068,Oncology,Cancer,Chennai,21-12-2024 09:00,03-01-2025 09:00,13,Yes,65.74,66.7,No,Recovered
+50693,10089,2049,Orthopedics,Fracture,Mumbai,20-04-2024 01:00,29-04-2024 01:00,9,No,77.99,66.75,No,Improved
+50694,10503,2068,Emergency,Trauma,Delhi,27-08-2024 06:00,30-08-2024 06:00,3,Yes,73.28,54.58,No,Recovered
+50695,10334,2049,Oncology,Tumor,Delhi,24-12-2024 09:00,30-12-2024 09:00,6,Yes,74.53,64.12,No,Recovered
+50696,10482,2023,Pediatrics,Congenital,Chennai,06-09-2024 06:00,14-09-2024 06:00,8,Yes,92.71,82.99,Yes,Recovered
+50697,10327,2091,Emergency,Trauma,Bangalore,08-11-2024 16:00,12-11-2024 16:00,4,No,62.24,47.24,No,Recovered
+50698,10073,2106,General Medicine,Respiratory,Chennai,13-12-2024 23:00,26-12-2024 23:00,13,No,67.16,70.89,Yes,Improved
+50699,10543,2028,Pediatrics,Pediatric Infection,Chennai,10-01-2024 08:00,21-01-2024 08:00,11,Yes,84.79,49.05,No,Recovered
+50700,10356,2114,Oncology,Cancer,Chennai,24-01-2024 13:00,31-01-2024 13:00,7,Yes,52.35,76.77,No,Improved
+50701,10157,2001,Oncology,Tumor,Bangalore,05-03-2024 23:00,09-03-2024 23:00,4,Yes,95.2,57.64,No,Recovered
+50702,10240,2021,Pediatrics,Pediatric Infection,Delhi,25-02-2024 14:00,06-03-2024 14:00,10,No,66.29,84.94,No,Recovered
+50703,10431,2069,General Medicine,General Medicine,Mumbai,25-02-2024 21:00,01-03-2024 21:00,5,No,82.08,41.29,No,Recovered
+50704,10397,2001,Oncology,Cancer,Delhi,02-12-2024 20:00,14-12-2024 20:00,12,No,78.52,42.95,Yes,Recovered
+50705,10569,2049,Cardiology,Hypertension,Chennai,22-12-2024 08:00,05-01-2025 08:00,14,Yes,97.42,86.34,No,Recovered
+50706,10257,2032,General Medicine,General Medicine,Mumbai,29-03-2024 00:00,07-04-2024 00:00,9,No,57.93,66.81,No,Recovered
+50707,10366,2036,Oncology,Tumor,Delhi,24-11-2024 23:00,25-11-2024 23:00,1,No,52.03,90.26,No,Recovered
+50708,10178,2037,Cardiology,Heart Failure,Mumbai,19-02-2024 03:00,20-02-2024 03:00,1,No,88.53,54.52,Yes,Transferred
+50709,10065,2088,Emergency,Acute Condition,Chennai,10-07-2024 21:00,24-07-2024 21:00,14,No,61.63,73.42,No,Recovered
+50710,10061,2058,General Medicine,Respiratory,Bangalore,02-11-2024 21:00,12-11-2024 21:00,10,Yes,78.67,51.84,No,Recovered
+50711,10558,2085,Emergency,Acute Condition,Mumbai,14-08-2024 20:00,27-08-2024 20:00,13,No,96.1,50.73,No,Improved
+50712,10383,2017,Orthopedics,Orthopedic Injury,Delhi,21-04-2024 19:00,25-04-2024 19:00,4,Yes,56.15,74.08,No,Recovered
+50713,10547,2004,Orthopedics,Fracture,Chennai,09-10-2024 04:00,23-10-2024 04:00,14,No,58.42,81.83,No,Recovered
+50714,10570,2063,Emergency,Trauma,Chennai,02-06-2024 21:00,09-06-2024 21:00,7,Yes,82.74,61.45,No,Recovered
+50715,10459,2061,General Medicine,General Medicine,Chennai,25-03-2024 08:00,07-04-2024 08:00,13,No,83.71,74.83,Yes,Recovered
+50716,10472,2067,Oncology,Tumor,Mumbai,23-07-2024 16:00,30-07-2024 16:00,7,No,79.44,44.91,No,Recovered
+50717,10178,2114,General Medicine,Respiratory,Bangalore,03-12-2024 22:00,05-12-2024 22:00,2,Yes,94.74,41.33,No,Recovered
+50718,10476,2053,Emergency,Acute Condition,Bangalore,24-06-2024 13:00,08-07-2024 13:00,14,No,56.43,41.01,No,Improved
+50719,10023,2054,Cardiology,Heart Failure,Mumbai,19-02-2024 16:00,02-03-2024 16:00,12,No,79.25,68.22,No,Recovered
+50720,10311,2045,Cardiology,Heart Failure,Chennai,24-05-2024 06:00,03-06-2024 06:00,10,No,65.24,77.84,No,Recovered
+50721,10232,2079,Orthopedics,Fracture,Delhi,22-04-2024 11:00,02-05-2024 11:00,10,Yes,82.66,48.17,No,Recovered
+50722,10184,2023,Cardiology,Heart Failure,Mumbai,17-04-2024 02:00,27-04-2024 02:00,10,Yes,59.17,63.74,No,Recovered
+50723,10467,2029,Cardiology,Cardiac,Delhi,10-05-2024 02:00,15-05-2024 02:00,5,Yes,56.37,75.16,Yes,Transferred
+50724,10176,2003,General Medicine,Respiratory,Bangalore,06-08-2024 00:00,12-08-2024 00:00,6,No,62.8,75.8,Yes,Recovered
+50725,10227,2038,Emergency,Trauma,Chennai,08-10-2024 08:00,18-10-2024 08:00,10,No,54.7,55.99,No,Recovered
+50726,10334,2113,Pediatrics,Congenital,Delhi,01-03-2024 21:00,04-03-2024 21:00,3,Yes,95.07,70.66,No,Recovered
+50727,10423,2033,Pediatrics,Pediatric Infection,Delhi,24-02-2024 18:00,01-03-2024 18:00,6,No,51.92,87.89,No,Recovered
+50728,10472,2074,General Medicine,General Medicine,Delhi,18-12-2024 12:00,22-12-2024 12:00,4,No,72.34,58.86,Yes,Recovered
+50729,10248,2069,Pediatrics,Pediatric Infection,Chennai,27-03-2024 12:00,09-04-2024 12:00,13,No,90.37,46.01,No,Recovered
+50730,10309,2007,Emergency,Acute Condition,Delhi,30-05-2024 17:00,07-06-2024 17:00,8,No,60.64,76.78,No,Recovered
+50731,10482,2026,Oncology,Tumor,Delhi,30-04-2024 04:00,06-05-2024 04:00,6,No,66.35,73.37,No,Recovered
+50732,10503,2120,Pediatrics,Congenital,Bangalore,16-01-2024 20:00,29-01-2024 20:00,13,No,74.42,58.57,No,Recovered
+50733,10115,2090,Cardiology,Cardiac,Delhi,21-08-2024 08:00,24-08-2024 08:00,3,No,97.96,91.21,No,Recovered
+50734,10021,2019,Oncology,Cancer,Delhi,29-08-2024 23:00,07-09-2024 23:00,9,Yes,75.01,86.22,No,Recovered
+50735,10521,2025,Pediatrics,Congenital,Delhi,12-03-2024 09:00,17-03-2024 09:00,5,No,88.59,62.98,No,Transferred
+50736,10089,2102,Emergency,Trauma,Chennai,21-11-2024 16:00,03-12-2024 16:00,12,No,85.2,92.01,No,Recovered
+50737,10493,2097,Pediatrics,Pediatric Infection,Bangalore,20-09-2024 16:00,25-09-2024 16:00,5,No,76.43,84.58,No,Transferred
+50738,10031,2055,Orthopedics,Fracture,Delhi,06-02-2024 06:00,07-02-2024 06:00,1,No,95.99,43.03,No,Recovered
+50739,10184,2014,General Medicine,Respiratory,Delhi,19-01-2024 19:00,23-01-2024 19:00,4,No,50.42,49.27,No,Improved
+50740,10496,2019,Emergency,Trauma,Delhi,01-12-2024 19:00,02-12-2024 19:00,1,No,83.8,78.81,No,Recovered
+50741,10123,2033,Emergency,Trauma,Delhi,08-01-2024 15:00,10-01-2024 15:00,2,No,97.2,42.63,No,Recovered
+50742,10438,2061,Cardiology,Heart Failure,Chennai,03-12-2024 00:00,06-12-2024 00:00,3,Yes,99.87,55.46,No,Recovered
+50743,10146,2057,Oncology,Tumor,Bangalore,26-06-2024 20:00,27-06-2024 20:00,1,Yes,81.24,58.5,No,Recovered
+50744,10160,2038,Orthopedics,Fracture,Mumbai,14-11-2024 15:00,23-11-2024 15:00,9,Yes,72.42,57.63,No,Recovered
+50745,10268,2041,Orthopedics,Fracture,Bangalore,10-12-2024 12:00,18-12-2024 12:00,8,No,75.67,75.78,No,Recovered
+50746,10039,2091,Cardiology,Heart Failure,Chennai,28-07-2024 17:00,10-08-2024 17:00,13,Yes,76.37,88.75,No,Recovered
+50747,10237,2061,Orthopedics,Orthopedic Injury,Bangalore,23-01-2024 06:00,06-02-2024 06:00,14,No,94.7,93.59,Yes,Recovered
+50748,10561,2073,Emergency,Acute Condition,Chennai,12-11-2024 21:00,13-11-2024 21:00,1,No,53.61,48.11,Yes,Recovered
+50749,10260,2117,Emergency,Trauma,Delhi,15-05-2024 00:00,16-05-2024 00:00,1,No,57.82,86.75,No,Recovered
+50750,10585,2006,Emergency,Acute Condition,Delhi,09-03-2024 16:00,23-03-2024 16:00,14,Yes,86.32,85.97,No,Recovered
+50751,10200,2043,Emergency,Acute Condition,Mumbai,17-03-2024 12:00,31-03-2024 12:00,14,No,78.89,81.21,No,Recovered
+50752,10131,2067,Emergency,Trauma,Bangalore,13-09-2024 22:00,21-09-2024 22:00,8,No,77.78,80.68,No,Recovered
+50753,10486,2040,Oncology,Tumor,Delhi,26-11-2024 10:00,27-11-2024 10:00,1,No,86.92,47.78,No,Recovered
+50754,10365,2090,Orthopedics,Fracture,Chennai,22-05-2024 00:00,31-05-2024 00:00,9,Yes,63.86,94.82,No,Recovered
+50755,10452,2103,Orthopedics,Orthopedic Injury,Chennai,27-03-2024 13:00,04-04-2024 13:00,8,Yes,50.33,66.37,Yes,Recovered
+50756,10503,2060,Cardiology,Heart Failure,Mumbai,22-02-2024 12:00,07-03-2024 12:00,14,No,53.62,92.48,No,Transferred
+50757,10306,2019,Oncology,Tumor,Delhi,30-12-2024 12:00,02-01-2025 12:00,3,Yes,87.41,89.67,Yes,Recovered
+50758,10107,2060,Orthopedics,Fracture,Chennai,27-07-2024 22:00,30-07-2024 22:00,3,Yes,97.98,61.18,No,Transferred
+50759,10571,2019,General Medicine,Respiratory,Chennai,01-09-2024 20:00,11-09-2024 20:00,10,No,58.13,77.08,Yes,Recovered
+50760,10450,2025,Orthopedics,Orthopedic Injury,Chennai,14-10-2024 17:00,23-10-2024 17:00,9,No,65.13,76.43,No,Transferred
+50761,10417,2042,Cardiology,Cardiac,Delhi,12-06-2024 08:00,24-06-2024 08:00,12,No,98.07,73.15,No,Improved
+50762,10569,2071,Emergency,Trauma,Delhi,28-04-2024 10:00,10-05-2024 10:00,12,No,89.4,86.22,No,Recovered
+50763,10560,2005,General Medicine,General Medicine,Mumbai,29-01-2024 21:00,30-01-2024 21:00,1,Yes,87.48,74.68,No,Recovered
+50764,10228,2025,Emergency,Trauma,Chennai,20-05-2024 09:00,22-05-2024 09:00,2,Yes,97.24,66.91,No,Recovered
+50765,10381,2060,General Medicine,Respiratory,Delhi,09-09-2024 20:00,10-09-2024 20:00,1,No,82.61,79.99,Yes,Recovered
+50766,10481,2016,General Medicine,General Medicine,Bangalore,08-11-2024 11:00,15-11-2024 11:00,7,Yes,99.32,57.34,Yes,Transferred
+50767,10155,2099,Emergency,Trauma,Mumbai,07-06-2024 17:00,19-06-2024 17:00,12,Yes,52.83,45.69,No,Transferred
+50768,10445,2107,Emergency,Acute Condition,Bangalore,28-02-2024 01:00,29-02-2024 01:00,1,No,97.66,69.75,No,Recovered
+50769,10076,2035,General Medicine,Respiratory,Bangalore,01-09-2024 02:00,15-09-2024 02:00,14,Yes,78.03,45.23,No,Improved
+50770,10166,2117,Oncology,Tumor,Bangalore,10-08-2024 03:00,16-08-2024 03:00,6,No,60.37,89.82,No,Transferred
+50771,10250,2013,General Medicine,General Medicine,Bangalore,24-07-2024 08:00,07-08-2024 08:00,14,Yes,84.01,86.34,No,Recovered
+50772,10169,2094,General Medicine,Respiratory,Mumbai,23-05-2024 17:00,30-05-2024 17:00,7,No,89.51,56.27,No,Recovered
+50773,10232,2105,Oncology,Tumor,Bangalore,21-08-2024 15:00,28-08-2024 15:00,7,Yes,52.77,50.9,Yes,Recovered
+50774,10364,2074,Pediatrics,Pediatric Infection,Mumbai,03-07-2024 05:00,15-07-2024 05:00,12,Yes,67.89,40.46,No,Recovered
+50775,10003,2017,Orthopedics,Fracture,Mumbai,14-05-2024 08:00,22-05-2024 08:00,8,No,50.77,63.97,No,Recovered
+50776,10026,2011,Cardiology,Hypertension,Mumbai,31-08-2024 05:00,06-09-2024 05:00,6,No,94.39,45.76,No,Recovered
+50777,10241,2105,Orthopedics,Fracture,Bangalore,25-05-2024 14:00,30-05-2024 14:00,5,No,72.08,66.98,No,Recovered
+50778,10533,2052,Emergency,Trauma,Bangalore,23-12-2024 08:00,04-01-2025 08:00,12,No,61.06,54.8,No,Recovered
+50779,10600,2080,Pediatrics,Congenital,Delhi,11-07-2024 18:00,24-07-2024 18:00,13,No,54.38,84.31,No,Improved
+50780,10001,2049,Orthopedics,Fracture,Chennai,13-07-2024 14:00,14-07-2024 14:00,1,No,72.34,66.01,No,Recovered
+50781,10051,2081,General Medicine,Respiratory,Chennai,22-11-2024 11:00,28-11-2024 11:00,6,No,55.29,74.57,Yes,Recovered
+50782,10471,2109,Pediatrics,Congenital,Chennai,21-05-2024 03:00,26-05-2024 03:00,5,Yes,63.13,46.7,No,Improved
+50783,10151,2112,Emergency,Trauma,Mumbai,25-07-2024 15:00,02-08-2024 15:00,8,No,60.48,47.98,No,Recovered
+50784,10311,2019,Emergency,Trauma,Delhi,06-06-2024 11:00,20-06-2024 11:00,14,Yes,58.57,44.34,No,Recovered
+50785,10095,2092,General Medicine,General Medicine,Bangalore,10-05-2024 05:00,12-05-2024 05:00,2,Yes,51.93,88.34,No,Recovered
+50786,10055,2093,Pediatrics,Pediatric Infection,Mumbai,19-11-2024 11:00,24-11-2024 11:00,5,Yes,71.02,89.23,No,Recovered
+50787,10122,2043,Orthopedics,Fracture,Bangalore,06-06-2024 02:00,17-06-2024 02:00,11,Yes,96.09,81.66,No,Transferred
+50788,10091,2027,General Medicine,General Medicine,Chennai,06-05-2024 04:00,19-05-2024 04:00,13,Yes,74.14,57.77,No,Recovered
+50789,10470,2021,Emergency,Trauma,Chennai,20-09-2024 08:00,04-10-2024 08:00,14,No,77.99,92.86,No,Recovered
+50790,10498,2084,Orthopedics,Fracture,Delhi,14-07-2024 22:00,23-07-2024 22:00,9,No,84.36,45.27,No,Recovered
+50791,10276,2109,Cardiology,Hypertension,Mumbai,05-10-2024 23:00,09-10-2024 23:00,4,No,51.99,86.17,No,Improved
+50792,10128,2119,Emergency,Trauma,Chennai,15-08-2024 02:00,27-08-2024 02:00,12,No,80.89,65.1,No,Recovered
+50793,10029,2105,Oncology,Cancer,Chennai,05-10-2024 02:00,09-10-2024 02:00,4,No,60.68,40.59,No,Improved
+50794,10490,2093,General Medicine,General Medicine,Delhi,29-12-2024 17:00,01-01-2025 17:00,3,No,54.95,54.93,No,Recovered
+50795,10449,2064,Oncology,Cancer,Mumbai,12-01-2024 06:00,13-01-2024 06:00,1,Yes,85.25,64.8,Yes,Improved
+50796,10502,2083,Orthopedics,Fracture,Delhi,11-07-2024 07:00,23-07-2024 07:00,12,No,95.58,75.89,No,Improved
+50797,10133,2089,Orthopedics,Fracture,Mumbai,21-11-2024 07:00,25-11-2024 07:00,4,No,81.59,54.14,No,Recovered
+50798,10105,2066,Orthopedics,Orthopedic Injury,Bangalore,21-01-2024 04:00,29-01-2024 04:00,8,Yes,91.01,51.51,No,Recovered
+50799,10578,2063,Orthopedics,Fracture,Bangalore,16-10-2024 00:00,26-10-2024 00:00,10,Yes,77.76,80.17,No,Improved
+50800,10529,2060,Oncology,Cancer,Delhi,02-04-2024 22:00,13-04-2024 22:00,11,No,94.65,64.64,No,Recovered
+50801,10077,2080,General Medicine,General Medicine,Chennai,14-03-2024 15:00,18-03-2024 15:00,4,No,98.8,69.28,No,Improved
+50802,10332,2014,Pediatrics,Congenital,Delhi,14-03-2024 00:00,18-03-2024 00:00,4,Yes,90.06,73.24,No,Recovered
+50803,10245,2050,Oncology,Tumor,Mumbai,15-08-2024 01:00,25-08-2024 01:00,10,Yes,89.32,40.99,No,Recovered
+50804,10585,2019,Pediatrics,Pediatric Infection,Chennai,19-01-2024 01:00,26-01-2024 01:00,7,No,89.69,94.41,No,Recovered
+50805,10061,2100,Cardiology,Cardiac,Bangalore,19-11-2024 12:00,30-11-2024 12:00,11,No,78.36,70.86,No,Recovered
+50806,10253,2009,Pediatrics,Congenital,Delhi,07-12-2024 04:00,18-12-2024 04:00,11,No,64.39,46.61,No,Recovered
+50807,10113,2005,Orthopedics,Fracture,Mumbai,22-09-2024 05:00,06-10-2024 05:00,14,Yes,65.27,82.97,No,Recovered
+50808,10132,2104,Orthopedics,Fracture,Bangalore,02-11-2024 17:00,15-11-2024 17:00,13,No,89.75,49.97,No,Recovered
+50809,10059,2053,Pediatrics,Pediatric Infection,Bangalore,10-03-2024 10:00,24-03-2024 10:00,14,Yes,71.03,66.45,No,Improved
+50810,10349,2059,General Medicine,Respiratory,Delhi,01-07-2024 18:00,15-07-2024 18:00,14,No,90.13,66.75,No,Recovered
+50811,10563,2107,Pediatrics,Congenital,Delhi,13-05-2024 00:00,21-05-2024 00:00,8,Yes,93.41,56.21,Yes,Recovered
+50812,10583,2017,Emergency,Acute Condition,Delhi,07-11-2024 11:00,08-11-2024 11:00,1,Yes,66.52,41.08,Yes,Improved
+50813,10464,2072,Oncology,Cancer,Chennai,19-10-2024 17:00,02-11-2024 17:00,14,No,84.45,71.19,No,Recovered
+50814,10165,2013,Orthopedics,Orthopedic Injury,Mumbai,04-02-2024 00:00,06-02-2024 00:00,2,No,62.75,46.99,Yes,Recovered
+50815,10080,2037,Oncology,Cancer,Delhi,24-12-2024 09:00,28-12-2024 09:00,4,No,68.97,67.86,No,Recovered
+50816,10298,2061,Oncology,Cancer,Mumbai,26-08-2024 11:00,31-08-2024 11:00,5,No,58.16,53.71,No,Recovered
+50817,10251,2079,Oncology,Tumor,Mumbai,14-08-2024 09:00,25-08-2024 09:00,11,No,50.23,57.23,No,Recovered
+50818,10069,2062,Emergency,Acute Condition,Chennai,02-04-2024 20:00,13-04-2024 20:00,11,Yes,50.27,58.04,No,Recovered
+50819,10293,2037,Oncology,Cancer,Delhi,13-11-2024 21:00,18-11-2024 21:00,5,Yes,69.54,83.5,No,Deceased
+50820,10154,2048,General Medicine,Respiratory,Chennai,30-09-2024 19:00,04-10-2024 19:00,4,Yes,56.5,58.02,No,Recovered
+50821,10211,2063,General Medicine,Respiratory,Mumbai,07-06-2024 11:00,19-06-2024 11:00,12,No,68.25,73.63,No,Recovered
+50822,10029,2074,General Medicine,Respiratory,Delhi,01-05-2024 13:00,12-05-2024 13:00,11,No,87.11,68.04,No,Improved
+50823,10265,2007,Cardiology,Hypertension,Chennai,24-08-2024 00:00,26-08-2024 00:00,2,No,90.52,83.83,Yes,Recovered
+50824,10255,2085,Emergency,Trauma,Mumbai,06-09-2024 09:00,19-09-2024 09:00,13,No,89.23,45.13,No,Recovered
+50825,10566,2002,Pediatrics,Pediatric Infection,Mumbai,19-05-2024 02:00,01-06-2024 02:00,13,No,89.41,54.25,No,Improved
+50826,10243,2019,Emergency,Acute Condition,Chennai,13-09-2024 11:00,19-09-2024 11:00,6,No,75.43,66.22,No,Recovered
+50827,10122,2087,Emergency,Trauma,Bangalore,09-11-2024 17:00,12-11-2024 17:00,3,No,87.34,87.18,No,Transferred
+50828,10366,2037,Cardiology,Heart Failure,Mumbai,06-10-2024 07:00,15-10-2024 07:00,9,Yes,83.63,78.73,No,Recovered
+50829,10398,2117,General Medicine,General Medicine,Delhi,10-09-2024 05:00,15-09-2024 05:00,5,No,69.92,55.65,No,Recovered
+50830,10464,2119,Cardiology,Cardiac,Mumbai,06-12-2024 10:00,18-12-2024 10:00,12,No,87.65,84.61,Yes,Recovered
+50831,10272,2043,Oncology,Cancer,Chennai,17-04-2024 20:00,01-05-2024 20:00,14,No,77.42,50.85,No,Recovered
+50832,10454,2059,Orthopedics,Fracture,Delhi,10-02-2024 20:00,23-02-2024 20:00,13,No,92.17,59.9,Yes,Recovered
+50833,10348,2038,Emergency,Acute Condition,Delhi,31-07-2024 03:00,02-08-2024 03:00,2,No,80.92,46.22,No,Transferred
+50834,10099,2114,Pediatrics,Congenital,Mumbai,12-10-2024 14:00,14-10-2024 14:00,2,Yes,63.87,67.51,No,Improved
+50835,10472,2115,Orthopedics,Fracture,Bangalore,18-01-2024 12:00,31-01-2024 12:00,13,No,62.9,67.03,No,Recovered
+50836,10238,2007,Emergency,Trauma,Delhi,07-10-2024 11:00,10-10-2024 11:00,3,Yes,97.96,79.36,No,Deceased
+50837,10221,2024,Orthopedics,Fracture,Chennai,12-06-2024 05:00,20-06-2024 05:00,8,No,74.95,91.23,No,Recovered
+50838,10500,2006,Oncology,Cancer,Bangalore,14-01-2024 06:00,27-01-2024 06:00,13,No,53.32,40.09,No,Recovered
+50839,10308,2008,Pediatrics,Congenital,Chennai,30-08-2024 11:00,02-09-2024 11:00,3,Yes,87.29,60.81,No,Recovered
+50840,10186,2100,Pediatrics,Congenital,Chennai,05-04-2024 14:00,11-04-2024 14:00,6,Yes,99.29,56.97,Yes,Recovered
+50841,10409,2040,General Medicine,General Medicine,Chennai,11-01-2024 20:00,19-01-2024 20:00,8,No,62.34,64.76,Yes,Improved
+50842,10557,2105,Orthopedics,Fracture,Chennai,30-07-2024 14:00,13-08-2024 14:00,14,No,58.98,77.9,No,Recovered
+50843,10177,2115,General Medicine,Respiratory,Bangalore,20-03-2024 17:00,27-03-2024 17:00,7,No,95.59,80.64,No,Transferred
+50844,10215,2045,Cardiology,Cardiac,Bangalore,23-05-2024 07:00,05-06-2024 07:00,13,No,76.63,75.13,No,Recovered
+50845,10390,2055,Emergency,Acute Condition,Delhi,18-08-2024 14:00,21-08-2024 14:00,3,Yes,52.79,42.88,No,Recovered
+50846,10303,2029,Orthopedics,Orthopedic Injury,Mumbai,02-04-2024 21:00,03-04-2024 21:00,1,No,55.52,63.07,No,Recovered
+50847,10485,2105,Orthopedics,Orthopedic Injury,Mumbai,20-06-2024 04:00,27-06-2024 04:00,7,No,54.32,83.96,No,Transferred
+50848,10068,2088,Emergency,Acute Condition,Delhi,03-06-2024 00:00,07-06-2024 00:00,4,Yes,51.11,87.8,No,Recovered
+50849,10373,2060,General Medicine,Respiratory,Mumbai,02-09-2024 05:00,15-09-2024 05:00,13,No,96.15,88.62,No,Recovered
+50850,10560,2057,Oncology,Tumor,Delhi,08-02-2024 04:00,20-02-2024 04:00,12,No,72.87,86.54,No,Recovered
+50851,10455,2026,General Medicine,Respiratory,Mumbai,28-04-2024 20:00,03-05-2024 20:00,5,Yes,72.21,82.97,No,Recovered
+50852,10555,2041,Cardiology,Hypertension,Delhi,22-05-2024 20:00,25-05-2024 20:00,3,No,66.19,47.49,No,Recovered
+50853,10486,2030,Pediatrics,Congenital,Chennai,03-02-2024 11:00,04-02-2024 11:00,1,No,69.9,68.25,No,Recovered
+50854,10363,2049,General Medicine,General Medicine,Delhi,08-08-2024 11:00,21-08-2024 11:00,13,Yes,99.64,70.97,No,Transferred
+50855,10309,2052,Pediatrics,Pediatric Infection,Bangalore,27-01-2024 22:00,09-02-2024 22:00,13,No,84.19,83.56,No,Recovered
+50856,10255,2105,Emergency,Trauma,Chennai,16-09-2024 04:00,21-09-2024 04:00,5,Yes,69.39,55.78,No,Recovered
+50857,10299,2117,Orthopedics,Fracture,Mumbai,29-08-2024 20:00,04-09-2024 20:00,6,No,64.7,51.87,No,Recovered
+50858,10063,2055,Orthopedics,Fracture,Bangalore,24-11-2024 03:00,25-11-2024 03:00,1,No,89.88,69.59,No,Recovered
+50859,10045,2059,Pediatrics,Congenital,Delhi,15-09-2024 05:00,19-09-2024 05:00,4,No,76.48,59.13,No,Transferred
+50860,10030,2010,Orthopedics,Fracture,Chennai,08-10-2024 20:00,18-10-2024 20:00,10,No,70.4,77.81,No,Recovered
+50861,10047,2087,Cardiology,Heart Failure,Delhi,25-11-2024 19:00,04-12-2024 19:00,9,No,78.58,89.66,No,Recovered
+50862,10501,2001,General Medicine,General Medicine,Chennai,19-05-2024 14:00,02-06-2024 14:00,14,Yes,75.13,86.66,Yes,Recovered
+50863,10275,2118,Oncology,Cancer,Bangalore,05-04-2024 06:00,13-04-2024 06:00,8,Yes,94.73,69.84,No,Improved
+50864,10394,2091,Orthopedics,Fracture,Bangalore,16-04-2024 02:00,19-04-2024 02:00,3,No,67.91,60.83,No,Deceased
+50865,10098,2120,Pediatrics,Pediatric Infection,Delhi,13-01-2024 08:00,22-01-2024 08:00,9,No,79.43,62.43,No,Recovered
+50866,10078,2098,Pediatrics,Pediatric Infection,Mumbai,04-07-2024 11:00,16-07-2024 11:00,12,No,73.95,89.33,No,Recovered
+50867,10467,2006,Oncology,Tumor,Bangalore,18-04-2024 01:00,21-04-2024 01:00,3,Yes,74.9,70.48,No,Recovered
+50868,10535,2082,General Medicine,General Medicine,Mumbai,29-01-2024 14:00,05-02-2024 14:00,7,Yes,61.05,68.18,No,Recovered
+50869,10531,2028,Orthopedics,Fracture,Delhi,14-05-2024 22:00,24-05-2024 22:00,10,No,57.19,40.51,No,Recovered
+50870,10534,2086,Orthopedics,Orthopedic Injury,Bangalore,01-11-2024 18:00,05-11-2024 18:00,4,Yes,59.4,63.54,No,Recovered
+50871,10465,2090,Pediatrics,Pediatric Infection,Bangalore,09-05-2024 09:00,15-05-2024 09:00,6,Yes,95.68,62.86,No,Recovered
+50872,10481,2086,Cardiology,Cardiac,Chennai,22-09-2024 21:00,28-09-2024 21:00,6,No,87.2,67.68,Yes,Recovered
+50873,10482,2048,Emergency,Trauma,Delhi,13-08-2024 11:00,25-08-2024 11:00,12,No,92.33,43.51,Yes,Improved
+50874,10292,2081,Pediatrics,Congenital,Chennai,13-06-2024 15:00,22-06-2024 15:00,9,No,61,61.37,No,Recovered
+50875,10188,2011,Pediatrics,Congenital,Delhi,02-11-2024 16:00,06-11-2024 16:00,4,Yes,90.32,68.06,No,Recovered
+50876,10130,2043,Cardiology,Hypertension,Chennai,11-03-2024 13:00,23-03-2024 13:00,12,No,64.38,48.82,No,Recovered
+50877,10505,2052,Oncology,Tumor,Chennai,01-03-2024 18:00,13-03-2024 18:00,12,Yes,56.18,45.56,No,Recovered
+50878,10579,2036,Emergency,Acute Condition,Mumbai,29-11-2024 21:00,09-12-2024 21:00,10,Yes,60.49,67.05,Yes,Recovered
+50879,10235,2022,Emergency,Trauma,Delhi,06-06-2024 19:00,16-06-2024 19:00,10,No,56.36,61.92,No,Recovered
+50880,10524,2064,Emergency,Acute Condition,Bangalore,28-02-2024 21:00,05-03-2024 21:00,6,No,66.96,46.11,No,Recovered
+50881,10538,2053,General Medicine,Respiratory,Delhi,27-12-2024 19:00,31-12-2024 19:00,4,No,72.61,40.89,Yes,Recovered
+50882,10160,2102,Emergency,Trauma,Mumbai,14-08-2024 04:00,15-08-2024 04:00,1,No,71.86,62.2,Yes,Improved
+50883,10232,2006,Oncology,Tumor,Chennai,01-01-2024 18:00,13-01-2024 18:00,12,Yes,77.61,81.4,No,Recovered
+50884,10034,2080,General Medicine,Respiratory,Delhi,12-05-2024 08:00,20-05-2024 08:00,8,No,54.35,42.01,No,Recovered
+50885,10420,2007,Cardiology,Cardiac,Chennai,26-10-2024 19:00,31-10-2024 19:00,5,No,61.84,74.5,No,Recovered
+50886,10288,2045,General Medicine,Respiratory,Delhi,20-10-2024 09:00,31-10-2024 09:00,11,Yes,63.11,58.87,No,Recovered
+50887,10103,2064,Orthopedics,Orthopedic Injury,Bangalore,14-06-2024 17:00,27-06-2024 17:00,13,Yes,89.91,83.08,No,Recovered
+50888,10402,2005,Emergency,Acute Condition,Bangalore,21-12-2024 01:00,25-12-2024 01:00,4,No,99.61,75.89,Yes,Recovered
+50889,10265,2088,Cardiology,Heart Failure,Chennai,07-12-2024 12:00,14-12-2024 12:00,7,No,99.73,63.1,No,Improved
+50890,10046,2118,General Medicine,General Medicine,Chennai,20-08-2024 06:00,31-08-2024 06:00,11,Yes,84.76,62.99,No,Improved
+50891,10511,2077,Emergency,Trauma,Chennai,05-06-2024 22:00,07-06-2024 22:00,2,No,50.22,90.86,Yes,Recovered
+50892,10334,2113,Orthopedics,Orthopedic Injury,Delhi,26-08-2024 09:00,08-09-2024 09:00,13,No,51.71,57.58,No,Recovered
+50893,10217,2015,Oncology,Cancer,Chennai,17-08-2024 05:00,29-08-2024 05:00,12,Yes,63.62,85.75,No,Recovered
+50894,10200,2078,Pediatrics,Pediatric Infection,Delhi,18-08-2024 19:00,27-08-2024 19:00,9,Yes,97.17,60.08,No,Recovered
+50895,10560,2078,Orthopedics,Orthopedic Injury,Mumbai,24-03-2024 17:00,27-03-2024 17:00,3,No,55.58,48.13,No,Recovered
+50896,10095,2081,General Medicine,General Medicine,Delhi,13-05-2024 09:00,21-05-2024 09:00,8,No,80.19,80.42,Yes,Recovered
+50897,10272,2038,Cardiology,Hypertension,Bangalore,04-04-2024 04:00,13-04-2024 04:00,9,No,79.68,49.03,Yes,Recovered
+50898,10226,2006,Pediatrics,Congenital,Bangalore,20-05-2024 03:00,27-05-2024 03:00,7,Yes,57.38,83.83,Yes,Recovered
+50899,10483,2046,Cardiology,Heart Failure,Mumbai,03-02-2024 11:00,07-02-2024 11:00,4,No,63.31,51.83,No,Recovered
+50900,10464,2062,Emergency,Trauma,Delhi,28-01-2024 19:00,29-01-2024 19:00,1,Yes,88.09,82.54,No,Recovered
+50901,10448,2050,Oncology,Cancer,Mumbai,18-06-2024 21:00,23-06-2024 21:00,5,No,63.23,68.57,No,Recovered
+50902,10137,2119,Oncology,Tumor,Chennai,29-03-2024 16:00,03-04-2024 16:00,5,No,53.34,46.4,No,Transferred
+50903,10489,2108,Cardiology,Cardiac,Chennai,05-11-2024 19:00,06-11-2024 19:00,1,No,84.37,60.49,No,Recovered
+50904,10011,2031,Cardiology,Cardiac,Chennai,04-08-2024 23:00,14-08-2024 23:00,10,Yes,85.1,85.96,No,Improved
+50905,10576,2004,Emergency,Trauma,Bangalore,29-09-2024 02:00,30-09-2024 02:00,1,No,54.83,92.35,No,Recovered
+50906,10591,2076,Emergency,Trauma,Delhi,28-06-2024 04:00,30-06-2024 04:00,2,No,92.61,70.76,No,Improved
+50907,10069,2087,Cardiology,Cardiac,Delhi,20-01-2024 08:00,31-01-2024 08:00,11,Yes,68.35,44.61,Yes,Recovered
+50908,10350,2110,Emergency,Acute Condition,Bangalore,05-07-2024 05:00,06-07-2024 05:00,1,No,63.63,87.94,No,Transferred
+50909,10062,2007,Pediatrics,Pediatric Infection,Chennai,11-02-2024 01:00,15-02-2024 01:00,4,No,67.41,79.06,No,Recovered
+50910,10464,2118,Cardiology,Hypertension,Delhi,12-11-2024 19:00,22-11-2024 19:00,10,No,81.7,94.16,Yes,Recovered
+50911,10172,2009,Emergency,Acute Condition,Bangalore,04-10-2024 17:00,06-10-2024 17:00,2,No,75.87,63.78,No,Recovered
+50912,10566,2078,Oncology,Tumor,Chennai,30-10-2024 22:00,10-11-2024 22:00,11,No,97.53,87.25,No,Recovered
+50913,10053,2088,General Medicine,Respiratory,Chennai,15-02-2024 22:00,18-02-2024 22:00,3,No,86.85,49.79,No,Recovered
+50914,10447,2034,General Medicine,Respiratory,Delhi,20-05-2024 11:00,31-05-2024 11:00,11,No,71.14,68.44,No,Recovered
+50915,10377,2013,Oncology,Cancer,Bangalore,24-09-2024 22:00,25-09-2024 22:00,1,No,89.73,81.13,No,Recovered
+50916,10352,2115,Emergency,Acute Condition,Delhi,27-04-2024 04:00,09-05-2024 04:00,12,Yes,51.74,45.61,No,Recovered
+50917,10452,2034,Emergency,Trauma,Chennai,25-04-2024 22:00,01-05-2024 22:00,6,No,57.9,46.86,No,Recovered
+50918,10577,2070,Oncology,Cancer,Delhi,31-05-2024 16:00,13-06-2024 16:00,13,No,63.28,78.74,No,Recovered
+50919,10062,2044,Orthopedics,Fracture,Bangalore,21-04-2024 00:00,02-05-2024 00:00,11,No,77.53,53.78,No,Recovered
+50920,10166,2077,General Medicine,General Medicine,Bangalore,15-06-2024 12:00,16-06-2024 12:00,1,No,80.05,79.04,No,Transferred
+50921,10430,2052,Cardiology,Hypertension,Mumbai,08-03-2024 04:00,20-03-2024 04:00,12,No,77.61,76.35,No,Transferred
+50922,10060,2074,Emergency,Acute Condition,Mumbai,27-01-2024 17:00,04-02-2024 17:00,8,No,51.57,49.36,No,Improved
+50923,10236,2034,General Medicine,Respiratory,Mumbai,26-12-2024 04:00,08-01-2025 04:00,13,No,82.04,57.07,No,Improved
+50924,10162,2073,Emergency,Trauma,Mumbai,04-08-2024 16:00,16-08-2024 16:00,12,No,88.46,60.27,No,Recovered
+50925,10107,2072,Emergency,Trauma,Delhi,11-02-2024 16:00,22-02-2024 16:00,11,Yes,63.29,64.11,Yes,Deceased
+50926,10003,2037,General Medicine,General Medicine,Mumbai,29-09-2024 04:00,03-10-2024 04:00,4,No,96.73,40.47,Yes,Recovered
+50927,10209,2056,Cardiology,Cardiac,Mumbai,26-12-2024 21:00,05-01-2025 21:00,10,No,99.59,52.48,No,Recovered
+50928,10522,2028,Cardiology,Hypertension,Delhi,29-03-2024 14:00,02-04-2024 14:00,4,No,54.66,80.63,No,Improved
+50929,10351,2015,Orthopedics,Orthopedic Injury,Bangalore,22-06-2024 00:00,02-07-2024 00:00,10,Yes,93.76,68.17,No,Recovered
+50930,10460,2054,General Medicine,Respiratory,Delhi,07-03-2024 21:00,10-03-2024 21:00,3,No,89.81,40.21,No,Recovered
+50931,10291,2083,Orthopedics,Fracture,Mumbai,21-04-2024 05:00,29-04-2024 05:00,8,No,56.37,45.12,No,Recovered
+50932,10011,2070,Cardiology,Heart Failure,Chennai,23-07-2024 23:00,27-07-2024 23:00,4,Yes,86.84,66.18,Yes,Recovered
+50933,10472,2107,Pediatrics,Congenital,Chennai,30-05-2024 15:00,02-06-2024 15:00,3,Yes,55.03,67.29,No,Recovered
+50934,10559,2086,Oncology,Cancer,Chennai,13-01-2024 21:00,16-01-2024 21:00,3,No,95.74,66.91,No,Recovered
+50935,10279,2095,Emergency,Trauma,Bangalore,14-01-2024 07:00,26-01-2024 07:00,12,Yes,88.54,58,No,Recovered
+50936,10372,2087,Orthopedics,Orthopedic Injury,Delhi,27-01-2024 07:00,02-02-2024 07:00,6,No,84.37,74.83,No,Recovered
+50937,10325,2064,Orthopedics,Orthopedic Injury,Mumbai,11-01-2024 15:00,16-01-2024 15:00,5,Yes,65.49,68.7,No,Recovered
+50938,10132,2100,General Medicine,General Medicine,Chennai,22-12-2024 23:00,31-12-2024 23:00,9,No,51.19,44.39,No,Recovered
+50939,10048,2010,General Medicine,General Medicine,Delhi,22-12-2024 15:00,05-01-2025 15:00,14,No,80.55,85.12,No,Transferred
+50940,10174,2082,Pediatrics,Pediatric Infection,Delhi,23-04-2024 12:00,06-05-2024 12:00,13,No,97.44,89.62,No,Recovered
+50941,10484,2033,General Medicine,General Medicine,Chennai,07-03-2024 15:00,19-03-2024 15:00,12,No,62.93,58.74,Yes,Improved
+50942,10278,2017,General Medicine,Respiratory,Bangalore,05-04-2024 01:00,17-04-2024 01:00,12,Yes,63.24,59.24,No,Recovered
+50943,10235,2056,Cardiology,Hypertension,Bangalore,24-10-2024 19:00,01-11-2024 19:00,8,Yes,82.43,79.9,No,Recovered
+50944,10594,2003,General Medicine,Respiratory,Bangalore,28-09-2024 01:00,03-10-2024 01:00,5,Yes,98.87,86.4,No,Recovered
+50945,10555,2091,General Medicine,General Medicine,Delhi,25-07-2024 14:00,26-07-2024 14:00,1,Yes,68.45,79.72,No,Recovered
+50946,10568,2093,General Medicine,Respiratory,Bangalore,10-03-2024 13:00,21-03-2024 13:00,11,No,88.09,43.21,No,Recovered
+50947,10144,2051,Pediatrics,Pediatric Infection,Chennai,08-05-2024 20:00,14-05-2024 20:00,6,No,61.42,85.22,No,Recovered
+50948,10025,2038,Emergency,Trauma,Delhi,24-11-2024 11:00,30-11-2024 11:00,6,Yes,64.24,67.78,No,Recovered
+50949,10551,2040,General Medicine,General Medicine,Mumbai,22-02-2024 09:00,05-03-2024 09:00,12,Yes,93.68,44.16,No,Recovered
+50950,10049,2115,Orthopedics,Orthopedic Injury,Bangalore,19-04-2024 17:00,02-05-2024 17:00,13,No,85.75,73.81,Yes,Recovered
+50951,10213,2053,Orthopedics,Orthopedic Injury,Mumbai,17-05-2024 17:00,24-05-2024 17:00,7,No,61.77,79.98,No,Transferred
+50952,10516,2088,Cardiology,Hypertension,Bangalore,05-05-2024 21:00,06-05-2024 21:00,1,Yes,84.35,56.17,No,Recovered
+50953,10350,2113,Cardiology,Cardiac,Delhi,17-05-2024 16:00,23-05-2024 16:00,6,Yes,79.83,44.78,No,Recovered
+50954,10541,2048,Pediatrics,Pediatric Infection,Delhi,18-02-2024 09:00,25-02-2024 09:00,7,No,88.51,47.79,No,Recovered
+50955,10544,2049,Emergency,Trauma,Delhi,07-11-2024 06:00,09-11-2024 06:00,2,No,88.86,55.7,No,Recovered
+50956,10444,2103,Oncology,Tumor,Bangalore,02-10-2024 01:00,07-10-2024 01:00,5,No,64.53,56.36,No,Improved
+50957,10374,2054,Emergency,Trauma,Chennai,05-12-2024 15:00,17-12-2024 15:00,12,No,69.29,79.28,Yes,Transferred
+50958,10160,2026,General Medicine,Respiratory,Mumbai,05-12-2024 12:00,17-12-2024 12:00,12,Yes,65.93,64.67,No,Recovered
+50959,10253,2060,General Medicine,General Medicine,Mumbai,16-01-2024 23:00,28-01-2024 23:00,12,Yes,93.56,76.47,No,Recovered
+50960,10324,2090,Oncology,Tumor,Chennai,05-02-2024 00:00,09-02-2024 00:00,4,Yes,85.78,79.69,No,Recovered
+50961,10584,2048,Emergency,Trauma,Mumbai,23-01-2024 15:00,29-01-2024 15:00,6,Yes,65.79,72.66,No,Recovered
+50962,10301,2047,Orthopedics,Orthopedic Injury,Bangalore,05-03-2024 08:00,07-03-2024 08:00,2,Yes,80.71,84.24,No,Recovered
+50963,10016,2053,Cardiology,Hypertension,Chennai,25-08-2024 06:00,29-08-2024 06:00,4,No,64.8,79.07,No,Transferred
+50964,10386,2107,Pediatrics,Congenital,Bangalore,10-09-2024 04:00,11-09-2024 04:00,1,No,80.78,45.23,No,Improved
+50965,10294,2015,General Medicine,General Medicine,Bangalore,12-01-2024 16:00,17-01-2024 16:00,5,Yes,51.97,72.31,Yes,Recovered
+50966,10209,2061,Orthopedics,Fracture,Bangalore,17-03-2024 15:00,19-03-2024 15:00,2,Yes,82.12,55.18,No,Recovered
+50967,10091,2118,Pediatrics,Pediatric Infection,Delhi,25-09-2024 11:00,02-10-2024 11:00,7,Yes,73.23,93.84,No,Transferred
+50968,10058,2052,Cardiology,Cardiac,Delhi,26-02-2024 01:00,04-03-2024 01:00,7,Yes,61.28,41.15,No,Recovered
+50969,10304,2067,General Medicine,Respiratory,Delhi,11-09-2024 08:00,18-09-2024 08:00,7,Yes,67.3,59.14,No,Recovered
+50970,10375,2086,Oncology,Cancer,Mumbai,06-07-2024 04:00,13-07-2024 04:00,7,No,97.72,46.36,No,Recovered
+50971,10093,2097,Oncology,Tumor,Mumbai,12-10-2024 01:00,17-10-2024 01:00,5,Yes,75.36,83.25,No,Recovered
+50972,10474,2033,Pediatrics,Pediatric Infection,Mumbai,08-01-2024 16:00,20-01-2024 16:00,12,No,74.81,85.36,No,Recovered
+50973,10272,2118,Orthopedics,Fracture,Mumbai,24-02-2024 01:00,25-02-2024 01:00,1,No,57.89,53.87,No,Recovered
+50974,10171,2085,General Medicine,General Medicine,Delhi,25-03-2024 15:00,31-03-2024 15:00,6,No,90.21,49.94,No,Recovered
+50975,10578,2040,General Medicine,General Medicine,Mumbai,09-02-2024 12:00,19-02-2024 12:00,10,No,69.84,54.46,No,Recovered
+50976,10076,2009,Oncology,Tumor,Chennai,28-05-2024 09:00,05-06-2024 09:00,8,No,58.55,42.41,No,Recovered
+50977,10563,2052,Emergency,Trauma,Mumbai,30-11-2024 17:00,04-12-2024 17:00,4,Yes,92.96,65.71,No,Recovered
+50978,10357,2062,Orthopedics,Orthopedic Injury,Mumbai,27-01-2024 00:00,29-01-2024 00:00,2,No,86.12,50.48,No,Recovered
+50979,10416,2035,Orthopedics,Orthopedic Injury,Bangalore,24-06-2024 12:00,29-06-2024 12:00,5,No,93.61,42.62,No,Recovered
+50980,10066,2075,Orthopedics,Orthopedic Injury,Delhi,04-03-2024 04:00,06-03-2024 04:00,2,Yes,59.95,91.5,Yes,Recovered
+50981,10344,2017,Orthopedics,Fracture,Chennai,26-06-2024 02:00,04-07-2024 02:00,8,Yes,56.61,60.7,No,Recovered
+50982,10053,2037,Orthopedics,Orthopedic Injury,Bangalore,29-01-2024 06:00,11-02-2024 06:00,13,No,97.72,66.32,No,Recovered
+50983,10295,2067,Oncology,Tumor,Mumbai,23-06-2024 09:00,28-06-2024 09:00,5,Yes,70.02,87.87,No,Transferred
+50984,10044,2091,General Medicine,Respiratory,Delhi,24-07-2024 09:00,06-08-2024 09:00,13,No,89.13,65.04,No,Recovered
+50985,10228,2120,Emergency,Acute Condition,Mumbai,08-10-2024 21:00,13-10-2024 21:00,5,No,53.44,67.91,No,Recovered
+50986,10276,2013,Emergency,Trauma,Bangalore,02-12-2024 03:00,11-12-2024 03:00,9,No,64.28,56.39,No,Recovered
+50987,10195,2013,Oncology,Cancer,Bangalore,28-08-2024 02:00,11-09-2024 02:00,14,No,71.35,70.36,No,Recovered
+50988,10495,2033,Pediatrics,Congenital,Bangalore,02-11-2024 10:00,03-11-2024 10:00,1,Yes,85.78,84,No,Recovered
+50989,10238,2010,General Medicine,Respiratory,Chennai,15-02-2024 11:00,16-02-2024 11:00,1,No,59.4,87.28,No,Recovered
+50990,10307,2036,Oncology,Tumor,Bangalore,26-06-2024 04:00,02-07-2024 04:00,6,Yes,85.92,82.35,No,Improved
+50991,10378,2088,Oncology,Tumor,Chennai,17-09-2024 07:00,01-10-2024 07:00,14,Yes,59.31,46.91,Yes,Recovered
+50992,10275,2018,Orthopedics,Orthopedic Injury,Chennai,03-03-2024 11:00,17-03-2024 11:00,14,No,50.92,57.15,No,Improved
+50993,10217,2117,General Medicine,General Medicine,Chennai,19-11-2024 11:00,01-12-2024 11:00,12,No,67.46,76.87,No,Recovered
+50994,10242,2004,Cardiology,Cardiac,Mumbai,17-07-2024 11:00,22-07-2024 11:00,5,No,88.42,52.19,No,Recovered
+50995,10272,2009,Oncology,Tumor,Delhi,13-11-2024 00:00,14-11-2024 00:00,1,No,50.1,79.92,No,Deceased
+50996,10480,2006,Oncology,Tumor,Delhi,26-11-2024 10:00,04-12-2024 10:00,8,No,59.02,82.13,No,Recovered
+50997,10327,2031,Cardiology,Hypertension,Mumbai,26-04-2024 23:00,29-04-2024 23:00,3,No,99.76,61.95,No,Improved
+50998,10348,2050,Cardiology,Heart Failure,Chennai,09-11-2024 19:00,22-11-2024 19:00,13,No,82.36,41.82,Yes,Improved
+50999,10480,2066,Cardiology,Heart Failure,Chennai,16-05-2024 19:00,29-05-2024 19:00,13,Yes,75.7,71.52,No,Transferred
+51000,10321,2078,Cardiology,Heart Failure,Delhi,17-09-2024 02:00,21-09-2024 02:00,4,Yes,56.54,77.17,No,Recovered

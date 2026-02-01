@@ -1,0 +1,1001 @@
+admission_id,doctor_id,department,branch,procedure_type,procedure_count,procedure_datetime
+50001,2097,General Medicine,Bangalore,Surgery,1,28-03-2024 12:00
+50002,2046,Oncology,Bangalore,Diagnostic,1,13-04-2024 23:00
+50003,2006,Orthopedics,Bangalore,Consultation,2,13-11-2024 23:00
+50004,2007,Oncology,Delhi,Consultation,3,14-12-2024 21:00
+50005,2075,Orthopedics,Mumbai,ICU Support,3,07-05-2024 22:00
+50006,2045,Oncology,Chennai,ICU Support,3,28-05-2024 10:00
+50007,2056,General Medicine,Chennai,Consultation,3,30-07-2024 14:00
+50008,2049,General Medicine,Chennai,Consultation,3,25-07-2024 03:00
+50009,2050,Pediatrics,Delhi,Consultation,3,30-12-2024 09:00
+50010,2042,Pediatrics,Delhi,Diagnostic,2,07-03-2024 03:00
+50011,2100,Emergency,Bangalore,Consultation,3,13-08-2024 19:00
+50012,2062,Emergency,Chennai,Surgery,3,21-11-2024 08:00
+50013,2066,Oncology,Delhi,Consultation,3,18-08-2024 06:00
+50014,2080,Emergency,Bangalore,Surgery,2,30-10-2024 03:00
+50015,2107,Orthopedics,Chennai,Diagnostic,3,03-01-2024 07:00
+50016,2061,Pediatrics,Mumbai,ICU Support,2,25-07-2024 19:00
+50017,2101,Emergency,Bangalore,Surgery,1,02-01-2024 15:00
+50018,2043,Pediatrics,Delhi,Diagnostic,3,29-06-2024 20:00
+50019,2084,Orthopedics,Delhi,Consultation,2,28-06-2024 08:00
+50020,2102,Oncology,Bangalore,Diagnostic,1,07-12-2024 16:00
+50021,2008,Orthopedics,Bangalore,Consultation,2,24-04-2024 18:00
+50022,2048,Cardiology,Delhi,Diagnostic,2,01-01-2024 20:00
+50023,2117,Cardiology,Mumbai,ICU Support,1,10-06-2024 18:00
+50024,2082,Pediatrics,Chennai,Surgery,3,12-04-2024 20:00
+50025,2071,General Medicine,Mumbai,ICU Support,3,31-03-2024 03:00
+50026,2099,Cardiology,Bangalore,Therapy,2,17-10-2024 20:00
+50027,2028,Oncology,Mumbai,Consultation,1,24-11-2024 21:00
+50028,2070,Pediatrics,Delhi,Surgery,3,16-08-2024 10:00
+50029,2015,Emergency,Bangalore,ICU Support,2,04-05-2024 11:00
+50030,2035,Emergency,Chennai,Surgery,1,22-02-2024 18:00
+50031,2108,Pediatrics,Delhi,Therapy,2,31-03-2024 11:00
+50032,2068,Emergency,Delhi,Emergency Intervention,1,26-10-2024 13:00
+50033,2021,Orthopedics,Chennai,Consultation,3,22-05-2024 18:00
+50034,2080,Cardiology,Chennai,Consultation,3,05-05-2024 10:00
+50035,2019,Pediatrics,Mumbai,Diagnostic,2,15-06-2024 18:00
+50036,2037,Pediatrics,Bangalore,Consultation,3,14-08-2024 15:00
+50037,2085,Emergency,Chennai,Consultation,3,11-09-2024 21:00
+50038,2102,Pediatrics,Chennai,ICU Support,1,29-10-2024 20:00
+50039,2041,Pediatrics,Bangalore,Consultation,3,14-03-2024 20:00
+50040,2072,Orthopedics,Chennai,Consultation,1,09-06-2024 12:00
+50041,2035,Oncology,Chennai,Therapy,1,04-08-2024 00:00
+50042,2080,Emergency,Mumbai,Therapy,2,29-11-2024 02:00
+50043,2109,Pediatrics,Delhi,Surgery,1,16-05-2024 19:00
+50044,2082,Pediatrics,Delhi,Surgery,3,17-11-2024 22:00
+50045,2109,Oncology,Delhi,Consultation,1,21-05-2024 23:00
+50046,2082,Orthopedics,Delhi,Consultation,1,29-06-2024 07:00
+50047,2038,Pediatrics,Chennai,Diagnostic,2,13-01-2024 13:00
+50048,2073,Orthopedics,Bangalore,Surgery,3,02-12-2024 21:00
+50049,2054,Pediatrics,Bangalore,ICU Support,3,13-09-2024 14:00
+50050,2008,Emergency,Mumbai,Consultation,3,26-01-2024 19:00
+50051,2006,Pediatrics,Mumbai,ICU Support,1,21-05-2024 08:00
+50052,2002,Orthopedics,Chennai,Consultation,3,06-01-2024 14:00
+50053,2062,Orthopedics,Bangalore,ICU Support,3,09-04-2024 19:00
+50054,2052,Cardiology,Bangalore,Emergency Intervention,1,12-04-2024 01:00
+50055,2092,General Medicine,Delhi,ICU Support,2,13-09-2024 05:00
+50056,2021,Oncology,Chennai,Surgery,2,04-03-2024 02:00
+50057,2101,Oncology,Chennai,Consultation,1,30-08-2024 09:00
+50058,2068,Emergency,Delhi,Surgery,2,05-11-2024 18:00
+50059,2113,Pediatrics,Chennai,ICU Support,2,13-02-2024 07:00
+50060,2021,Emergency,Chennai,Therapy,2,06-04-2024 16:00
+50061,2069,Cardiology,Mumbai,Therapy,3,09-12-2024 21:00
+50062,2024,Orthopedics,Bangalore,Therapy,2,19-04-2024 04:00
+50063,2051,Orthopedics,Chennai,Consultation,3,30-07-2024 05:00
+50064,2095,Oncology,Mumbai,Diagnostic,2,08-02-2024 05:00
+50065,2089,Cardiology,Bangalore,Emergency Intervention,3,19-10-2024 09:00
+50066,2095,Orthopedics,Delhi,ICU Support,1,16-09-2024 07:00
+50067,2059,Oncology,Mumbai,Diagnostic,1,01-07-2024 21:00
+50068,2120,Emergency,Mumbai,Therapy,2,20-06-2024 22:00
+50069,2104,Cardiology,Bangalore,ICU Support,3,19-01-2024 14:00
+50070,2002,Orthopedics,Delhi,Diagnostic,1,11-12-2024 20:00
+50071,2056,Pediatrics,Mumbai,Surgery,1,05-10-2024 19:00
+50072,2058,Cardiology,Chennai,Therapy,1,08-05-2024 14:00
+50073,2089,Orthopedics,Chennai,Diagnostic,1,12-08-2024 19:00
+50074,2054,Emergency,Chennai,Consultation,2,27-03-2024 21:00
+50075,2101,Orthopedics,Delhi,Surgery,3,01-09-2024 09:00
+50076,2054,Orthopedics,Mumbai,Therapy,1,02-06-2024 21:00
+50077,2004,Emergency,Chennai,Emergency Intervention,2,21-01-2024 20:00
+50078,2019,Pediatrics,Delhi,Therapy,1,11-09-2024 13:00
+50079,2048,Emergency,Chennai,Consultation,1,17-03-2024 15:00
+50080,2045,Pediatrics,Bangalore,Emergency Intervention,1,23-04-2024 01:00
+50081,2103,General Medicine,Mumbai,Emergency Intervention,1,17-02-2024 02:00
+50082,2118,Orthopedics,Mumbai,Emergency Intervention,2,18-04-2024 01:00
+50083,2064,Orthopedics,Delhi,ICU Support,3,28-10-2024 20:00
+50084,2100,Oncology,Delhi,ICU Support,2,17-09-2024 16:00
+50085,2108,Pediatrics,Mumbai,Emergency Intervention,2,01-06-2024 08:00
+50086,2070,Oncology,Chennai,Surgery,2,03-12-2024 04:00
+50087,2070,Orthopedics,Chennai,Emergency Intervention,1,21-01-2024 07:00
+50088,2057,Emergency,Bangalore,Diagnostic,3,02-06-2024 23:00
+50089,2041,Cardiology,Chennai,Emergency Intervention,1,11-12-2024 22:00
+50090,2098,Cardiology,Delhi,ICU Support,2,23-03-2024 03:00
+50091,2002,General Medicine,Delhi,ICU Support,1,16-07-2024 04:00
+50092,2111,Emergency,Chennai,Diagnostic,3,16-06-2024 17:00
+50093,2026,Cardiology,Delhi,Diagnostic,3,01-02-2024 16:00
+50094,2105,General Medicine,Mumbai,Therapy,1,26-04-2024 07:00
+50095,2006,General Medicine,Mumbai,Surgery,2,14-02-2024 03:00
+50096,2008,Orthopedics,Chennai,Surgery,1,25-09-2024 06:00
+50097,2082,Cardiology,Mumbai,Surgery,2,17-02-2024 17:00
+50098,2102,Emergency,Mumbai,Consultation,3,17-09-2024 11:00
+50099,2118,Orthopedics,Bangalore,ICU Support,1,10-04-2024 04:00
+50100,2028,Emergency,Bangalore,Surgery,3,21-01-2024 18:00
+50101,2005,Orthopedics,Mumbai,Therapy,2,18-12-2024 14:00
+50102,2066,Orthopedics,Chennai,Therapy,2,01-03-2024 21:00
+50103,2120,Pediatrics,Bangalore,Surgery,1,14-10-2024 06:00
+50104,2048,Oncology,Delhi,Diagnostic,1,10-11-2024 06:00
+50105,2034,Orthopedics,Delhi,Therapy,1,16-10-2024 16:00
+50106,2067,Pediatrics,Delhi,Diagnostic,3,03-05-2024 21:00
+50107,2017,Cardiology,Chennai,ICU Support,2,27-04-2024 14:00
+50108,2120,General Medicine,Mumbai,Consultation,2,08-09-2024 19:00
+50109,2040,General Medicine,Delhi,Therapy,3,30-11-2024 14:00
+50110,2071,General Medicine,Chennai,Diagnostic,1,01-10-2024 12:00
+50111,2030,Pediatrics,Bangalore,Surgery,1,29-04-2024 18:00
+50112,2092,Orthopedics,Mumbai,ICU Support,3,30-11-2024 02:00
+50113,2035,Emergency,Bangalore,Emergency Intervention,2,03-03-2024 21:00
+50114,2061,Pediatrics,Chennai,Emergency Intervention,2,23-12-2024 03:00
+50115,2054,Emergency,Delhi,Surgery,2,09-12-2024 03:00
+50116,2020,General Medicine,Delhi,ICU Support,2,20-08-2024 23:00
+50117,2066,General Medicine,Chennai,ICU Support,3,17-03-2024 07:00
+50118,2012,General Medicine,Delhi,ICU Support,2,01-08-2024 18:00
+50119,2014,Emergency,Mumbai,ICU Support,3,20-04-2024 06:00
+50120,2043,Cardiology,Chennai,Emergency Intervention,1,29-10-2024 11:00
+50121,2105,General Medicine,,Diagnostic,3,15-04-2024 11:00
+50122,2064,Orthopedics,,ICU Support,2,03-07-2024 00:00
+50123,2061,Pediatrics,,Diagnostic,1,20-01-2024 04:00
+50124,2091,Pediatrics,,ICU Support,3,07-09-2024 01:00
+50125,2082,Oncology,,Therapy,3,25-05-2024 23:00
+50126,2074,Oncology,,Consultation,3,31-08-2024 05:00
+50127,2027,Cardiology,,Therapy,1,09-02-2024 17:00
+50128,2045,Cardiology,,Consultation,3,25-09-2024 17:00
+50129,2018,Cardiology,,Therapy,2,22-10-2024 04:00
+50130,2028,Pediatrics,,ICU Support,1,29-12-2024 05:00
+50131,2033,Oncology,,Diagnostic,1,10-11-2024 17:00
+50132,2060,Cardiology,,Consultation,3,13-07-2024 11:00
+50133,2076,Cardiology,,Emergency Intervention,2,21-10-2024 12:00
+50134,2046,Orthopedics,,Surgery,1,07-03-2024 14:00
+50135,2037,Emergency,,Consultation,3,01-09-2024 10:00
+50136,2116,Cardiology,,Consultation,2,12-10-2024 21:00
+50137,2087,Cardiology,,Emergency Intervention,3,10-06-2024 19:00
+50138,2068,Emergency,,ICU Support,3,21-01-2024 20:00
+50139,2017,Oncology,,Therapy,1,18-05-2024 04:00
+50140,2017,Emergency,,Therapy,1,06-12-2024 23:00
+50141,2021,Orthopedics,,Diagnostic,3,06-11-2024 06:00
+50142,2026,General Medicine,,ICU Support,1,14-01-2024 04:00
+50143,2023,Pediatrics,,Emergency Intervention,1,11-04-2024 16:00
+50144,2035,Emergency,,ICU Support,2,06-08-2024 19:00
+50145,2038,Cardiology,,ICU Support,2,17-12-2024 16:00
+50146,2010,Oncology,,Therapy,3,23-01-2024 01:00
+50147,2114,Orthopedics,,Emergency Intervention,3,04-07-2024 11:00
+50148,2013,Pediatrics,,Surgery,3,26-01-2024 03:00
+50149,2034,Orthopedics,,Consultation,3,14-07-2024 02:00
+50150,2045,Orthopedics,,Therapy,2,08-07-2024 09:00
+50151,2066,Oncology,,Emergency Intervention,1,23-08-2024 10:00
+50152,2027,Orthopedics,,Diagnostic,2,02-08-2024 21:00
+50153,2019,Emergency,,Consultation,3,27-09-2024 11:00
+50154,2052,Oncology,,Consultation,3,11-01-2024 04:00
+50155,2087,General Medicine,,Therapy,2,30-01-2024 19:00
+50156,2079,Oncology,,Diagnostic,2,07-05-2024 21:00
+50157,2069,General Medicine,,Therapy,3,28-07-2024 15:00
+50158,2100,Orthopedics,,ICU Support,1,16-05-2024 19:00
+50159,2090,Pediatrics,,Emergency Intervention,3,28-06-2024 07:00
+50160,2108,Emergency,,Diagnostic,2,23-08-2024 03:00
+50161,2118,Orthopedics,,Consultation,3,30-07-2024 04:00
+50162,2105,General Medicine,,Therapy,3,16-08-2024 06:00
+50163,2109,Cardiology,,Consultation,1,14-06-2024 15:00
+50164,2028,Oncology,,Diagnostic,3,03-01-2024 21:00
+50165,2010,Emergency,,Consultation,3,09-11-2024 07:00
+50166,2035,Oncology,,Therapy,3,03-12-2024 21:00
+50167,2090,Emergency,,Therapy,2,21-06-2024 01:00
+50168,2053,Pediatrics,,Surgery,2,05-07-2024 21:00
+50169,2116,Emergency,,Consultation,1,01-06-2024 19:00
+50170,2075,Pediatrics,,Surgery,3,21-04-2024 02:00
+50171,2029,Pediatrics,,Surgery,2,15-04-2024 01:00
+50172,2075,Pediatrics,,Consultation,1,30-03-2024 17:00
+50173,2083,Oncology,,Diagnostic,3,26-01-2024 14:00
+50174,2088,Orthopedics,,ICU Support,1,17-11-2024 18:00
+50175,2075,Cardiology,,Therapy,1,06-01-2024 17:00
+50176,2006,Emergency,,Emergency Intervention,1,03-05-2024 16:00
+50177,2044,General Medicine,,Surgery,1,04-01-2024 04:00
+50178,2068,Orthopedics,,Diagnostic,1,17-12-2024 00:00
+50179,2019,Pediatrics,,Consultation,1,18-05-2024 13:00
+50180,2080,Orthopedics,,Diagnostic,1,11-10-2024 21:00
+50181,2081,Pediatrics,,Diagnostic,3,04-04-2024 04:00
+50182,2028,Emergency,,Consultation,3,15-03-2024 23:00
+50183,2067,Orthopedics,,Emergency Intervention,1,05-10-2024 17:00
+50184,2113,Orthopedics,,Consultation,3,04-02-2024 18:00
+50185,2045,Orthopedics,,Emergency Intervention,1,13-12-2024 09:00
+50186,2059,Cardiology,,Consultation,3,28-02-2024 21:00
+50187,2011,Emergency,,Surgery,2,08-08-2024 23:00
+50188,2026,Pediatrics,,Emergency Intervention,1,18-07-2024 20:00
+50189,2112,Oncology,,Surgery,2,27-04-2024 08:00
+50190,2024,Oncology,,Emergency Intervention,1,27-09-2024 11:00
+50191,2087,Oncology,,Emergency Intervention,1,05-01-2024 23:00
+50192,2057,General Medicine,,Consultation,2,18-06-2024 14:00
+50193,2115,Orthopedics,,Emergency Intervention,2,09-12-2024 02:00
+50194,2027,General Medicine,,Surgery,2,08-07-2024 18:00
+50195,2059,General Medicine,,Consultation,1,01-08-2024 16:00
+50196,2017,Cardiology,,Therapy,2,18-05-2024 16:00
+50197,2105,Cardiology,,Surgery,2,16-11-2024 21:00
+50198,2073,Cardiology,,Therapy,3,17-06-2024 01:00
+50199,2064,Cardiology,,Diagnostic,3,18-03-2024 11:00
+50200,2104,Pediatrics,,Consultation,2,05-12-2024 18:00
+50201,2083,Orthopedics,,Diagnostic,2,06-12-2024 04:00
+50202,2074,General Medicine,,Consultation,2,26-05-2024 22:00
+50203,2078,Orthopedics,,Consultation,2,09-11-2024 22:00
+50204,2053,Pediatrics,,Surgery,3,23-11-2024 02:00
+50205,2033,Pediatrics,,Therapy,1,30-11-2024 06:00
+50206,2013,General Medicine,,Consultation,2,16-02-2024 10:00
+50207,2063,General Medicine,,Therapy,2,05-09-2024 12:00
+50208,2041,Oncology,,Consultation,3,06-01-2024 21:00
+50209,2002,Orthopedics,,Therapy,2,23-09-2024 05:00
+50210,2091,Orthopedics,,Diagnostic,2,06-06-2024 20:00
+50211,2079,General Medicine,,Surgery,3,05-11-2024 17:00
+50212,2065,Pediatrics,,Consultation,2,29-02-2024 00:00
+50213,2025,Emergency,,ICU Support,2,06-09-2024 19:00
+50214,2073,Pediatrics,,Therapy,3,24-03-2024 00:00
+50215,2116,Oncology,,Therapy,1,11-10-2024 02:00
+50216,2041,Orthopedics,,ICU Support,2,13-03-2024 22:00
+50217,2069,Pediatrics,,Surgery,2,17-02-2024 14:00
+50218,2119,Oncology,,Therapy,1,10-06-2024 15:00
+50219,2106,General Medicine,,Surgery,3,23-12-2024 19:00
+50220,2059,Pediatrics,,Therapy,1,20-12-2024 00:00
+50221,2092,Pediatrics,,Emergency Intervention,2,24-04-2024 15:00
+50222,2068,Pediatrics,,Therapy,1,02-08-2024 18:00
+50223,2114,Cardiology,,Emergency Intervention,3,12-04-2024 16:00
+50224,2056,Cardiology,,Consultation,2,14-07-2024 17:00
+50225,2055,Cardiology,,Surgery,3,25-08-2024 21:00
+50226,2035,Cardiology,,Therapy,3,01-08-2024 23:00
+50227,2111,Orthopedics,,Diagnostic,1,10-11-2024 19:00
+50228,2101,Emergency,,Diagnostic,1,05-09-2024 03:00
+50229,2036,General Medicine,,ICU Support,3,22-08-2024 17:00
+50230,2028,General Medicine,,Diagnostic,3,06-05-2024 20:00
+50231,2106,Orthopedics,,Emergency Intervention,2,13-07-2024 22:00
+50232,2064,Emergency,,Diagnostic,3,28-08-2024 04:00
+50233,2058,Emergency,,Diagnostic,3,09-10-2024 13:00
+50234,2026,Orthopedics,,Diagnostic,1,10-09-2024 09:00
+50235,2108,Emergency,,Therapy,3,28-03-2024 03:00
+50236,2057,Cardiology,,ICU Support,3,28-09-2024 16:00
+50237,2079,General Medicine,,Surgery,1,23-07-2024 17:00
+50238,2083,General Medicine,,ICU Support,2,02-12-2024 07:00
+50239,2095,Orthopedics,,Emergency Intervention,1,01-03-2024 18:00
+50240,2079,Cardiology,,Therapy,1,13-12-2024 22:00
+50241,2081,Emergency,,Consultation,3,13-11-2024 19:00
+50242,2017,Cardiology,,Therapy,3,08-08-2024 18:00
+50243,2013,Emergency,,Diagnostic,2,03-09-2024 20:00
+50244,2011,Orthopedics,,Diagnostic,3,04-04-2024 13:00
+50245,2111,Oncology,,Emergency Intervention,2,15-11-2024 08:00
+50246,2103,Pediatrics,,Consultation,2,19-04-2024 19:00
+50247,2028,Pediatrics,,Therapy,2,24-12-2024 17:00
+50248,2046,Orthopedics,,Consultation,2,20-03-2024 19:00
+50249,2008,Emergency,,Surgery,3,14-04-2024 10:00
+50250,2091,Pediatrics,,ICU Support,1,27-10-2024 00:00
+50251,2048,Orthopedics,,Therapy,1,06-07-2024 19:00
+50252,2099,Pediatrics,,Consultation,3,02-07-2024 20:00
+50253,2074,Emergency,,Surgery,3,30-01-2024 12:00
+50254,2021,General Medicine,,Surgery,2,02-07-2024 22:00
+50255,2055,General Medicine,,ICU Support,3,22-07-2024 04:00
+50256,2022,Cardiology,,Surgery,1,01-03-2024 06:00
+50257,2046,General Medicine,,Emergency Intervention,3,02-08-2024 03:00
+50258,2038,Pediatrics,,Surgery,3,24-10-2024 12:00
+50259,2026,Cardiology,,Consultation,2,18-08-2024 07:00
+50260,2016,Oncology,,Emergency Intervention,2,28-07-2024 21:00
+50261,2073,Orthopedics,,Surgery,2,30-06-2024 05:00
+50262,2020,Cardiology,,Diagnostic,2,20-09-2024 21:00
+50263,2108,General Medicine,,Surgery,1,11-01-2024 06:00
+50264,2040,Pediatrics,,Emergency Intervention,3,27-09-2024 05:00
+50265,2049,General Medicine,,Surgery,3,27-02-2024 07:00
+50266,2022,Oncology,,Surgery,2,15-06-2024 17:00
+50267,2044,General Medicine,,Surgery,1,22-09-2024 20:00
+50268,2056,Oncology,,Emergency Intervention,1,09-11-2024 23:00
+50269,2081,Cardiology,,Surgery,3,17-04-2024 06:00
+50270,2060,Cardiology,,ICU Support,2,27-11-2024 19:00
+50271,2006,Orthopedics,,Consultation,3,10-12-2024 17:00
+50272,2102,Pediatrics,,ICU Support,3,09-02-2024 15:00
+50273,2072,Emergency,,Emergency Intervention,1,02-09-2024 18:00
+50274,2069,Orthopedics,,Diagnostic,1,14-09-2024 01:00
+50275,2116,Pediatrics,,ICU Support,3,14-01-2024 03:00
+50276,2023,Oncology,,Consultation,2,24-11-2024 08:00
+50277,2118,Emergency,,Therapy,2,06-06-2024 07:00
+50278,2085,General Medicine,,Consultation,3,04-04-2024 13:00
+50279,2053,Cardiology,,ICU Support,3,29-06-2024 00:00
+50280,2080,Cardiology,,Therapy,2,14-02-2024 13:00
+50281,2104,Orthopedics,,Emergency Intervention,2,08-07-2024 17:00
+50282,2023,Oncology,,Consultation,2,10-08-2024 02:00
+50283,2115,General Medicine,,Diagnostic,3,18-07-2024 16:00
+50284,2102,Pediatrics,,Therapy,1,30-09-2024 12:00
+50285,2013,Oncology,,Therapy,2,27-06-2024 09:00
+50286,2048,Orthopedics,,Consultation,2,05-07-2024 10:00
+50287,2031,General Medicine,,ICU Support,2,18-05-2024 11:00
+50288,2020,General Medicine,,Therapy,3,28-04-2024 00:00
+50289,2105,Orthopedics,,Emergency Intervention,1,23-04-2024 08:00
+50290,2001,Pediatrics,,Consultation,1,12-05-2024 11:00
+50291,2097,Cardiology,,Emergency Intervention,2,26-04-2024 21:00
+50292,2113,General Medicine,,Consultation,3,27-01-2024 12:00
+50293,2067,Pediatrics,,Emergency Intervention,1,15-08-2024 11:00
+50294,2053,Emergency,,ICU Support,3,11-07-2024 08:00
+50295,2060,Orthopedics,,Consultation,1,27-08-2024 12:00
+50296,2034,Orthopedics,,Diagnostic,2,07-08-2024 14:00
+50297,2106,Emergency,,ICU Support,3,21-04-2024 01:00
+50298,2081,General Medicine,,Emergency Intervention,2,23-06-2024 17:00
+50299,2113,Emergency,,Consultation,1,23-05-2024 22:00
+50300,2090,Cardiology,,ICU Support,1,04-08-2024 03:00
+50301,2044,Cardiology,,Emergency Intervention,2,15-01-2024 21:00
+50302,2044,Orthopedics,,Surgery,1,09-04-2024 15:00
+50303,2014,Orthopedics,,Surgery,2,15-10-2024 12:00
+50304,2096,Pediatrics,,Therapy,2,09-07-2024 11:00
+50305,2120,Cardiology,,Diagnostic,2,15-02-2024 01:00
+50306,2117,Oncology,,Surgery,1,18-08-2024 20:00
+50307,2093,General Medicine,,Emergency Intervention,3,01-05-2024 17:00
+50308,2112,Cardiology,,ICU Support,2,17-08-2024 09:00
+50309,2086,Pediatrics,,Consultation,3,03-12-2024 07:00
+50310,2060,Orthopedics,,ICU Support,1,08-09-2024 14:00
+50311,2116,Oncology,,Therapy,1,25-03-2024 00:00
+50312,2058,Cardiology,,ICU Support,3,15-03-2024 10:00
+50313,2085,Oncology,,Surgery,2,23-09-2024 08:00
+50314,2075,Oncology,,ICU Support,1,28-11-2024 11:00
+50315,2060,General Medicine,,Surgery,2,30-12-2024 06:00
+50316,2013,General Medicine,,Surgery,2,03-03-2024 23:00
+50317,2076,Emergency,,Diagnostic,3,30-03-2024 18:00
+50318,2046,Pediatrics,,Therapy,1,20-10-2024 15:00
+50319,2002,Pediatrics,,Emergency Intervention,3,13-10-2024 11:00
+50320,2100,Orthopedics,,Surgery,1,05-02-2024 08:00
+50321,2009,General Medicine,,Consultation,3,11-03-2024 20:00
+50322,2034,Emergency,,Therapy,1,05-10-2024 02:00
+50323,2031,General Medicine,,Emergency Intervention,1,08-06-2024 22:00
+50324,2016,Oncology,,Consultation,1,12-11-2024 00:00
+50325,2012,Emergency,,ICU Support,2,05-01-2024 15:00
+50326,2019,Emergency,,Therapy,2,15-04-2024 21:00
+50327,2054,Orthopedics,,Consultation,3,10-10-2024 09:00
+50328,2118,Oncology,,Therapy,3,23-10-2024 10:00
+50329,2090,Oncology,,Therapy,1,29-12-2024 01:00
+50330,2060,Cardiology,,ICU Support,1,15-08-2024 08:00
+50331,2012,Cardiology,,ICU Support,2,19-03-2024 21:00
+50332,2058,General Medicine,,Therapy,2,22-12-2024 21:00
+50333,2033,Emergency,,Consultation,2,22-12-2024 12:00
+50334,2115,Orthopedics,,Diagnostic,3,05-07-2024 08:00
+50335,2044,General Medicine,,Surgery,2,12-11-2024 13:00
+50336,2079,Pediatrics,,ICU Support,3,10-12-2024 05:00
+50337,2084,General Medicine,,Diagnostic,2,09-07-2024 07:00
+50338,2039,Oncology,,ICU Support,2,21-11-2024 06:00
+50339,2053,Pediatrics,,Therapy,1,16-02-2024 11:00
+50340,2108,Orthopedics,,Diagnostic,3,10-06-2024 11:00
+50341,2057,Orthopedics,,Consultation,2,12-04-2024 08:00
+50342,2023,Pediatrics,,Consultation,1,18-07-2024 13:00
+50343,2027,Orthopedics,,Emergency Intervention,3,24-09-2024 15:00
+50344,2072,General Medicine,,Surgery,3,08-08-2024 18:00
+50345,2117,Pediatrics,,Surgery,2,03-06-2024 15:00
+50346,2075,General Medicine,,ICU Support,3,24-02-2024 22:00
+50347,2057,Emergency,,Surgery,1,06-10-2024 14:00
+50348,2116,Orthopedics,,Emergency Intervention,1,13-10-2024 16:00
+50349,2038,Orthopedics,,Consultation,3,17-02-2024 11:00
+50350,2112,Cardiology,,Diagnostic,1,26-11-2024 20:00
+50351,2118,Pediatrics,,Diagnostic,3,05-01-2024 17:00
+50352,2032,Emergency,,Consultation,1,19-10-2024 02:00
+50353,2039,Orthopedics,,Therapy,3,05-07-2024 20:00
+50354,2094,General Medicine,,Consultation,3,21-07-2024 22:00
+50355,2070,Oncology,,Diagnostic,3,12-12-2024 11:00
+50356,2012,Emergency,,ICU Support,1,30-01-2024 12:00
+50357,2015,Emergency,,Emergency Intervention,3,09-06-2024 14:00
+50358,2058,Orthopedics,,Consultation,3,28-07-2024 15:00
+50359,2044,Pediatrics,,Therapy,2,09-04-2024 18:00
+50360,2009,General Medicine,,ICU Support,2,16-06-2024 22:00
+50361,2111,Orthopedics,,Consultation,3,25-11-2024 13:00
+50362,2119,General Medicine,,ICU Support,2,18-03-2024 20:00
+50363,2077,Emergency,,Consultation,3,14-07-2024 02:00
+50364,2110,Cardiology,,ICU Support,2,02-01-2024 09:00
+50365,2006,Oncology,,Surgery,1,01-12-2024 03:00
+50366,2032,Pediatrics,,ICU Support,1,26-05-2024 04:00
+50367,2103,Cardiology,,Surgery,3,19-11-2024 20:00
+50368,2047,Oncology,,Diagnostic,3,06-03-2024 22:00
+50369,2110,Orthopedics,,Surgery,1,06-02-2024 02:00
+50370,2082,General Medicine,,ICU Support,1,01-06-2024 17:00
+50371,2099,Orthopedics,,Emergency Intervention,2,30-06-2024 07:00
+50372,2060,Pediatrics,,Emergency Intervention,3,06-11-2024 16:00
+50373,2087,Emergency,,Diagnostic,1,06-03-2024 00:00
+50374,2088,Cardiology,,ICU Support,1,08-11-2024 18:00
+50375,2057,Orthopedics,,Surgery,3,14-05-2024 06:00
+50376,2028,Pediatrics,,Emergency Intervention,2,12-04-2024 20:00
+50377,2014,Emergency,,Consultation,2,08-02-2024 18:00
+50378,2109,Oncology,,Therapy,2,30-08-2024 01:00
+50379,2019,Orthopedics,,ICU Support,2,12-12-2024 13:00
+50380,2018,Orthopedics,,Consultation,1,01-12-2024 23:00
+50381,2106,Cardiology,,Consultation,3,18-02-2024 15:00
+50382,2109,Cardiology,,ICU Support,3,16-01-2024 00:00
+50383,2018,Emergency,,Therapy,1,03-09-2024 15:00
+50384,2094,Cardiology,,Emergency Intervention,1,09-01-2024 15:00
+50385,2120,Emergency,,Therapy,1,24-09-2024 22:00
+50386,2069,Emergency,,Diagnostic,3,01-06-2024 09:00
+50387,2119,Emergency,,Surgery,3,10-05-2024 15:00
+50388,2062,Emergency,,Surgery,3,03-08-2024 07:00
+50389,2102,Orthopedics,,Consultation,2,02-07-2024 01:00
+50390,2116,Orthopedics,,Emergency Intervention,1,13-03-2024 16:00
+50391,2006,Oncology,,Therapy,1,06-02-2024 15:00
+50392,2061,Orthopedics,,Consultation,1,11-10-2024 16:00
+50393,2096,Orthopedics,,ICU Support,3,24-11-2024 17:00
+50394,2118,General Medicine,,Consultation,1,15-07-2024 03:00
+50395,2117,Pediatrics,,ICU Support,1,27-03-2024 12:00
+50396,2099,Orthopedics,,ICU Support,2,18-02-2024 08:00
+50397,2118,Pediatrics,,Diagnostic,3,26-01-2024 01:00
+50398,2098,Orthopedics,,Diagnostic,1,09-07-2024 03:00
+50399,2108,Emergency,,ICU Support,3,02-01-2024 19:00
+50400,2054,Emergency,,Emergency Intervention,3,08-02-2024 03:00
+50401,2016,Emergency,,Diagnostic,3,03-09-2024 20:00
+50402,2094,Oncology,,Diagnostic,2,12-05-2024 04:00
+50403,2057,Orthopedics,,Surgery,3,15-04-2024 04:00
+50404,2071,Emergency,,Consultation,3,08-09-2024 07:00
+50405,2105,Orthopedics,,Surgery,3,20-06-2024 11:00
+50406,2018,Oncology,,Emergency Intervention,1,26-02-2024 17:00
+50407,2120,Oncology,,Diagnostic,2,01-07-2024 11:00
+50408,2029,General Medicine,,Diagnostic,1,02-11-2024 03:00
+50409,2038,Orthopedics,,Therapy,2,17-07-2024 19:00
+50410,2030,Orthopedics,,Emergency Intervention,2,15-11-2024 05:00
+50411,2017,Oncology,,Consultation,3,01-02-2024 04:00
+50412,2001,Orthopedics,,Consultation,3,27-02-2024 14:00
+50413,2054,Emergency,,Consultation,1,16-01-2024 16:00
+50414,2108,Cardiology,,Emergency Intervention,2,07-07-2024 10:00
+50415,2081,Orthopedics,,Therapy,3,03-01-2024 11:00
+50416,2097,Emergency,,Therapy,3,28-02-2024 23:00
+50417,2057,Cardiology,,Surgery,3,07-02-2024 09:00
+50418,2034,General Medicine,,Emergency Intervention,3,03-06-2024 09:00
+50419,2061,Oncology,,Emergency Intervention,1,12-02-2024 16:00
+50420,2097,General Medicine,,Therapy,1,17-08-2024 18:00
+50421,2081,Cardiology,,ICU Support,3,02-02-2024 16:00
+50422,2063,Emergency,,ICU Support,3,28-09-2024 20:00
+50423,2110,General Medicine,,Surgery,3,11-02-2024 00:00
+50424,2017,Pediatrics,,ICU Support,3,15-11-2024 07:00
+50425,2042,Oncology,,ICU Support,3,03-07-2024 02:00
+50426,2120,Emergency,,ICU Support,2,11-08-2024 12:00
+50427,2089,Pediatrics,,Diagnostic,2,04-09-2024 14:00
+50428,2049,Oncology,,Surgery,2,26-10-2024 09:00
+50429,2046,Pediatrics,,Therapy,2,23-12-2024 13:00
+50430,2029,Oncology,,ICU Support,3,29-04-2024 07:00
+50431,2026,Orthopedics,,Consultation,2,03-06-2024 02:00
+50432,2049,Orthopedics,,Diagnostic,2,03-01-2024 03:00
+50433,2106,Pediatrics,,ICU Support,1,10-10-2024 16:00
+50434,2003,Oncology,,Diagnostic,2,26-03-2024 11:00
+50435,2100,Oncology,,Surgery,2,14-02-2024 11:00
+50436,2107,Orthopedics,,Consultation,3,19-09-2024 13:00
+50437,2009,Oncology,,Consultation,2,11-03-2024 03:00
+50438,2035,Cardiology,,Consultation,2,25-09-2024 00:00
+50439,2042,General Medicine,,ICU Support,3,04-02-2024 00:00
+50440,2098,Orthopedics,,Diagnostic,2,11-05-2024 09:00
+50441,2100,Cardiology,,Consultation,3,03-01-2024 18:00
+50442,2050,Emergency,,Emergency Intervention,2,16-01-2024 01:00
+50443,2086,General Medicine,,Emergency Intervention,1,21-10-2024 00:00
+50444,2070,General Medicine,,Diagnostic,1,20-02-2024 13:00
+50445,2027,Pediatrics,,ICU Support,2,09-11-2024 00:00
+50446,2104,Orthopedics,,ICU Support,1,05-10-2024 11:00
+50447,2098,Oncology,,Surgery,3,19-01-2024 19:00
+50448,2052,Emergency,,Surgery,2,31-01-2024 19:00
+50449,2101,Cardiology,,Consultation,3,20-11-2024 16:00
+50450,2112,Oncology,,Therapy,1,04-11-2024 09:00
+50451,2028,Orthopedics,,Surgery,3,04-07-2024 23:00
+50452,2060,Oncology,,ICU Support,1,29-03-2024 14:00
+50453,2015,Emergency,,Therapy,1,18-06-2024 01:00
+50454,2108,Pediatrics,,Surgery,1,07-12-2024 18:00
+50455,2023,Cardiology,,Diagnostic,3,07-08-2024 09:00
+50456,2112,Emergency,,Emergency Intervention,1,28-12-2024 10:00
+50457,2077,Orthopedics,,Surgery,2,16-07-2024 10:00
+50458,2105,Pediatrics,,Surgery,1,29-06-2024 04:00
+50459,2010,Emergency,,Diagnostic,2,09-08-2024 15:00
+50460,2061,Pediatrics,,ICU Support,2,08-04-2024 03:00
+50461,2079,Cardiology,,Consultation,2,18-09-2024 04:00
+50462,2118,Oncology,,Diagnostic,2,30-09-2024 22:00
+50463,2088,Orthopedics,,Consultation,3,21-11-2024 02:00
+50464,2090,Orthopedics,,Surgery,2,26-10-2024 01:00
+50465,2114,General Medicine,,ICU Support,1,14-07-2024 07:00
+50466,2079,Pediatrics,,Therapy,2,05-07-2024 00:00
+50467,2036,Emergency,,Surgery,1,16-02-2024 00:00
+50468,2055,Emergency,,Diagnostic,3,09-03-2024 02:00
+50469,2065,Oncology,,Therapy,2,23-12-2024 22:00
+50470,2038,Cardiology,,Emergency Intervention,1,10-03-2024 06:00
+50471,2108,Cardiology,,Therapy,3,09-08-2024 03:00
+50472,2087,Pediatrics,,Diagnostic,3,08-05-2024 11:00
+50473,2109,Oncology,,Therapy,1,16-07-2024 20:00
+50474,2098,Emergency,,Diagnostic,2,25-02-2024 01:00
+50475,2066,Cardiology,,Surgery,3,27-03-2024 17:00
+50476,2063,Pediatrics,,ICU Support,1,24-11-2024 21:00
+50477,2045,Orthopedics,,Emergency Intervention,2,22-03-2024 02:00
+50478,2069,Cardiology,,ICU Support,3,15-07-2024 23:00
+50479,2032,Orthopedics,,ICU Support,1,09-04-2024 19:00
+50480,2085,Orthopedics,,ICU Support,3,29-07-2024 21:00
+50481,2092,Pediatrics,,Diagnostic,3,08-12-2024 21:00
+50482,2038,General Medicine,,Diagnostic,1,10-06-2024 14:00
+50483,2004,Orthopedics,,Emergency Intervention,3,23-03-2024 11:00
+50484,2068,General Medicine,,Diagnostic,1,08-06-2024 18:00
+50485,2012,Emergency,,Consultation,2,18-04-2024 20:00
+50486,2119,Pediatrics,,Diagnostic,1,22-11-2024 16:00
+50487,2050,General Medicine,,Diagnostic,2,14-02-2024 11:00
+50488,2013,Orthopedics,,Diagnostic,3,28-11-2024 19:00
+50489,2024,Orthopedics,,Surgery,1,21-11-2024 08:00
+50490,2040,General Medicine,,Emergency Intervention,1,18-10-2024 05:00
+50491,2052,Cardiology,,Consultation,1,20-12-2024 19:00
+50492,2084,Orthopedics,,Diagnostic,1,14-08-2024 16:00
+50493,2045,Oncology,,Emergency Intervention,2,18-12-2024 16:00
+50494,2072,Oncology,,Therapy,2,28-12-2024 02:00
+50495,2071,Pediatrics,,Surgery,3,13-08-2024 21:00
+50496,2113,General Medicine,,Diagnostic,3,15-06-2024 16:00
+50497,2037,Emergency,,Consultation,3,30-09-2024 10:00
+50498,2054,Pediatrics,,Surgery,3,23-03-2024 09:00
+50499,2103,Orthopedics,,Consultation,1,21-11-2024 13:00
+50500,2053,Oncology,,Surgery,2,08-05-2024 16:00
+50501,2093,Oncology,,Therapy,2,18-02-2024 07:00
+50502,2075,Emergency,,Emergency Intervention,2,11-01-2024 07:00
+50503,2099,Pediatrics,,Surgery,2,22-04-2024 09:00
+50504,2108,Orthopedics,,ICU Support,3,10-07-2024 00:00
+50505,2085,Emergency,,Therapy,1,12-01-2024 08:00
+50506,2102,Oncology,,ICU Support,2,09-07-2024 02:00
+50507,2095,Cardiology,,Therapy,1,24-05-2024 02:00
+50508,2011,General Medicine,,ICU Support,1,31-03-2024 06:00
+50509,2058,Orthopedics,,ICU Support,1,08-12-2024 03:00
+50510,2109,Oncology,,Consultation,1,12-10-2024 17:00
+50511,2073,General Medicine,,Surgery,2,16-06-2024 04:00
+50512,2005,Orthopedics,,Surgery,2,07-08-2024 10:00
+50513,2087,Cardiology,,Therapy,2,14-03-2024 01:00
+50514,2082,Oncology,,Emergency Intervention,3,21-11-2024 21:00
+50515,2116,Pediatrics,,Consultation,2,05-03-2024 15:00
+50516,2074,General Medicine,,Surgery,3,28-10-2024 14:00
+50517,2068,Orthopedics,,Surgery,3,25-07-2024 18:00
+50518,2039,Cardiology,,Consultation,3,28-06-2024 14:00
+50519,2077,Oncology,,Diagnostic,2,13-05-2024 12:00
+50520,2051,Cardiology,,Consultation,2,22-03-2024 17:00
+50521,2050,Pediatrics,,Surgery,2,20-10-2024 13:00
+50522,2060,Emergency,,Emergency Intervention,3,07-11-2024 06:00
+50523,2051,General Medicine,,Diagnostic,3,28-02-2024 05:00
+50524,2099,Pediatrics,,ICU Support,1,20-05-2024 13:00
+50525,2018,Emergency,,Consultation,3,27-12-2024 21:00
+50526,2093,General Medicine,,ICU Support,3,01-05-2024 04:00
+50527,2106,General Medicine,,Diagnostic,2,23-04-2024 10:00
+50528,2052,Emergency,,Diagnostic,1,15-07-2024 20:00
+50529,2030,Emergency,,Diagnostic,1,17-05-2024 00:00
+50530,2025,Oncology,,Therapy,1,03-03-2024 04:00
+50531,2031,Emergency,,Consultation,2,03-09-2024 02:00
+50532,2089,Oncology,,Emergency Intervention,1,26-10-2024 18:00
+50533,2043,Emergency,,Emergency Intervention,1,04-01-2024 00:00
+50534,2044,Oncology,,ICU Support,2,27-05-2024 15:00
+50535,2115,General Medicine,,ICU Support,1,20-09-2024 10:00
+50536,2062,Orthopedics,,ICU Support,3,03-08-2024 06:00
+50537,2016,Orthopedics,,Consultation,3,18-08-2024 13:00
+50538,2028,Emergency,,Surgery,3,27-06-2024 01:00
+50539,2002,Oncology,,ICU Support,3,23-05-2024 14:00
+50540,2029,Cardiology,,Diagnostic,3,12-03-2024 23:00
+50541,2104,Orthopedics,,ICU Support,3,06-10-2024 08:00
+50542,2051,Cardiology,,Diagnostic,3,21-03-2024 11:00
+50543,2067,General Medicine,,Therapy,3,04-09-2024 09:00
+50544,2041,General Medicine,,Surgery,3,09-05-2024 09:00
+50545,2118,Orthopedics,,Surgery,2,10-11-2024 18:00
+50546,2031,Orthopedics,,Consultation,2,16-09-2024 19:00
+50547,2038,Cardiology,,Consultation,3,19-11-2024 08:00
+50548,2040,Pediatrics,,Emergency Intervention,2,21-12-2024 18:00
+50549,2011,General Medicine,,Therapy,2,02-08-2024 07:00
+50550,2060,General Medicine,,Consultation,3,22-06-2024 18:00
+50551,2005,Oncology,,Diagnostic,3,24-12-2024 06:00
+50552,2070,Oncology,,Therapy,2,26-01-2024 09:00
+50553,2094,Pediatrics,,Surgery,3,19-02-2024 01:00
+50554,2104,Pediatrics,,Diagnostic,3,05-11-2024 06:00
+50555,2089,Pediatrics,,Therapy,3,28-11-2024 10:00
+50556,2096,Oncology,,Surgery,3,26-06-2024 15:00
+50557,2007,Oncology,,Consultation,2,08-10-2024 00:00
+50558,2049,Oncology,,Diagnostic,1,31-01-2024 07:00
+50559,2056,General Medicine,,Diagnostic,2,03-04-2024 19:00
+50560,2091,Cardiology,,Surgery,1,07-07-2024 22:00
+50561,2090,Oncology,,Diagnostic,1,11-12-2024 16:00
+50562,2035,Oncology,,Consultation,1,16-01-2024 22:00
+50563,2009,General Medicine,,Consultation,2,11-10-2024 08:00
+50564,2047,Cardiology,,Consultation,2,11-04-2024 08:00
+50565,2014,Oncology,,Surgery,2,02-02-2024 13:00
+50566,2026,Orthopedics,,ICU Support,2,26-01-2024 22:00
+50567,2112,Orthopedics,,ICU Support,2,23-02-2024 22:00
+50568,2002,Emergency,,Diagnostic,1,14-06-2024 02:00
+50569,2008,Oncology,,Consultation,2,27-11-2024 02:00
+50570,2056,Oncology,,Diagnostic,1,10-07-2024 17:00
+50571,2050,General Medicine,,Surgery,2,30-05-2024 03:00
+50572,2113,Orthopedics,,Diagnostic,2,11-04-2024 19:00
+50573,2023,Pediatrics,,Emergency Intervention,3,09-04-2024 13:00
+50574,2027,Cardiology,,ICU Support,1,22-11-2024 01:00
+50575,2018,Orthopedics,,Diagnostic,2,03-08-2024 07:00
+50576,2093,Emergency,,Diagnostic,2,11-06-2024 18:00
+50577,2004,Oncology,,Therapy,2,29-04-2024 03:00
+50578,2039,Oncology,,Diagnostic,3,20-10-2024 09:00
+50579,2102,Oncology,,Emergency Intervention,1,31-12-2024 10:00
+50580,2007,Orthopedics,,ICU Support,2,29-08-2024 05:00
+50581,2025,Orthopedics,,Therapy,2,28-07-2024 22:00
+50582,2028,Orthopedics,,Surgery,2,13-04-2024 12:00
+50583,2075,General Medicine,,Surgery,3,17-09-2024 02:00
+50584,2002,Emergency,,ICU Support,2,10-08-2024 09:00
+50585,2104,Pediatrics,,Surgery,1,20-12-2024 09:00
+50586,2098,Emergency,,Emergency Intervention,1,30-09-2024 19:00
+50587,2098,Pediatrics,,Diagnostic,1,29-08-2024 19:00
+50588,2091,General Medicine,,ICU Support,1,07-02-2024 10:00
+50589,2033,General Medicine,,Therapy,2,04-11-2024 07:00
+50590,2020,General Medicine,,Diagnostic,3,06-09-2024 17:00
+50591,2089,Orthopedics,,Surgery,3,14-01-2024 01:00
+50592,2030,Cardiology,,Surgery,3,26-02-2024 15:00
+50593,2093,Pediatrics,,Therapy,2,03-11-2024 18:00
+50594,2112,Orthopedics,,Emergency Intervention,3,25-02-2024 21:00
+50595,2013,Pediatrics,,Therapy,1,11-12-2024 09:00
+50596,2073,Cardiology,,ICU Support,2,02-10-2024 18:00
+50597,2054,Emergency,,Therapy,3,20-04-2024 02:00
+50598,2119,General Medicine,,Surgery,1,09-03-2024 10:00
+50599,2027,Cardiology,,Emergency Intervention,1,24-10-2024 22:00
+50600,2019,General Medicine,,Emergency Intervention,2,25-04-2024 04:00
+50601,2073,Oncology,,Consultation,2,27-10-2024 23:00
+50602,2035,General Medicine,,Therapy,3,02-05-2024 13:00
+50603,2107,Cardiology,,ICU Support,3,06-04-2024 22:00
+50604,2080,Emergency,,Surgery,3,06-10-2024 22:00
+50605,2033,Emergency,,Diagnostic,2,26-06-2024 23:00
+50606,2089,General Medicine,,Emergency Intervention,3,15-11-2024 00:00
+50607,2099,Pediatrics,,Therapy,3,07-06-2024 14:00
+50608,2102,Cardiology,,Consultation,1,16-08-2024 03:00
+50609,2082,General Medicine,,ICU Support,1,24-07-2024 07:00
+50610,2049,Oncology,,ICU Support,1,28-06-2024 17:00
+50611,2055,Pediatrics,,Surgery,3,04-10-2024 15:00
+50612,2035,Oncology,,Emergency Intervention,2,06-10-2024 19:00
+50613,2034,Emergency,,Surgery,1,10-12-2024 09:00
+50614,2075,Cardiology,,Consultation,2,16-03-2024 20:00
+50615,2101,Pediatrics,,Diagnostic,3,04-05-2024 06:00
+50616,2029,Cardiology,,Diagnostic,3,12-04-2024 21:00
+50617,2097,Emergency,,Diagnostic,1,02-03-2024 00:00
+50618,2067,Cardiology,,ICU Support,2,29-11-2024 18:00
+50619,2025,Pediatrics,,Emergency Intervention,1,04-11-2024 23:00
+50620,2033,Emergency,,Surgery,3,28-04-2024 13:00
+50621,2089,Pediatrics,,Surgery,2,07-08-2024 13:00
+50622,2027,General Medicine,,Consultation,1,23-04-2024 06:00
+50623,2044,General Medicine,,Diagnostic,3,19-02-2024 10:00
+50624,2107,Orthopedics,,Emergency Intervention,1,03-07-2024 23:00
+50625,2065,Oncology,,Emergency Intervention,2,07-09-2024 03:00
+50626,2070,Orthopedics,,Consultation,2,04-08-2024 00:00
+50627,2071,General Medicine,,Therapy,2,24-09-2024 22:00
+50628,2102,Cardiology,,Emergency Intervention,2,08-05-2024 21:00
+50629,2050,Emergency,,Emergency Intervention,2,25-04-2024 21:00
+50630,2011,Pediatrics,,Surgery,1,13-02-2024 06:00
+50631,2082,Emergency,,Consultation,1,29-03-2024 19:00
+50632,2024,Pediatrics,,Emergency Intervention,1,17-12-2024 07:00
+50633,2037,Cardiology,,Emergency Intervention,1,16-03-2024 07:00
+50634,2042,Pediatrics,,Surgery,3,19-05-2024 01:00
+50635,2103,Emergency,,Emergency Intervention,3,03-05-2024 03:00
+50636,2040,Cardiology,,Surgery,1,06-12-2024 13:00
+50637,2111,Orthopedics,,Therapy,3,15-06-2024 15:00
+50638,2062,General Medicine,,ICU Support,3,14-06-2024 09:00
+50639,2004,Oncology,,Surgery,2,29-12-2024 09:00
+50640,2073,Oncology,,Surgery,1,24-06-2024 02:00
+50641,2069,Cardiology,,Emergency Intervention,3,08-07-2024 01:00
+50642,2063,Pediatrics,,Surgery,3,08-10-2024 12:00
+50643,2117,Oncology,,Consultation,1,18-06-2024 08:00
+50644,2102,General Medicine,,Diagnostic,2,24-07-2024 00:00
+50645,2061,Cardiology,,Diagnostic,1,22-10-2024 17:00
+50646,2077,Oncology,,Therapy,2,18-08-2024 19:00
+50647,2061,Emergency,,Surgery,3,18-04-2024 14:00
+50648,2095,Emergency,,Consultation,2,12-11-2024 14:00
+50649,2076,Pediatrics,,Emergency Intervention,2,23-02-2024 11:00
+50650,2117,General Medicine,,Emergency Intervention,1,13-07-2024 23:00
+50651,2011,General Medicine,,ICU Support,3,20-11-2024 23:00
+50652,2031,Oncology,,Therapy,1,04-06-2024 02:00
+50653,2075,Cardiology,,Consultation,1,03-10-2024 05:00
+50654,2041,General Medicine,,Consultation,3,11-12-2024 12:00
+50655,2032,Pediatrics,,Emergency Intervention,1,17-03-2024 21:00
+50656,2055,General Medicine,,ICU Support,1,16-06-2024 09:00
+50657,2041,Emergency,,Emergency Intervention,2,12-06-2024 02:00
+50658,2082,Oncology,,ICU Support,1,13-04-2024 20:00
+50659,2017,Orthopedics,,Diagnostic,3,24-08-2024 07:00
+50660,2075,Orthopedics,,Consultation,1,02-10-2024 19:00
+50661,2052,Pediatrics,,Diagnostic,2,19-02-2024 03:00
+50662,2077,Cardiology,,Emergency Intervention,1,18-03-2024 17:00
+50663,2086,Oncology,,Therapy,1,30-01-2024 03:00
+50664,2112,Cardiology,,Surgery,1,01-06-2024 20:00
+50665,2059,Pediatrics,,Therapy,2,25-03-2024 12:00
+50666,2092,General Medicine,,Therapy,3,28-11-2024 08:00
+50667,2118,Pediatrics,,Surgery,3,22-08-2024 07:00
+50668,2033,Cardiology,,Consultation,2,04-12-2024 02:00
+50669,2109,Emergency,,Diagnostic,2,10-12-2024 21:00
+50670,2067,Pediatrics,,Diagnostic,1,28-07-2024 22:00
+50671,2120,Cardiology,,Consultation,3,12-05-2024 08:00
+50672,2039,Emergency,,Surgery,2,10-05-2024 23:00
+50673,2100,Pediatrics,,ICU Support,3,04-11-2024 05:00
+50674,2024,Orthopedics,,Therapy,1,28-10-2024 01:00
+50675,2094,Emergency,,Emergency Intervention,2,29-12-2024 11:00
+50676,2062,Orthopedics,,Diagnostic,3,16-11-2024 05:00
+50677,2019,Cardiology,,Consultation,3,24-11-2024 22:00
+50678,2080,General Medicine,,Emergency Intervention,1,13-09-2024 16:00
+50679,2072,Oncology,,Surgery,2,10-10-2024 17:00
+50680,2081,Pediatrics,,Emergency Intervention,3,03-03-2024 20:00
+50681,2059,Pediatrics,,Emergency Intervention,1,02-06-2024 11:00
+50682,2093,Pediatrics,,Therapy,3,07-03-2024 04:00
+50683,2031,General Medicine,,Surgery,1,27-11-2024 12:00
+50684,2079,General Medicine,,Emergency Intervention,3,08-02-2024 04:00
+50685,2040,Oncology,,Diagnostic,3,02-04-2024 05:00
+50686,2071,General Medicine,,Surgery,1,27-02-2024 15:00
+50687,2058,Oncology,,Diagnostic,2,24-08-2024 09:00
+50688,2006,Cardiology,,Consultation,1,12-06-2024 00:00
+50689,2015,Emergency,,Consultation,2,27-04-2024 09:00
+50690,2096,Pediatrics,,ICU Support,3,06-05-2024 01:00
+50691,2019,Emergency,,Consultation,3,13-01-2024 20:00
+50692,2068,Oncology,,Emergency Intervention,1,21-12-2024 23:00
+50693,2049,Orthopedics,,Surgery,1,21-04-2024 23:00
+50694,2068,Emergency,,Consultation,2,27-08-2024 17:00
+50695,2049,Oncology,,Diagnostic,2,24-12-2024 15:00
+50696,2023,Pediatrics,,Emergency Intervention,2,07-09-2024 03:00
+50697,2091,Emergency,,Consultation,1,10-11-2024 01:00
+50698,2106,General Medicine,,Therapy,3,14-12-2024 18:00
+50699,2028,Pediatrics,,Diagnostic,1,11-01-2024 23:00
+50700,2114,Oncology,,Diagnostic,3,25-01-2024 13:00
+50701,2001,Oncology,,ICU Support,1,06-03-2024 17:00
+50702,2021,Pediatrics,,Therapy,1,27-02-2024 01:00
+50703,2069,General Medicine,,ICU Support,2,27-02-2024 16:00
+50704,2001,Oncology,,Consultation,3,04-12-2024 09:00
+50705,2049,Cardiology,,Therapy,1,23-12-2024 03:00
+50706,2032,General Medicine,,Diagnostic,1,30-03-2024 00:00
+50707,2036,Oncology,,ICU Support,3,26-11-2024 09:00
+50708,2037,Cardiology,,Emergency Intervention,1,20-02-2024 01:00
+50709,2088,Emergency,,Therapy,3,11-07-2024 01:00
+50710,2058,General Medicine,,Diagnostic,2,03-11-2024 07:00
+50711,2085,Emergency,,Surgery,2,14-08-2024 22:00
+50712,2017,Orthopedics,,Therapy,3,22-04-2024 03:00
+50713,2004,Orthopedics,,Therapy,2,10-10-2024 13:00
+50714,2063,Emergency,,Consultation,3,04-06-2024 11:00
+50715,2061,General Medicine,,Emergency Intervention,1,27-03-2024 03:00
+50716,2067,Oncology,,Consultation,1,24-07-2024 20:00
+50717,2114,General Medicine,,Therapy,3,04-12-2024 08:00
+50718,2053,Emergency,,Therapy,1,26-06-2024 10:00
+50719,2054,Cardiology,,Emergency Intervention,2,19-02-2024 17:00
+50720,2045,Cardiology,,Emergency Intervention,1,25-05-2024 16:00
+50721,2079,Orthopedics,,ICU Support,1,22-04-2024 14:00
+50722,2023,Cardiology,,Diagnostic,3,17-04-2024 11:00
+50723,2029,Cardiology,,Diagnostic,2,10-05-2024 07:00
+50724,2003,General Medicine,,ICU Support,1,07-08-2024 18:00
+50725,2038,Emergency,,Diagnostic,1,08-10-2024 18:00
+50726,2113,Pediatrics,,Therapy,3,02-03-2024 09:00
+50727,2033,Pediatrics,,ICU Support,3,25-02-2024 12:00
+50728,2074,General Medicine,,ICU Support,2,19-12-2024 09:00
+50729,2069,Pediatrics,,Diagnostic,1,28-03-2024 09:00
+50730,2007,Emergency,,Surgery,3,30-05-2024 18:00
+50731,2026,Oncology,,Diagnostic,3,30-04-2024 07:00
+50732,2120,Pediatrics,,Consultation,3,17-01-2024 01:00
+50733,2090,Cardiology,,Surgery,2,22-08-2024 09:00
+50734,2019,Oncology,,ICU Support,3,30-08-2024 07:00
+50735,2025,Pediatrics,,Surgery,2,13-03-2024 02:00
+50736,2102,Emergency,,Therapy,2,22-11-2024 01:00
+50737,2097,Pediatrics,,Emergency Intervention,1,22-09-2024 00:00
+50738,2055,Orthopedics,,Surgery,1,06-02-2024 12:00
+50739,2014,General Medicine,,Consultation,2,21-01-2024 11:00
+50740,2019,Emergency,,Emergency Intervention,1,02-12-2024 16:00
+50741,2033,Emergency,,Therapy,1,08-01-2024 22:00
+50742,2061,Cardiology,,Consultation,3,03-12-2024 07:00
+50743,2057,Oncology,,Emergency Intervention,1,28-06-2024 19:00
+50744,2038,Orthopedics,,Therapy,2,16-11-2024 06:00
+50745,2041,Orthopedics,,Emergency Intervention,1,11-12-2024 15:00
+50746,2091,Cardiology,,Emergency Intervention,3,29-07-2024 01:00
+50747,2061,Orthopedics,,Diagnostic,2,23-01-2024 15:00
+50748,2073,Emergency,,Consultation,1,14-11-2024 01:00
+50749,2117,Emergency,,Consultation,2,15-05-2024 15:00
+50750,2006,Emergency,,Surgery,1,09-03-2024 18:00
+50751,2043,Emergency,,Consultation,3,17-03-2024 19:00
+50752,2067,Emergency,,Consultation,1,15-09-2024 21:00
+50753,2040,Oncology,,Emergency Intervention,2,27-11-2024 04:00
+50754,2090,Orthopedics,,ICU Support,2,22-05-2024 22:00
+50755,2103,Orthopedics,,Diagnostic,2,27-03-2024 23:00
+50756,2060,Cardiology,,Surgery,1,23-02-2024 21:00
+50757,2019,Oncology,,Diagnostic,1,30-12-2024 19:00
+50758,2060,Orthopedics,,Surgery,1,28-07-2024 01:00
+50759,2019,General Medicine,,Therapy,3,02-09-2024 10:00
+50760,2025,Orthopedics,,Emergency Intervention,3,16-10-2024 13:00
+50761,2042,Cardiology,,Consultation,3,14-06-2024 06:00
+50762,2071,Emergency,,Consultation,2,29-04-2024 22:00
+50763,2005,General Medicine,,ICU Support,2,30-01-2024 10:00
+50764,2025,Emergency,,Diagnostic,2,21-05-2024 01:00
+50765,2060,General Medicine,,Diagnostic,2,10-09-2024 12:00
+50766,2016,General Medicine,,Diagnostic,2,08-11-2024 16:00
+50767,2099,Emergency,,Consultation,1,08-06-2024 18:00
+50768,2107,Emergency,,Diagnostic,2,29-02-2024 15:00
+50769,2035,General Medicine,,Emergency Intervention,1,02-09-2024 16:00
+50770,2117,Oncology,,Surgery,3,11-08-2024 17:00
+50771,2013,General Medicine,,Consultation,3,25-07-2024 23:00
+50772,2094,General Medicine,,Emergency Intervention,3,25-05-2024 10:00
+50773,2105,Oncology,,Therapy,3,22-08-2024 17:00
+50774,2074,Pediatrics,,Emergency Intervention,3,03-07-2024 18:00
+50775,2017,Orthopedics,,Emergency Intervention,2,16-05-2024 04:00
+50776,2011,Cardiology,,Therapy,2,01-09-2024 07:00
+50777,2105,Orthopedics,,Emergency Intervention,2,25-05-2024 15:00
+50778,2052,Emergency,,Surgery,3,23-12-2024 16:00
+50779,2080,Pediatrics,,Consultation,3,11-07-2024 22:00
+50780,2049,Orthopedics,,ICU Support,1,14-07-2024 11:00
+50781,2081,General Medicine,,Therapy,2,23-11-2024 09:00
+50782,2109,Pediatrics,,Consultation,3,22-05-2024 16:00
+50783,2112,Emergency,,Diagnostic,3,25-07-2024 18:00
+50784,2019,Emergency,,Surgery,3,07-06-2024 06:00
+50785,2092,General Medicine,,ICU Support,1,10-05-2024 06:00
+50786,2093,Pediatrics,,Surgery,3,20-11-2024 16:00
+50787,2043,Orthopedics,,Surgery,1,07-06-2024 01:00
+50788,2027,General Medicine,,Diagnostic,1,07-05-2024 13:00
+50789,2021,Emergency,,ICU Support,2,22-09-2024 01:00
+50790,2084,Orthopedics,,Surgery,3,15-07-2024 21:00
+50791,2109,Cardiology,,Diagnostic,1,06-10-2024 04:00
+50792,2119,Emergency,,Therapy,3,15-08-2024 09:00
+50793,2105,Oncology,,Diagnostic,2,05-10-2024 08:00
+50794,2093,General Medicine,,Emergency Intervention,2,30-12-2024 15:00
+50795,2064,Oncology,,Consultation,1,12-01-2024 19:00
+50796,2083,Orthopedics,,Diagnostic,2,11-07-2024 19:00
+50797,2089,Orthopedics,,Diagnostic,2,21-11-2024 11:00
+50798,2066,Orthopedics,,Diagnostic,2,21-01-2024 12:00
+50799,2063,Orthopedics,,Surgery,3,17-10-2024 13:00
+50800,2060,Oncology,,ICU Support,3,04-04-2024 05:00
+50801,2080,General Medicine,,Diagnostic,1,16-03-2024 04:00
+50802,2014,Pediatrics,,Diagnostic,1,15-03-2024 21:00
+50803,2050,Oncology,,Emergency Intervention,2,16-08-2024 03:00
+50804,2019,Pediatrics,,Emergency Intervention,2,20-01-2024 20:00
+50805,2100,Cardiology,,Therapy,1,19-11-2024 20:00
+50806,2009,Pediatrics,,Therapy,2,08-12-2024 20:00
+50807,2005,Orthopedics,,Emergency Intervention,1,23-09-2024 14:00
+50808,2104,Orthopedics,,ICU Support,3,04-11-2024 14:00
+50809,2053,Pediatrics,,Therapy,2,11-03-2024 15:00
+50810,2059,General Medicine,,Consultation,2,01-07-2024 23:00
+50811,2107,Pediatrics,,Consultation,2,14-05-2024 04:00
+50812,2017,Emergency,,ICU Support,3,09-11-2024 03:00
+50813,2072,Oncology,,Emergency Intervention,3,20-10-2024 10:00
+50814,2013,Orthopedics,,Therapy,2,04-02-2024 23:00
+50815,2037,Oncology,,Diagnostic,1,26-12-2024 06:00
+50816,2061,Oncology,,Emergency Intervention,3,26-08-2024 20:00
+50817,2079,Oncology,,Therapy,2,14-08-2024 11:00
+50818,2062,Emergency,,ICU Support,2,04-04-2024 04:00
+50819,2037,Oncology,,Consultation,3,15-11-2024 04:00
+50820,2048,General Medicine,,ICU Support,1,01-10-2024 02:00
+50821,2063,General Medicine,,Therapy,2,08-06-2024 17:00
+50822,2074,General Medicine,,ICU Support,1,01-05-2024 16:00
+50823,2007,Cardiology,,Therapy,1,24-08-2024 09:00
+50824,2085,Emergency,,Therapy,3,06-09-2024 19:00
+50825,2002,Pediatrics,,ICU Support,2,21-05-2024 00:00
+50826,2019,Emergency,,Surgery,2,15-09-2024 10:00
+50827,2087,Emergency,,Diagnostic,1,10-11-2024 19:00
+50828,2037,Cardiology,,Emergency Intervention,3,06-10-2024 08:00
+50829,2117,General Medicine,,Consultation,3,11-09-2024 11:00
+50830,2119,Cardiology,,Diagnostic,3,08-12-2024 00:00
+50831,2043,Oncology,,Emergency Intervention,1,18-04-2024 11:00
+50832,2059,Orthopedics,,Emergency Intervention,1,11-02-2024 21:00
+50833,2038,Emergency,,Consultation,2,31-07-2024 09:00
+50834,2114,Pediatrics,,Diagnostic,3,13-10-2024 08:00
+50835,2115,Orthopedics,,Consultation,1,18-01-2024 13:00
+50836,2007,Emergency,,Therapy,3,07-10-2024 14:00
+50837,2024,Orthopedics,,Consultation,1,12-06-2024 22:00
+50838,2006,Oncology,,ICU Support,2,14-01-2024 14:00
+50839,2008,Pediatrics,,Surgery,3,01-09-2024 03:00
+50840,2100,Pediatrics,,Surgery,1,06-04-2024 07:00
+50841,2040,General Medicine,,Surgery,3,12-01-2024 21:00
+50842,2105,Orthopedics,,Diagnostic,1,01-08-2024 07:00
+50843,2115,General Medicine,,Diagnostic,1,21-03-2024 05:00
+50844,2045,Cardiology,,Therapy,1,24-05-2024 12:00
+50845,2055,Emergency,,Surgery,3,19-08-2024 15:00
+50846,2029,Orthopedics,,Therapy,1,04-04-2024 09:00
+50847,2105,Orthopedics,,Surgery,2,21-06-2024 05:00
+50848,2088,Emergency,,Diagnostic,3,04-06-2024 05:00
+50849,2060,General Medicine,,ICU Support,2,02-09-2024 16:00
+50850,2057,Oncology,,ICU Support,2,08-02-2024 08:00
+50851,2026,General Medicine,,ICU Support,3,29-04-2024 10:00
+50852,2041,Cardiology,,Consultation,1,24-05-2024 18:00
+50853,2030,Pediatrics,,ICU Support,2,05-02-2024 01:00
+50854,2049,General Medicine,,Emergency Intervention,3,09-08-2024 04:00
+50855,2052,Pediatrics,,Surgery,1,28-01-2024 00:00
+50856,2105,Emergency,,ICU Support,3,16-09-2024 12:00
+50857,2117,Orthopedics,,Emergency Intervention,3,31-08-2024 08:00
+50858,2055,Orthopedics,,Emergency Intervention,3,24-11-2024 13:00
+50859,2059,Pediatrics,,Emergency Intervention,1,15-09-2024 12:00
+50860,2010,Orthopedics,,Therapy,2,10-10-2024 08:00
+50861,2087,Cardiology,,Therapy,2,26-11-2024 11:00
+50862,2001,General Medicine,,Emergency Intervention,3,20-05-2024 04:00
+50863,2118,Oncology,,Consultation,3,05-04-2024 22:00
+50864,2091,Orthopedics,,ICU Support,1,17-04-2024 03:00
+50865,2120,Pediatrics,,Surgery,3,15-01-2024 01:00
+50866,2098,Pediatrics,,Consultation,3,04-07-2024 15:00
+50867,2006,Oncology,,Diagnostic,3,19-04-2024 06:00
+50868,2082,General Medicine,,Therapy,2,29-01-2024 20:00
+50869,2028,Orthopedics,,ICU Support,3,14-05-2024 23:00
+50870,2086,Orthopedics,,ICU Support,2,03-11-2024 09:00
+50871,2090,Pediatrics,,Diagnostic,1,09-05-2024 10:00
+50872,2086,Cardiology,,Diagnostic,1,24-09-2024 13:00
+50873,2048,Emergency,,ICU Support,2,13-08-2024 14:00
+50874,2081,Pediatrics,,Diagnostic,2,13-06-2024 16:00
+50875,2011,Pediatrics,,ICU Support,2,02-11-2024 17:00
+50876,2043,Cardiology,,Consultation,2,13-03-2024 04:00
+50877,2052,Oncology,,Diagnostic,3,02-03-2024 15:00
+50878,2036,Emergency,,Consultation,2,01-12-2024 18:00
+50879,2022,Emergency,,Consultation,2,08-06-2024 01:00
+50880,2064,Emergency,,Diagnostic,2,01-03-2024 05:00
+50881,2053,General Medicine,,ICU Support,3,29-12-2024 04:00
+50882,2102,Emergency,,Emergency Intervention,3,15-08-2024 02:00
+50883,2006,Oncology,,ICU Support,3,03-01-2024 00:00
+50884,2080,General Medicine,,Surgery,1,14-05-2024 06:00
+50885,2007,Cardiology,,Diagnostic,3,26-10-2024 23:00
+50886,2045,General Medicine,,Therapy,2,21-10-2024 08:00
+50887,2064,Orthopedics,,Diagnostic,3,16-06-2024 13:00
+50888,2005,Emergency,,Surgery,3,22-12-2024 02:00
+50889,2088,Cardiology,,Consultation,2,08-12-2024 00:00
+50890,2118,General Medicine,,Therapy,3,20-08-2024 23:00
+50891,2077,Emergency,,Therapy,1,06-06-2024 13:00
+50892,2113,Orthopedics,,ICU Support,3,26-08-2024 19:00
+50893,2015,Oncology,,Emergency Intervention,1,18-08-2024 16:00
+50894,2078,Pediatrics,,ICU Support,1,20-08-2024 00:00
+50895,2078,Orthopedics,,Therapy,1,25-03-2024 05:00
+50896,2081,General Medicine,,Therapy,2,13-05-2024 10:00
+50897,2038,Cardiology,,Emergency Intervention,3,04-04-2024 05:00
+50898,2006,Pediatrics,,Diagnostic,1,20-05-2024 13:00
+50899,2046,Cardiology,,Emergency Intervention,1,04-02-2024 05:00
+50900,2062,Emergency,,Consultation,3,30-01-2024 18:00
+50901,2050,Oncology,,ICU Support,2,18-06-2024 23:00
+50902,2119,Oncology,,Diagnostic,2,30-03-2024 00:00
+50903,2108,Cardiology,,ICU Support,1,06-11-2024 17:00
+50904,2031,Cardiology,,Emergency Intervention,2,05-08-2024 21:00
+50905,2004,Emergency,,Diagnostic,3,30-09-2024 04:00
+50906,2076,Emergency,,Emergency Intervention,2,29-06-2024 06:00
+50907,2087,Cardiology,,Consultation,3,20-01-2024 17:00
+50908,2110,Emergency,,Surgery,1,06-07-2024 02:00
+50909,2007,Pediatrics,,Therapy,3,12-02-2024 08:00
+50910,2118,Cardiology,,Diagnostic,1,14-11-2024 14:00
+50911,2009,Emergency,,Therapy,3,04-10-2024 23:00
+50912,2078,Oncology,,Surgery,3,31-10-2024 12:00
+50913,2088,General Medicine,,Diagnostic,2,17-02-2024 07:00
+50914,2034,General Medicine,,Therapy,3,20-05-2024 18:00
+50915,2013,Oncology,,Therapy,1,25-09-2024 22:00
+50916,2115,Emergency,,Diagnostic,3,27-04-2024 13:00
+50917,2034,Emergency,,Therapy,1,26-04-2024 09:00
+50918,2070,Oncology,,Therapy,1,01-06-2024 15:00
+50919,2044,Orthopedics,,Diagnostic,3,21-04-2024 02:00
+50920,2077,General Medicine,,Therapy,2,16-06-2024 03:00
+50921,2052,Cardiology,,Therapy,3,09-03-2024 15:00
+50922,2074,Emergency,,ICU Support,3,29-01-2024 05:00
+50923,2034,General Medicine,,Consultation,2,27-12-2024 08:00
+50924,2073,Emergency,,ICU Support,1,06-08-2024 07:00
+50925,2072,Emergency,,Surgery,3,13-02-2024 12:00
+50926,2037,General Medicine,,ICU Support,2,29-09-2024 08:00
+50927,2056,Cardiology,,ICU Support,2,27-12-2024 07:00
+50928,2028,Cardiology,,Surgery,1,29-03-2024 20:00
+50929,2015,Orthopedics,,Therapy,2,23-06-2024 06:00
+50930,2054,General Medicine,,Therapy,1,09-03-2024 19:00
+50931,2083,Orthopedics,,ICU Support,3,22-04-2024 16:00
+50932,2070,Cardiology,,Surgery,2,25-07-2024 18:00
+50933,2107,Pediatrics,,Therapy,3,31-05-2024 01:00
+50934,2086,Oncology,,Emergency Intervention,2,15-01-2024 05:00
+50935,2095,Emergency,,Diagnostic,2,16-01-2024 01:00
+50936,2087,Orthopedics,,Diagnostic,3,29-01-2024 01:00
+50937,2064,Orthopedics,,Consultation,2,11-01-2024 18:00
+50938,2100,General Medicine,,Diagnostic,3,24-12-2024 01:00
+50939,2010,General Medicine,,ICU Support,3,23-12-2024 06:00
+50940,2082,Pediatrics,,Diagnostic,1,24-04-2024 05:00
+50941,2033,General Medicine,,Diagnostic,3,08-03-2024 18:00
+50942,2017,General Medicine,,Emergency Intervention,1,05-04-2024 19:00
+50943,2056,Cardiology,,Therapy,3,25-10-2024 14:00
+50944,2003,General Medicine,,Emergency Intervention,2,28-09-2024 13:00
+50945,2091,General Medicine,,ICU Support,3,26-07-2024 14:00
+50946,2093,General Medicine,,Diagnostic,2,10-03-2024 18:00
+50947,2051,Pediatrics,,Therapy,1,09-05-2024 20:00
+50948,2038,Emergency,,Consultation,2,25-11-2024 14:00
+50949,2040,General Medicine,,Consultation,3,23-02-2024 15:00
+50950,2115,Orthopedics,,Diagnostic,2,20-04-2024 08:00
+50951,2053,Orthopedics,,Diagnostic,1,19-05-2024 16:00
+50952,2088,Cardiology,,Consultation,2,07-05-2024 11:00
+50953,2113,Cardiology,,Consultation,2,19-05-2024 12:00
+50954,2048,Pediatrics,,ICU Support,3,19-02-2024 19:00
+50955,2049,Emergency,,Diagnostic,3,08-11-2024 09:00
+50956,2103,Oncology,,Consultation,2,02-10-2024 21:00
+50957,2054,Emergency,,Surgery,1,07-12-2024 08:00
+50958,2026,General Medicine,,Consultation,2,06-12-2024 20:00
+50959,2060,General Medicine,,Therapy,1,17-01-2024 03:00
+50960,2090,Oncology,,Therapy,1,05-02-2024 05:00
+50961,2048,Emergency,,Surgery,1,23-01-2024 23:00
+50962,2047,Orthopedics,,ICU Support,2,06-03-2024 06:00
+50963,2053,Cardiology,,Diagnostic,1,27-08-2024 00:00
+50964,2107,Pediatrics,,Diagnostic,2,10-09-2024 11:00
+50965,2015,General Medicine,,Consultation,1,13-01-2024 14:00
+50966,2061,Orthopedics,,Therapy,1,19-03-2024 13:00
+50967,2118,Pediatrics,,ICU Support,2,26-09-2024 17:00
+50968,2052,Cardiology,,ICU Support,3,27-02-2024 14:00
+50969,2067,General Medicine,,ICU Support,3,12-09-2024 00:00
+50970,2086,Oncology,,Consultation,2,06-07-2024 19:00
+50971,2097,Oncology,,Diagnostic,2,12-10-2024 06:00
+50972,2033,Pediatrics,,ICU Support,3,08-01-2024 19:00
+50973,2118,Orthopedics,,Consultation,3,25-02-2024 00:00
+50974,2085,General Medicine,,Consultation,3,26-03-2024 01:00
+50975,2040,General Medicine,,Surgery,2,09-02-2024 17:00
+50976,2009,Oncology,,Emergency Intervention,1,29-05-2024 08:00
+50977,2052,Emergency,,ICU Support,2,01-12-2024 08:00
+50978,2062,Orthopedics,,Emergency Intervention,3,27-01-2024 18:00
+50979,2035,Orthopedics,,Diagnostic,1,25-06-2024 13:00
+50980,2075,Orthopedics,,Consultation,2,04-03-2024 12:00
+50981,2017,Orthopedics,,ICU Support,3,27-06-2024 09:00
+50982,2037,Orthopedics,,Therapy,2,30-01-2024 03:00
+50983,2067,Oncology,,Diagnostic,1,23-06-2024 11:00
+50984,2091,General Medicine,,Surgery,3,25-07-2024 07:00
+50985,2120,Emergency,,Surgery,2,09-10-2024 05:00
+50986,2013,Emergency,,Emergency Intervention,1,03-12-2024 02:00
+50987,2013,Oncology,,Consultation,1,29-08-2024 10:00
+50988,2033,Pediatrics,,Emergency Intervention,2,02-11-2024 18:00
+50989,2010,General Medicine,,Therapy,1,15-02-2024 15:00
+50990,2036,Oncology,,Therapy,3,27-06-2024 10:00
+50991,2088,Oncology,,Surgery,1,18-09-2024 02:00
+50992,2018,Orthopedics,,ICU Support,2,04-03-2024 10:00
+50993,2117,General Medicine,,Surgery,3,20-11-2024 05:00
+50994,2004,Cardiology,,Surgery,1,18-07-2024 16:00
+50995,2009,Oncology,,Therapy,1,13-11-2024 23:00
+50996,2006,Oncology,,Emergency Intervention,3,27-11-2024 19:00
+50997,2031,Cardiology,,Therapy,3,28-04-2024 22:00
+50998,2050,Cardiology,,Consultation,1,10-11-2024 13:00
+50999,2066,Cardiology,,Therapy,3,18-05-2024 15:00
+51000,2078,Cardiology,,Therapy,2,18-09-2024 11:00

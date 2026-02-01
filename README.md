@@ -14,6 +14,8 @@ Tools Used****
 •	GitHub
 **Live Dashboard**
  https://public.tableau.com/views/HospitalDashboard_17699183967880/HospitalExecutiveOverviewDashboard
+ https://public.tableau.com/views/HospitalDashboard_17699183967880/OperationalEfficiencyDepartmentPerformanceDashboard
+ https://public.tableau.com/views/HospitalDashboard_17699183967880/FinancialPerformanceCostAnalysisDashboard
 
 **Files Included**
 •	Hospital Dashboard.twb
